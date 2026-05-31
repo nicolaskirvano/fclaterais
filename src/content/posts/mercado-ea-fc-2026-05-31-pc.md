@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:26.000Z
+pubDatetime: 2026-05-31T21:28:31.000Z
 title: "Laterais no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Nerea Nevado (89), -46.9% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 76 cartas em alta contra 104 em queda (média 0.68%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 78 cartas em alta contra 99 em queda (média 1.07%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **76 subiram** e **104 caíram**, com variação média de **0.68%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **78 subiram** e **99 caíram**, com variação média de **1.07%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Andrei Rațiu (92) **+57.3%** · 🔴 **Maior baixa:** Nerea Nevado (89) **-46.9%**
 
@@ -39,9 +39,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Danny da Costa | 84 | Bundesliga | 25k coins | +39.4% | +6.4% |
 | Ashley Cole | 88 | — | 22k coins | +37.5% | +37.5% |
 | Kerstin Casparij | 96 | — | 38k coins | +35.7% | +16% |
+| Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% |
+| Gianluca Zambrotta | 86 | Icons | 85k coins | +26.9% | +12.6% |
 | Jules Koundé | 94 | LALIGA EA SPORTS | 750k coins | +25.2% | +17.6% |
-| Roberto Carlos | 90 | Icons | 800k coins | +23.1% | +14.4% |
-| David Raum | 87 | Bundesliga | 22k coins | +22.5% | +13% |
 
 
 ### Análise das altas
@@ -66,7 +66,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Marcos Llorente | 86 | LALIGA EA SPORTS | 117k coins | -26.4% | -22% |
 | David Raum | 92 | — | 22k coins | -25.8% | -9.2% |
 | Wesley | 88 | Serie A TIM | 39k coins | -21.6% | -21.6% |
-| Bixente Lizarazu | 90 | — | 20k coins | -18.4% | -3.6% |
+| Micah Richards | 85 | Premier League | 21k coins | -19.2% | -42.5% |
 
 
 ### Análise das baixas
@@ -92,11 +92,13 @@ Andrei Rațiu (92, sem liga), com +57.3% em 24h, a 38k coins no PC.
 Nerea Nevado (89), -46.9% em 24h, a 21k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 76 cartas em alta contra 104 em queda (média 0.68%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 78 cartas em alta contra 99 em queda (média 1.07%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

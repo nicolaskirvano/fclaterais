@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:25.000Z
+pubDatetime: 2026-05-31T21:28:30.000Z
 title: "Melhores investimentos em Laterais no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "João Cancelo (87, ROSHN Saudi League) lidera, com +62.9% em 7 dias a 57k coins no Console (PS), e o modelo dá 43% de chance de seguir subindo."
+    a: "Nuno Tavares (87, Serie A TIM) lidera, com +74.1% em 7 dias a 47k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** João Cancelo (87) acumula **+62.9% em 7 dias** a 57k coins.
+> 🔝 **Destaque:** Nuno Tavares (87) acumula **+74.1% em 7 dias** a 47k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Cancelo | 87 | ROSHN Saudi League | 57k coins | +2.7% | +62.9% | 43% |
-| Maicon | 90 | Serie A TIM | 100k coins | +22% | +56.2% | 51% |
-| Avery Patterson | 93 | — | 22k coins | +3.6% | +55.4% | 93% |
-| Joshua Kimmich | 89 | Bundesliga | 100k coins | +5.3% | +44.9% | 27% |
-| Nina Lührßen | 93 | — | 22k coins | +2.4% | +41% | 68% |
-| Matthieu Udol | 93 | — | 22k coins | +2.4% | +38.7% | 55% |
-| Marco Palestra | 93 | — | 22k coins | +3.6% | +38.1% | 60% |
-| Aaron Wan-Bissaka | 89 | Premier League | 55k coins | +10% | +37.5% | 5% |
-| Maximilian Mittelstädt | 88 | Bundesliga | 25k coins | +7.5% | +37% | 16% |
-| John Arne Riise | 88 | Premier League | 28k coins | +14% | +35.7% | 5% |
-| Lilian Thuram | 89 | — | 78k coins | +15.6% | +31.1% | 35% |
-| Bart van Rooij | 92 | — | 22k coins | +3.4% | +30.4% | 5% |
-| Maicon | 89 | Serie A TIM | 146k coins | +15.9% | +30.4% | 23% |
-| Joelle Wedemeyer | 89 | GPFBL | 19k coins | +33.9% | +29.3% | 68% |
+| Nuno Tavares | 87 | Serie A TIM | 47k coins | +6.8% | +74.1% | 5% |
+| Maicon | 90 | Serie A TIM | 100k coins | +7% | +61.3% | 51% |
+| Rayan Aït-Nouri | 90 | Premier League | 78k coins | +16.4% | +50% | 5% |
+| Hanna Lundkvist | 87 | Barclays WSL | 22k coins | +18.4% | +50% | 39% |
+| Avery Patterson | 93 | — | 22k coins | +4.6% | +47.5% | 93% |
+| Matthieu Udol | 93 | — | 22k coins | +7.1% | +38.5% | 55% |
+| Marco Palestra | 93 | — | 22k coins | +7.1% | +38.5% | 60% |
+| Nina Lührßen | 93 | — | 22k coins | +2.3% | +37.5% | 68% |
+| Giulia Gwinn | 89 | GPFBL | 30k coins | +36.4% | +34.8% | 5% |
+| Fabio Fehr | 93 | — | 23k coins | +4.6% | +33.8% | 5% |
+| Joshua Kimmich | 89 | Bundesliga | 112k coins | +19.8% | +31% | 27% |
+| Tariq Lamptey | 89 | — | 19k coins | +15.4% | +29.3% | 46% |
+| Nico O'Reilly | 88 | Premier League | 38k coins | +6.2% | +27.5% | 95% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 106k coins | +8.2% | +27% | 95% |
 | John Arne Riise | 86 | Premier League | 17k coins | +24.1% | +26.4% | 93% |
 
 
 ## 📈 Análise dos destaques
 
-- **João Cancelo (87)** — 57k coins, **+62.9% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nuno Tavares (87)** — 47k coins, **+74.1% em 7 dias** (+6.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Maicon (90)** — 100k coins, **+56.2% em 7 dias** (+22% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maicon (90)** — 100k coins, **+61.3% em 7 dias** (+7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Avery Patterson (93)** — 22k coins, **+55.4% em 7 dias** (+3.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **93% de chance de seguir subindo**.
+- **Rayan Aït-Nouri (90)** — 78k coins, **+50% em 7 dias** (+16.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Joshua Kimmich (89)** — 100k coins, **+44.9% em 7 dias** (+5.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Hanna Lundkvist (87)** — 22k coins, **+50% em 7 dias** (+18.4% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nina Lührßen (93)** — 22k coins, **+41% em 7 dias** (+2.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Avery Patterson (93)** — 22k coins, **+47.5% em 7 dias** (+4.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **93% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-João Cancelo (87, ROSHN Saudi League) lidera, com +62.9% em 7 dias a 57k coins no Console (PS), e o modelo dá 43% de chance de seguir subindo.
+Nuno Tavares (87, Serie A TIM) lidera, com +74.1% em 7 dias a 47k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -84,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 
