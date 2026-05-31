@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:31.000Z
+pubDatetime: 2026-05-31T22:11:02.000Z
 title: "Melhores investimentos em Laterais no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Marcelo (89, Icons) lidera, com +50.8% em 7 dias a 178k coins no PC, e o modelo dá 21% de chance de seguir subindo."
+    a: "Nuno Tavares (91, Serie A TIM) lidera, com +71.1% em 7 dias a 68k coins no PC, e o modelo dá 57% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Marcelo (89) acumula **+50.8% em 7 dias** a 178k coins.
+> 🔝 **Destaque:** Nuno Tavares (91) acumula **+71.1% em 7 dias** a 68k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
+| Nuno Tavares | 91 | Serie A TIM | 68k coins | +10.6% | +71.1% | 57% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 25k coins | +7.6% | +70.7% | 22% |
+| Francisco Moura | 90 | Liga Portugal | 25k coins | +8.7% | +61.3% | 23% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 61k coins | +6.1% | +55.4% | 25% |
 | Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% | 21% |
-| Nina Lührßen | 93 | — | 20k coins | +5.2% | +47.3% | 0% |
-| Matthieu Udol | 93 | — | 20k coins | +1.3% | +41.1% | 0% |
-| Ashley Cole | 88 | — | 22k coins | +37.5% | +37.5% | 50% |
-| Marco Palestra | 93 | — | 20k coins | +5.1% | +36.7% | 16% |
-| Lewis Hall | 90 | — | 24k coins | +7.7% | +36.1% | 0% |
-| Avery Patterson | 93 | — | 20k coins | +1.2% | +35% | 0% |
-| Santiago Mouriño | 93 | — | 20k coins | +5.2% | +26.6% | 0% |
-| Federico Dimarco | 96 | — | 42k coins | +6.3% | +24.4% | 33% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 32k coins | +10.3% | +23.1% | 48% |
-| Katie McCabe | 92 | — | 28k coins | +7.6% | +21.3% | 0% |
-| Lilly Reale | 91 | — | 20k coins | +4% | +20% | 0% |
-| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +13% | +18.2% | 62% |
-| Kerstin Casparij | 96 | — | 38k coins | +35.7% | +16% | 0% |
-| Ashley Cole | 86 | Icons | 75k coins | +11.9% | +15.4% | 13% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 37k coins | +16.4% | +50.5% | 45% |
+| Nina Lührßen | 93 | — | 21k coins | +9% | +49.1% | 0% |
+| Danny da Costa | 84 | Bundesliga | 22k coins | +23.3% | +47.5% | 32% |
+| Marco Palestra | 93 | — | 21k coins | +9% | +46.6% | 16% |
+| Avery Patterson | 93 | — | 21k coins | +9% | +46.6% | 0% |
+| Matthieu Udol | 93 | — | 22k coins | +10.3% | +43.3% | 0% |
+| Reece James | 91 | — | 48k coins | +6.7% | +37.1% | 0% |
+| Marcus Pedersen | 88 | Serie A TIM | 28k coins | +34.1% | +35.7% | 39% |
+| Mateo Chávez | 88 | — | 30k coins | +35.2% | +30.8% | 42% |
+| Tristan Crama | 92 | — | 34k coins | +35.6% | +29.2% | 0% |
 
 
 ## 📈 Análise dos destaques
 
+- **Nuno Tavares (91)** — 68k coins, **+71.1% em 7 dias** (+10.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Ben Chilwell (90)** — 25k coins, **+70.7% em 7 dias** (+7.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Francisco Moura (90)** — 25k coins, **+61.3% em 7 dias** (+8.7% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Giovanni Di Lorenzo (86)** — 61k coins, **+55.4% em 7 dias** (+6.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
 - **Marcelo (89)** — 178k coins, **+50.8% em 7 dias** (+31.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Nina Lührßen (93)** — 20k coins, **+47.3% em 7 dias** (+5.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Matthieu Udol (93)** — 20k coins, **+41.1% em 7 dias** (+1.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Ashley Cole (88)** — 22k coins, **+37.5% em 7 dias** (+37.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Marco Palestra (93)** — 20k coins, **+36.7% em 7 dias** (+5.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Marcelo (89, Icons) lidera, com +50.8% em 7 dias a 178k coins no PC, e o modelo dá 21% de chance de seguir subindo.
+Nuno Tavares (91, Serie A TIM) lidera, com +71.1% em 7 dias a 68k coins no PC, e o modelo dá 57% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

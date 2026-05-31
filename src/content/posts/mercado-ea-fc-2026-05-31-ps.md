@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:30.000Z
+pubDatetime: 2026-05-31T22:11:01.000Z
 title: "Laterais no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Julian Araujo (89), -42.6% em 24h, a 49k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 50k coins."
+    a: "Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 84 cartas em alta contra 148 em queda (média -1.23%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 83 cartas em alta contra 147 em queda (média -0.96%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **84 subiram** e **148 caíram**, com variação média de **-1.23%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **83 subiram** e **147 caíram**, com variação média de **-0.96%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Alphonso Davies (89) **+38.8%** · 🔴 **Maior baixa:** Julian Araujo (89) **-42.6%**
 
@@ -36,6 +36,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | --- | --- | --- | --- | --- | --- |
 | Alphonso Davies | 89 | Bundesliga | 118k coins | +38.8% | +12.4% |
 | Giulia Gwinn | 89 | GPFBL | 30k coins | +36.4% | +34.8% |
+| Maicon | 88 | Serie A TIM | 62k coins | +30.9% | +25% |
 | Theo Hernández | 88 | ROSHN Saudi League | 483k coins | +27.4% | +1% |
 | Andrew Robertson | 86 | Premier League | 359k coins | +25.1% | +47.7% |
 | Balde | 86 | LALIGA EA SPORTS | 59k coins | +22.9% | -4.8% |
@@ -43,7 +44,6 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Riccardo Calafiori | 90 | Premier League | 465k coins | +19.5% | +22.7% |
 | Hanna Lundkvist | 87 | Barclays WSL | 22k coins | +18.4% | +50% |
 | Lewis Miley | 89 | Premier League | 30k coins | +18% | +13.5% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 4.60M coins | +18% | +3% |
 
 
 ### Análise das altas
@@ -52,7 +52,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Giulia Gwinn (89)** subiu **+36.4%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está +40% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Theo Hernández (88)** subiu **+27.4%** em 24h, a **483k coins** (faixa do dia: 360k–545k). Está +19% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Maicon (88)** subiu **+30.9%** em 24h, a **62k coins** (faixa do dia: 44k–62k). Está +11% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -86,13 +86,13 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovanni Di Lorenzo | 85 | 50k coins | 59k coins | 95% |
-| Alexander Bah | 86 | 112k coins | 133k coins | 95% |
 | Lewis Miley | 89 | 30k coins | 35k coins | 95% |
-| Elliot Stroud | 94 | 29k coins | 34k coins | 95% |
 | Alex Scott | 93 | 49k coins | 66k coins | 95% |
-| Jurriën Timber | 87 | 33k coins | 42k coins | 95% |
+| Javier Zanetti | 89 | 68k coins | 79k coins | 95% |
+| Alexander Bah | 86 | 112k coins | 133k coins | 95% |
+| Elliot Stroud | 94 | 29k coins | 34k coins | 95% |
 | Alphonso Davies | 89 | 118k coins | 159k coins | 95% |
+| Lilian Thuram | 88 | 235k coins | 279k coins | 95% |
 | Ferland Mendy | 87 | 106k coins | 126k coins | 95% |
 
 
@@ -126,10 +126,10 @@ Alphonso Davies (89, Bundesliga), com +38.8% em 24h, a 118k coins no Console (PS
 Julian Araujo (89), -42.6% em 24h, a 49k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 50k coins.
+Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 84 cartas em alta contra 148 em queda (média -1.23%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 83 cartas em alta contra 147 em queda (média -0.96%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

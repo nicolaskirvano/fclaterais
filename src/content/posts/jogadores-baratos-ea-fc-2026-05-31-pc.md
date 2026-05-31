@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:31.000Z
+pubDatetime: 2026-05-31T22:11:03.000Z
 title: "Jogadores baratos de Laterais no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 9k coins | +29% |
+| Tariq Lamptey | 89 | RB | — | 14k coins | -24.3% |
+| Ona Batlle | 88 | RB | — | 13k coins | -5.6% |
+| Tarciane | 88 | RB | D1 Arkema | 14k coins | +3.7% |
 | Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +33.3% |
-| Itziar Pinillos | 87 | RB | — | 12k coins | -8% |
+| Iñigo Martínez | 87 | LB | ROSHN Saudi League | 11k coins | -10.2% |
+| Pervis Estupiñán | 87 | LB | Serie A TIM | 11k coins | -8.2% |
+| Itziar Pinillos | 87 | RB | — | 12k coins | -4.2% |
+| Mërgim Vojvoda | 87 | RB | — | 12k coins | -4.2% |
+| Ferdi Kadıoğlu | 87 | LB | — | 12k coins | -9.8% |
+| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 12k coins | -6.1% |
 | Tom Bischof | 87 | LB | — | 12k coins | -8% |
-| Iñigo Martínez | 87 | LB | ROSHN Saudi League | 12k coins | -6.1% |
-| João Mário | 87 | RB | — | 12k coins | -7.8% |
-| Santiago Mouriño | 87 | RB | LALIGA EA SPORTS | 12k coins | -59.5% |
-| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 12k coins | -2% |
-| Federico Dimarco | 87 | LB | Serie A TIM | 12k coins | -71.3% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 12k coins | -13.8% |
-| Nahuel Molina | 87 | RB | LALIGA EA SPORTS | 13k coins | +8.3% |
+| João Mário | 87 | RB | — | 12k coins | -9.8% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | 0% |
 | Oleksandr Zinchenko | 87 | LB | Premier League | 14k coins | 0% |
-| Pervis Estupiñán | 87 | LB | Serie A TIM | 15k coins | +15.7% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +5% |
-| Julian Ryerson | 86 | RB | Bundesliga | 11k coins | -76.1% |
 
 
 ## 📈 Destaques
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
 
+- **Tariq Lamptey (89, RB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ona Batlle (88, RB)** da —, a apenas **13k coins**
+
+- **Tarciane (88, RB)** da D1 Arkema, a apenas **14k coins**
+
 - **Lucy Bronze (87, RB)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Itziar Pinillos (87, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Tom Bischof (87, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Iñigo Martínez (87, LB)** da ROSHN Saudi League, a apenas **12k coins**
 
 
 ## Por que estas cartas?

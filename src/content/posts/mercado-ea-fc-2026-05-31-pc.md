@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:31.000Z
+pubDatetime: 2026-05-31T22:11:02.000Z
 title: "Laterais no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Andrei Rațiu (92, sem liga), com +57.3% em 24h, a 38k coins no PC."
+    a: "Álvaro Carreras (86, LALIGA EA SPORTS), com +59.4% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nerea Nevado (89), -46.9% em 24h, a 21k coins."
+    a: "Konrad Laimer (84), -45.4% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 78 cartas em alta contra 99 em queda (média 1.07%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 82 cartas em alta contra 96 em queda (média 1.57%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **78 subiram** e **99 caíram**, com variação média de **1.07%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **82 subiram** e **96 caíram**, com variação média de **1.57%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Andrei Rațiu (92) **+57.3%** · 🔴 **Maior baixa:** Nerea Nevado (89) **-46.9%**
+> 🟢 **Maior alta:** Álvaro Carreras (86) **+59.4%** · 🔴 **Maior baixa:** Konrad Laimer (84) **-45.4%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrei Rațiu | 92 | — | 38k coins | +57.3% | -19.2% |
-| Nuno Tavares | 91 | Serie A TIM | 65k coins | +53.8% | +63.5% |
-| Christian Günter | 88 | Bundesliga | 35k coins | +51.1% | +6.1% |
-| Theo Hernández | 88 | ROSHN Saudi League | 649k coins | +43% | +12.1% |
-| Danny da Costa | 84 | Bundesliga | 25k coins | +39.4% | +6.4% |
-| Ashley Cole | 88 | — | 22k coins | +37.5% | +37.5% |
-| Kerstin Casparij | 96 | — | 38k coins | +35.7% | +16% |
+| Álvaro Carreras | 86 | LALIGA EA SPORTS | 55k coins | +59.4% | -40.2% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 42k coins | +54.6% | +3.7% |
+| Fridolina Rolfö | 90 | Barclays WSL | 103k coins | +53.7% | +26.4% |
+| Tristan Crama | 92 | — | 34k coins | +35.6% | +29.2% |
+| Mateo Chávez | 88 | — | 30k coins | +35.2% | +30.8% |
+| Marcus Pedersen | 88 | Serie A TIM | 28k coins | +34.1% | +35.7% |
 | Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% |
+| Allegra Poljak | 87 | Liga F | 27k coins | +30.1% | -10% |
+| João Cancelo | 87 | ROSHN Saudi League | 45k coins | +28.8% | -70.2% |
 | Gianluca Zambrotta | 86 | Icons | 85k coins | +26.9% | +12.6% |
-| Jules Koundé | 94 | LALIGA EA SPORTS | 750k coins | +25.2% | +17.6% |
 
 
 ### Análise das altas
 
-- **Andrei Rațiu (92)** subiu **+57.3%** em 24h, a **38k coins** (faixa do dia: 24k–47k). Está -11% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Álvaro Carreras (86)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 28k–168k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Nuno Tavares (91)** subiu **+53.8%** em 24h, a **65k coins** (faixa do dia: 40k–79k). Está +50% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Timothy Weah (85)** subiu **+54.6%** em 24h, a **42k coins** (faixa do dia: 27k–47k). Está +58% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Christian Günter (88)** subiu **+51.1%** em 24h, a **35k coins** (faixa do dia: 22k–35k). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Fridolina Rolfö (90)** subiu **+53.7%** em 24h, a **103k coins** (faixa do dia: 53k–120k). Está +37% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nerea Nevado | 89 | Liga F | 21k coins | -46.9% | +6.2% |
-| Nico O'Reilly | 88 | Premier League | 28k coins | -40% | -46.6% |
-| Aaron Wan-Bissaka | 89 | Premier League | 35k coins | -39.1% | -1.4% |
-| Lewis Miley | 89 | Premier League | 25k coins | -33.1% | -26.8% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 3.50M coins | -30% | -30% |
-| Julian Araujo | 89 | Scottish Premiership | 24k coins | -28.9% | -46.7% |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 117k coins | -26.4% | -22% |
-| David Raum | 92 | — | 22k coins | -25.8% | -9.2% |
-| Wesley | 88 | Serie A TIM | 39k coins | -21.6% | -21.6% |
+| Konrad Laimer | 84 | Bundesliga | 21k coins | -45.4% | -84% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 25k coins | -38.1% | -1% |
+| Archie Brown | 85 | Trendyol Süper Lig | 82k coins | -36.5% | -12.7% |
+| Lucy Bronze | 88 | Barclays WSL | 76k coins | -32.6% | +41.1% |
+| Izzy Rodriguez | 94 | — | 25k coins | -25.4% | +26.6% |
+| Javier Zanetti | 92 | — | 39k coins | -22.5% | -3.1% |
+| Johan Mojica | 85 | LALIGA EA SPORTS | 52k coins | -21.8% | +141.9% |
+| Leo Cornic | 80 | Super League Greece | 37k coins | -20.5% | -1.3% |
 | Micah Richards | 85 | Premier League | 21k coins | -19.2% | -42.5% |
+| Wesley | 88 | Serie A TIM | 37k coins | -17.2% | -25.1% |
 
 
 ### Análise das baixas
 
-- **Nerea Nevado (89)** caiu **-46.9%** em 24h, a **21k coins** (faixa do dia: 13k–40k). Está em linha com a média de 7 dias (-0%). O modelo vê **estabilização** no curto prazo.
+- **Konrad Laimer (84)** caiu **-45.4%** em 24h, a **21k coins** (faixa do dia: 13k–22k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Nico O'Reilly (88)** caiu **-40%** em 24h, a **28k coins** (faixa do dia: 28k–52k). Está -38% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Katie McCabe (88)** caiu **-38.1%** em 24h, a **25k coins** (faixa do dia: 12k–40k). Está em linha com a média de 7 dias (+8%). O modelo vê **estabilização** no curto prazo.
 
-- **Aaron Wan-Bissaka (89)** caiu **-39.1%** em 24h, a **35k coins** (faixa do dia: 35k–64k). Está em linha com a média de 7 dias (-2%). O modelo vê **estabilização** no curto prazo.
+- **Archie Brown (85)** caiu **-36.5%** em 24h, a **82k coins** (faixa do dia: 72k–150k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Andrei Rațiu (92, sem liga), com +57.3% em 24h, a 38k coins no PC.
+Álvaro Carreras (86, LALIGA EA SPORTS), com +59.4% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**  
-Nerea Nevado (89), -46.9% em 24h, a 21k coins.
+Konrad Laimer (84), -45.4% em 24h, a 21k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 78 cartas em alta contra 99 em queda (média 1.07%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 82 cartas em alta contra 96 em queda (média 1.57%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
