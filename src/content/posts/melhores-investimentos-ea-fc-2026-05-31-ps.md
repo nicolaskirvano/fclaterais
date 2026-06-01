@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:11:01.000Z
+pubDatetime: 2026-06-01T01:11:02.000Z
 title: "Melhores investimentos em Laterais no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -36,6 +36,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Rayan Aït-Nouri | 90 | Premier League | 78k coins | +16.4% | +50% | 5% |
 | Hanna Lundkvist | 87 | Barclays WSL | 22k coins | +18.4% | +50% | 39% |
 | Avery Patterson | 93 | — | 22k coins | +4.6% | +47.5% | 93% |
+| Bixente Lizarazu | 88 | Bundesliga | 21k coins | +2.4% | +42.4% | 43% |
 | Matthieu Udol | 93 | — | 22k coins | +7.1% | +38.5% | 55% |
 | Marco Palestra | 93 | — | 22k coins | +7.1% | +38.5% | 60% |
 | Nina Lührßen | 93 | — | 22k coins | +2.3% | +37.5% | 68% |
@@ -45,7 +46,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Tariq Lamptey | 89 | — | 19k coins | +15.4% | +29.3% | 46% |
 | Nico O'Reilly | 88 | Premier League | 38k coins | +6.2% | +27.5% | 95% |
 | Ferland Mendy | 87 | LALIGA EA SPORTS | 106k coins | +8.2% | +27% | 95% |
-| John Arne Riise | 86 | Premier League | 17k coins | +24.1% | +26.4% | 93% |
 
 
 ## 📈 Análise dos destaques

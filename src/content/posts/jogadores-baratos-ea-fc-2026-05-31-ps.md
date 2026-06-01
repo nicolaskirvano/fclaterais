@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:11:02.000Z
+pubDatetime: 2026-06-01T01:11:02.000Z
 title: "Jogadores baratos de Laterais no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
+    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 7k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 6k coins.
+> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 7k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | +5% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +21.8% |
 | Sara Holmgaard | 88 | LB | — | 13k coins | -17.7% |
 | Ona Batlle | 88 | RB | — | 13k coins | -7.1% |
 | Katie McCabe | 88 | LB | Barclays Women’s Super League | 13k coins | -11.7% |
 | Cristian Manea | 88 | RB | SUPERLIGA | 14k coins | -15.6% |
 | Ricardo Rodríguez | 88 | LB | — | 15k coins | +7.1% |
-| Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +28.6% |
+| Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +75% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 2k coins | +10.5% |
+| Katie McCabe | 87 | LB | Barclays WSL | 3k coins | +17.4% |
+| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 11k coins | -21.4% |
 | Pervis Estupiñán | 87 | LB | Serie A TIM | 11k coins | -21.4% |
 | Ferdi Kadıoğlu | 87 | LB | — | 12k coins | -17.9% |
 | Iñigo Martínez | 87 | LB | ROSHN Saudi League | 12k coins | -16.4% |
-| Itziar Pinillos | 87 | RB | — | 12k coins | -16.1% |
 | João Mário | 87 | RB | — | 12k coins | -16.1% |
-| Nahuel Molina | 87 | RB | LALIGA EA SPORTS | 12k coins | -16.1% |
 | Mërgim Vojvoda | 87 | RB | — | 12k coins | -16.1% |
-| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 12k coins | -14.3% |
 
 
 ## 📈 Destaques
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Sara Holmgaard (88, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no Console (PS).
+Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 7k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
