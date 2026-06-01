@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:11:02.000Z
+pubDatetime: 2026-06-01T13:11:02.000Z
 title: "Laterais no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Lucy Bronze (88, Barclays WSL), com +51.7% em 24h, a 113k coins no PC."
+    a: "Denzel Dumfries (86, Serie A TIM), com +58.8% em 24h, a 34k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Archie Brown (85), -40.4% em 24h, a 74k coins."
+    a: "Katie McCabe (89), -47.6% em 24h, a 24k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 85 cartas em alta contra 124 em queda (média 7.52%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 69 cartas em alta contra 114 em queda (média 1.93%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **85 subiram** e **124 caíram**, com variação média de **7.52%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **69 subiram** e **114 caíram**, com variação média de **1.93%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lucy Bronze (88) **+51.7%** · 🔴 **Maior baixa:** Archie Brown (85) **-40.4%**
+> 🟢 **Maior alta:** Denzel Dumfries (86) **+58.8%** · 🔴 **Maior baixa:** Katie McCabe (89) **-47.6%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lucy Bronze | 88 | Barclays WSL | 113k coins | +51.7% | +111.2% |
-| Alex Scott | 93 | — | 171k coins | +46.2% | +4.3% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 40k coins | +45% | -15% |
-| Lucas Digne | 96 | — | 460k coins | +44.2% | -4.2% |
-| Mateo Chávez | 88 | — | 30k coins | +41.2% | +33.3% |
-| Ian Maatsen | 89 | Premier League | 42k coins | +40.8% | -11.5% |
-| Esmee Brugts | 88 | Liga F | 26k coins | +35.1% | -13.3% |
+| Denzel Dumfries | 86 | Serie A TIM | 34k coins | +58.8% | +20.5% |
+| Ashley Cole | 88 | — | 23k coins | +53.3% | +15% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 42k coins | +52.3% | +3.8% |
+| Ian Maatsen | 89 | Premier League | 37k coins | +47% | -6.4% |
+| Nerea Nevado | 89 | Liga F | 30k coins | +41.2% | +33.3% |
+| Juan Cuadrado | 86 | Serie A TIM | 32k coins | +41.1% | +62.8% |
+| Cafu | 91 | Icons | 268k coins | +41% | -1.5% |
+| Maicon | 90 | Serie A TIM | 119k coins | +37.6% | +17.8% |
+| Ricardo Rodríguez | 88 | — | 33k coins | +37.5% | +0.8% |
 | Nuno Mendes | 97 | Ligue 1 McDonald's | 4.50M coins | +28.6% | -10% |
-| Julian Ryerson | 93 | — | 147k coins | +26.7% | +25.6% |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 34k coins | +23.6% | +5.4% |
 
 
 ### Análise das altas
 
-- **Lucy Bronze (88)** subiu **+51.7%** em 24h, a **113k coins** (faixa do dia: 53k–120k). Está +22% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Denzel Dumfries (86)** subiu **+58.8%** em 24h, a **34k coins** (faixa do dia: 21k–70k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Alex Scott (93)** subiu **+46.2%** em 24h, a **171k coins** (faixa do dia: 90k–190k). Está +36% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Ashley Cole (88)** subiu **+53.3%** em 24h, a **23k coins** (faixa do dia: 11k–32k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Timothy Weah (85)** subiu **+45%** em 24h, a **40k coins** (faixa do dia: 27k–47k). Está +41% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Timothy Weah (85)** subiu **+52.3%** em 24h, a **42k coins** (faixa do dia: 27k–46k). Está +49% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Archie Brown | 85 | Trendyol Süper Lig | 74k coins | -40.4% | -9.7% |
-| Carlos Alberto | 92 | Icons | 296k coins | -34.2% | -60.5% |
-| Marc Cucurella | 86 | Premier League | 28k coins | -34.1% | -27.8% |
-| Hampus Skoglund | 80 | Pro League | 28k coins | -30.6% | -22.9% |
-| Nahuel Molina | 91 | — | 49k coins | -30.5% | +6% |
-| Katie McCabe | 89 | Barclays WSL | 34k coins | -29% | +104.6% |
-| Ona Batlle | 94 | — | 42k coins | -27.4% | +32.8% |
-| Iván Córdoba | 88 | Serie A TIM | 94k coins | -26.2% | +5% |
-| Nico O'Reilly | 88 | Premier League | 28k coins | -25.2% | -38.6% |
-| Lucy Bronze | 95 | Barclays WSL | 205k coins | -24.1% | +1% |
+| Katie McCabe | 89 | Barclays WSL | 24k coins | -47.6% | +51.6% |
+| Alfonso Espino | 86 | LALIGA EA SPORTS | 20k coins | -33.9% | -29.8% |
+| Katie McCabe | 92 | — | 24k coins | -32.4% | -17% |
+| Carlos Alberto | 92 | Icons | 294k coins | -30.8% | -46.6% |
+| Marc Cucurella | 86 | Premier League | 30k coins | -30.6% | -24% |
+| Jurriën Timber | 87 | Premier League | 22k coins | -28.3% | -26.5% |
+| Philipp Lahm | 90 | Icons | 660k coins | -22.4% | -5.4% |
+| Theo Hernández | 88 | ROSHN Saudi League | 499k coins | -19.9% | +3.7% |
+| Adam Reach | 94 | — | 48k coins | -19.3% | +23.1% |
+| Roberto Carlos | 91 | Icons | 1.26M coins | -18.7% | -18.4% |
 
 
 ### Análise das baixas
 
-- **Archie Brown (85)** caiu **-40.4%** em 24h, a **74k coins** (faixa do dia: 74k–150k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Katie McCabe (89)** caiu **-47.6%** em 24h, a **24k coins** (faixa do dia: 24k–48k). Está -24% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 73% de probabilidade.
 
-- **Carlos Alberto (92)** caiu **-34.2%** em 24h, a **296k coins** (faixa do dia: 296k–430k). Está -30% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Alfonso Espino (86)** caiu **-33.9%** em 24h, a **20k coins** (faixa do dia: 19k–30k). Está -30% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Marc Cucurella (86)** caiu **-34.1%** em 24h, a **28k coins** (faixa do dia: 28k–43k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Katie McCabe (92)** caiu **-32.4%** em 24h, a **24k coins** (faixa do dia: 22k–38k). Está em linha com a média de 7 dias (-8%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Lucy Bronze (88, Barclays WSL), com +51.7% em 24h, a 113k coins no PC.
+Denzel Dumfries (86, Serie A TIM), com +58.8% em 24h, a 34k coins no PC.
 
 **E a maior queda do dia?**  
-Archie Brown (85), -40.4% em 24h, a 74k coins.
+Katie McCabe (89), -47.6% em 24h, a 24k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 85 cartas em alta contra 124 em queda (média 7.52%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 69 cartas em alta contra 114 em queda (média 1.93%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

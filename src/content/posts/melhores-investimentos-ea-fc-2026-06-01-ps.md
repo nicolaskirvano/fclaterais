@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:11:01.000Z
+pubDatetime: 2026-06-01T13:11:02.000Z
 title: "Melhores investimentos em Laterais no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,19 +32,19 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nuno Tavares | 87 | Serie A TIM | 50k coins | +11.8% | +60.5% | 5% |
+| Maicon | 90 | Serie A TIM | 100k coins | +22% | +58.7% | 51% |
 | Joshua Kimmich | 89 | Bundesliga | 140k coins | +25% | +55.6% | 27% |
+| Mauro Júnior | 95 | — | 28k coins | +3.7% | +47.4% | 50% |
 | Marcos Acuña | 89 | LPF | 25k coins | +4.2% | +47.1% | 5% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 66k coins | +9.9% | +40% | 5% |
-| Matthieu Udol | 93 | — | 22k coins | +1.2% | +39.7% | 55% |
 | Mateo Chávez | 88 | — | 45k coins | +14.6% | +39.5% | 44% |
 | Andrei Rațiu | 92 | — | 33k coins | +10% | +37.5% | 48% |
-| Mauro Júnior | 95 | — | 30k coins | +4.4% | +37.2% | 50% |
-| Marco Palestra | 93 | — | 22k coins | +4.8% | +31.3% | 60% |
+| Lewis Miley | 89 | Premier League | 37k coins | +25.4% | +34.6% | 95% |
+| Nico O'Reilly | 88 | Premier League | 40k coins | +17% | +31.7% | 95% |
 | Ferland Mendy | 87 | LALIGA EA SPORTS | 128k coins | +21.9% | +30.6% | 95% |
 | John Arne Riise | 88 | Premier League | 32k coins | +14.3% | +30.6% | 5% |
 | Mary Alice Vignola | 85 | NWSL | 17k coins | +3.1% | +28.8% | 95% |
-| Avery Patterson | 93 | — | 22k coins | +2.4% | +27.9% | 93% |
-| Federico Dimarco | 96 | — | 58k coins | +9.5% | +26.4% | 8% |
+| Federico Dimarco | 96 | — | 58k coins | +3.6% | +27.5% | 8% |
+| Avery Patterson | 93 | — | 22k coins | +1.2% | +25.7% | 93% |
 | Aaron Wan-Bissaka | 89 | Premier League | 54k coins | +8% | +25.6% | 5% |
 
 
@@ -52,13 +52,13 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Nuno Tavares (87)** — 50k coins, **+60.5% em 7 dias** (+11.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
+- **Maicon (90)** — 100k coins, **+58.7% em 7 dias** (+22% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
 - **Joshua Kimmich (89)** — 140k coins, **+55.6% em 7 dias** (+25% em 24h). Preço +52% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
+- **Mauro Júnior (95)** — 28k coins, **+47.4% em 7 dias** (+3.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
 - **Marcos Acuña (89)** — 25k coins, **+47.1% em 7 dias** (+4.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
-- **Giovanni Di Lorenzo (86)** — 66k coins, **+40% em 7 dias** (+9.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
-- **Matthieu Udol (93)** — 22k coins, **+39.7% em 7 dias** (+1.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista

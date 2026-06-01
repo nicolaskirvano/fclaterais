@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:11:02.000Z
+pubDatetime: 2026-06-01T13:11:02.000Z
 title: "Jogadores baratos de Laterais no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,19 +30,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +34.6% |
-| Ona Batlle | 88 | RB | — | 13k coins | -16.4% |
+| Ona Batlle | 88 | RB | — | 12k coins | -23% |
 | Katie McCabe | 88 | LB | Barclays Women’s Super League | 13k coins | -14.8% |
+| Sara Holmgaard | 88 | LB | — | 14k coins | 0% |
+| Mats Deijl | 88 | RB | Eredivisie | 15k coins | +1.7% |
 | Cristian Manea | 88 | RB | SUPERLIGA | 15k coins | -11.8% |
 | Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +90% |
 | Katie McCabe | 87 | LB | Barclays WSL | 3k coins | +80% |
 | Jules Koundé | 87 | RB | LALIGA EA SPORTS | 3k coins | +45% |
 | Itziar Pinillos | 87 | RB | — | 11k coins | -21.4% |
+| Santiago Mouriño | 87 | RB | LALIGA EA SPORTS | 11k coins | -63.3% |
 | Iñigo Martínez | 87 | LB | ROSHN Saudi League | 11k coins | -21.4% |
 | João Mário | 87 | RB | — | 11k coins | -21.4% |
-| Santiago Mouriño | 87 | RB | LALIGA EA SPORTS | 11k coins | -63.3% |
-| Pervis Estupiñán | 87 | LB | Serie A TIM | 11k coins | -20% |
 | Tom Bischof | 87 | LB | — | 11k coins | -21.4% |
-| Ferdi Kadıoğlu | 87 | LB | — | 11k coins | -20% |
 | Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 11k coins | -20% |
 
 
@@ -50,13 +50,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ona Batlle (88, RB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ona Batlle (88, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Katie McCabe (88, LB)** da Barclays Women’s Super League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristian Manea (88, RB)** da SUPERLIGA, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sara Holmgaard (88, LB)** da —, a apenas **14k coins**
 
-- **Lucy Bronze (87, RB)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins**
 
 
 ## Por que estas cartas?

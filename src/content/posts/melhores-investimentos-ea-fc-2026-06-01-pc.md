@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:11:02.000Z
+pubDatetime: 2026-06-01T13:11:03.000Z
 title: "Melhores investimentos em Laterais no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Rayan Aït-Nouri (90, Premier League) lidera, com +67.9% em 7 dias a 89k coins no PC, e o modelo dá 63% de chance de seguir subindo."
+    a: "Marc Cucurella (93, sem liga) lidera, com +57.3% em 7 dias a 64k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Rayan Aït-Nouri (90) acumula **+67.9% em 7 dias** a 89k coins.
+> 🔝 **Destaque:** Marc Cucurella (93) acumula **+57.3% em 7 dias** a 64k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rayan Aït-Nouri | 90 | Premier League | 89k coins | +4.7% | +67.9% | 63% |
-| Mauro Júnior | 95 | — | 31k coins | +23% | +61.8% | 67% |
-| Denzel Dumfries | 89 | Serie A TIM | 45k coins | +7.8% | +47.9% | 36% |
-| David Raum | 92 | — | 30k coins | +15.4% | +46.3% | 0% |
-| Danny da Costa | 84 | Bundesliga | 25k coins | +4.2% | +37.5% | 32% |
-| Fabio Fehr | 93 | — | 22k coins | +8.4% | +36.4% | 38% |
-| Bixente Lizarazu | 88 | Bundesliga | 16k coins | +20% | +34.7% | 24% |
-| Matthieu Udol | 93 | — | 20k coins | +1.3% | +33.3% | 0% |
-| Bart van Rooij | 92 | — | 21k coins | +1.2% | +31.8% | 50% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 46k coins | +15.6% | +28.5% | 45% |
-| Lewis Hall | 89 | Premier League | 36k coins | +14.5% | +27.9% | 64% |
-| Trai Hume | 84 | Premier League | 34k coins | +14% | +27.8% | 63% |
-| Lilly Reale | 91 | — | 22k coins | +7.5% | +26.5% | 0% |
-| Julian Ryerson | 93 | — | 147k coins | +26.7% | +25.6% | 0% |
-| Elliot Stroud | 94 | — | 31k coins | +11.8% | +25.5% | 63% |
+| Marc Cucurella | 93 | — | 64k coins | +17.3% | +57.3% | 0% |
+| Selma Bacha | 94 | — | 239k coins | +7.7% | +44.8% | 0% |
+| Selma Bacha | 87 | D1 Arkema | 25k coins | +26.6% | +42.9% | 51% |
+| Alex Scott | 89 | Barclays WSL | 31k coins | +3.3% | +42% | 25% |
+| Bixente Lizarazu | 90 | — | 25k coins | +5.3% | +32% | 27% |
+| Lilly Reale | 91 | — | 22k coins | +1.2% | +27.9% | 0% |
+| Lewis Hall | 90 | — | 25k coins | +6.3% | +27.8% | 0% |
+| Elliot Stroud | 94 | — | 31k coins | +8.8% | +26.5% | 63% |
+| Mats Deijl | 88 | Eredivisie | 18k coins | +9.2% | +22.4% | 55% |
+| Gianluca Zambrotta | 86 | Icons | 96k coins | +15.1% | +21.7% | 54% |
+| Esmee Brugts | 94 | — | 70k coins | +9.4% | +19.8% | 0% |
+| Julian Ryerson | 93 | — | 139k coins | +8.6% | +18.8% | 0% |
+| Alphonso Davies | 89 | Bundesliga | 185k coins | +10.8% | +18.6% | 58% |
+| Maicon | 90 | Serie A TIM | 119k coins | +37.6% | +17.8% | 64% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 23k coins | +22.7% | +15% | 23% |
 
 
 ## 📈 Análise dos destaques
 
-- **Rayan Aït-Nouri (90)** — 89k coins, **+67.9% em 7 dias** (+4.7% em 24h). Preço +43% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marc Cucurella (93)** — 64k coins, **+57.3% em 7 dias** (+17.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mauro Júnior (95)** — 31k coins, **+61.8% em 7 dias** (+23% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Selma Bacha (94)** — 239k coins, **+44.8% em 7 dias** (+7.7% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Denzel Dumfries (89)** — 45k coins, **+47.9% em 7 dias** (+7.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Selma Bacha (87)** — 25k coins, **+42.9% em 7 dias** (+26.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **David Raum (92)** — 30k coins, **+46.3% em 7 dias** (+15.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Alex Scott (89)** — 31k coins, **+42% em 7 dias** (+3.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Danny da Costa (84)** — 25k coins, **+37.5% em 7 dias** (+4.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bixente Lizarazu (90)** — 25k coins, **+32% em 7 dias** (+5.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Rayan Aït-Nouri (90, Premier League) lidera, com +67.9% em 7 dias a 89k coins no PC, e o modelo dá 63% de chance de seguir subindo.
+Marc Cucurella (93, sem liga) lidera, com +57.3% em 7 dias a 64k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
