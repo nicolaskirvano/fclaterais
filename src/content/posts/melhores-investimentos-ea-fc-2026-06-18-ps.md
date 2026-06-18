@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:11:09.000Z
+pubDatetime: 2026-06-18T19:30:18.000Z
 title: "Melhores investimentos em Laterais no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -33,32 +33,32 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | Bundesliga | 166k coins | +16.9% | +84.4% | 27% |
 | Denzel Dumfries | 89 | Serie A TIM | 110k coins | +1.9% | +78.9% | 5% |
-| Maicon | 90 | Serie A TIM | 230k coins | +1.3% | +64% | 51% |
+| Maicon | 90 | Serie A TIM | 230k coins | +2.2% | +65.5% | 51% |
 | Lucy Bronze | 88 | Barclays WSL | 40k coins | +5.3% | +58.4% | 48% |
-| Mingueza | 88 | LALIGA EA SPORTS | 40k coins | +11.1% | +50.9% | 5% |
-| Ruben Kluivert | 86 | Ligue 1 McDonald's | 30k coins | +16.3% | +50% | 5% |
-| Lisa Karl | 84 | GPFBL | 28k coins | +13.8% | +42.7% | 16% |
-| Sergiño Dest | 86 | Eredivisie | 105k coins | +13.5% | +40% | 23% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 45k coins | +12.5% | +39.5% | 5% |
-| Alexander Bah | 86 | Liga Portugal | 94k coins | +6% | +35.9% | 95% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 54k coins | +6.9% | +32.9% | 5% |
-| Carvajal | 89 | LALIGA EA SPORTS | 207k coins | +5.8% | +32.9% | 40% |
-| Malo Gusto | 84 | Premier League | 52k coins | +11.2% | +32.1% | 93% |
-| Amar Dedić | 92 | — | 16k coins | +1.6% | +27.5% | 0% |
-| Lucy Bronze | 88 | Barclays WSL | 68k coins | +1.5% | +27.4% | 44% |
+| Mingueza | 88 | LALIGA EA SPORTS | 39k coins | +9.6% | +50.9% | 5% |
+| Sara Holmgaard | 88 | — | 18k coins | +15.6% | +48% | 80% |
+| Joelle Wedemeyer | 89 | GPFBL | 25k coins | +16.5% | +45.2% | 68% |
+| Lisa Karl | 84 | GPFBL | 28k coins | +17% | +42.9% | 16% |
+| Sergiño Dest | 86 | Eredivisie | 122k coins | +13.5% | +40% | 23% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 45k coins | +12.5% | +38.5% | 5% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 45k coins | +9% | +32.9% | 5% |
+| Carvajal | 89 | LALIGA EA SPORTS | 200k coins | +13.5% | +32.9% | 40% |
+| Malo Gusto | 84 | Premier League | 53k coins | +11.2% | +32.1% | 93% |
+| Alexander Bah | 86 | Liga Portugal | 90k coins | +3.9% | +31.5% | 95% |
+| Lucy Bronze | 88 | Barclays WSL | 65k coins | +1.5% | +29.8% | 44% |
 
 
 ## 📈 Análise dos destaques
 
 - **Joshua Kimmich (89)** — 166k coins, **+84.4% em 7 dias** (+16.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Denzel Dumfries (89)** — 110k coins, **+78.9% em 7 dias** (+1.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Denzel Dumfries (89)** — 110k coins, **+78.9% em 7 dias** (+1.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Maicon (90)** — 230k coins, **+64% em 7 dias** (+1.3% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maicon (90)** — 230k coins, **+65.5% em 7 dias** (+2.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Lucy Bronze (88)** — 40k coins, **+58.4% em 7 dias** (+5.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mingueza (88)** — 40k coins, **+50.9% em 7 dias** (+11.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Mingueza (88)** — 39k coins, **+50.9% em 7 dias** (+9.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
