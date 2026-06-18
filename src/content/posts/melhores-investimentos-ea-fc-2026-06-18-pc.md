@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:12:12.000Z
+pubDatetime: 2026-06-18T23:31:39.000Z
 title: "Melhores investimentos em Laterais no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Marcos Acuña (89, LPF) lidera, com +69.3% em 7 dias a 58k coins no PC, e o modelo dá 41% de chance de seguir subindo."
+    a: "Francisco Moura (90, Liga Portugal) lidera, com +77.8% em 7 dias a 40k coins no PC, e o modelo dá 23% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,15 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Marcos Acuña (89) acumula **+69.3% em 7 dias** a 58k coins.
+> 🔝 **Destaque:** Francisco Moura (90) acumula **+77.8% em 7 dias** a 40k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário de laterais para o EA FC Ultimate Team em 18 de junho de 2026, o mercado apresenta oportunidades distintas baseadas na volatilidade recente e na probabilidade estatística de valorização. Entre as opções mais sólidas para entrada, destacam-se Hanna Lundkvist e Olga Carmona. A lateral esquerda, com 87 de rating da Barclays WSL, subiu 11% nas últimas 24 horas, atingindo 56k coins, mas seu grande atrativo é a probabilidade de alta de 60%, sugerindo continuidade na tendência. Ainda mais interessante é Olga Carmona, da D1 Arkema, com 87 de rating. Por apenas 20k coins, ela registrou um aumento de 18,8% em um dia e possui a maior probabilidade de alta do grupo analisado, com 65%, tornando-se uma aposta de baixo risco e potencial retorno expressivo para orçamentos mais apertados.
+O mercado de Laterais em EA FC Ultimate Team para PC, analisado nesta sexta-feira, 18 de junho de 2026, apresenta uma dinâmica interessante de valorização acelerada, impulsionada por demandas específicas da comunidade e eventos in-game. Ao observar a tendência dos últimos sete dias, destaca-se uma polarização clara entre cartas de alto potencial de lucro de curto prazo e investimentos mais seguros com probabilidades robustas de alta sustentada. A volatilidade atual sugere que os investidores devem focar em ativos que combinam crescimento recente expressivo com uma probabilidade estatística favorável de continuidade, evitando armadilhas de preços inflacionados artificialmente sem suporte de demanda real.
 
-Outros nomes merecem atenção para portfólios diversificados. Mats Deijl, com 88 de rating da Eredivisie, está a 25k coins após alta de 19% em 24h, com 55% de chance de valorização. Odriozola (85, LALIGA EA SPORTS) também se destaca a 30k coins, com 19% de alta recente e 53% de probabilidade positiva. Para quem busca ativos de maior valor, Míchel Salgado (89, LALIGA EA SPORTS) a 70k coins oferece um equilíbrio entre alta de 6,9% e 45% de probabilidade, enquanto Marcos Acuña (89, LPF) a 58k coins apresenta alta de 23,4%, embora com probabilidade de apenas 41%.
+Na faixa de entrada, a carta de Francisco Moura (90, Liga Portugal) surge como uma oportunidade imediata, registrando um impressionante aumento de 17,6% em apenas 24 horas, posicionando-se na casa dos 40 mil coins. Embora a probabilidade de alta futura seja considerada alta em 23%, o momentum atual indica forte liquidez e interesse repentino, possivelmente devido a promoções ou kits relacionados à liga portuguesa. Para quem busca retorno rápido, essa carta oferece um risco moderado com potencial de ganho ágil, desde que o investidor monitore de perto a estabilização do preço após este pico inicial.
 
-Por outro lado, cautela é recomendada em certos ativos. Adam Reach, apesar da alta de 33,3% para 72k coins, tem probabilidade de alta de 0%, indicando saturação imediata. Denzel Dumfries (89, Serie A TIM) a 90k coins e Ben Chilwell (90, Ligue 1 McDonald's) a 35k coins mostram alta modesta e baixas probabilidades de 36% e 22%, respectivamente, sugerindo menor atratividade para investimento a curto prazo em comparação com as opções citadas anteriormente.
+No entanto, a verdadeira joia de entrada do momento é a Alex Scott (85, Barclays WSL), que atingiu os 20 mil coins com uma valorização vertiginosa de 24,6% em 24 horas. O que torna esta carta particularmente atrativa não é apenas o crescimento percentual, mas a probabilidade de alta de 33%, o que indica que o mercado ainda vê espaço para ascensão. Este ativo representa um dos melhores riscos versus recompensa disponíveis, ideal para portfólios que buscam diversificação em ligas femininas, que historicamente apresentam flutuações menos previsíveis, mas com oportunidades de alta significativa quando a demanda se aquece.
+
+Para investidores dispostos a arriscar mais capital, a Hanna Lundkvist (87, Barclays WSL) merece atenção especial. Cotada a 56 mil coins, ela registrou um aumento de 11% em 24 horas, mas seu maior trunfo é a probabilidade de alta de 60%. Essa estatística sugere uma tendência de alta muito mais sólida e sustentável do que muitas outras opções no mercado, tornando-a uma aposta de "segurança relativa" dentro da categoria de alto valor. A consistência do seu crescimento, aliada à alta probabilidade de continuidade, a posiciona como um dos laterais mais confiáveis para manutenção de valor nos próximos dias.
+
+Outros nomes merecem menção, como o Alex Scott (89, Barclays WSL), que lidera o ranking de crescimento com 31,1% em 24 horas, chegando aos 59 mil coins. Apesar da probabilidade de alta ser de apenas 25%, o impulso atual é inegável, sugerindo uma compra especulativa de curto prazo. Já o Míchel Salgado (89, LALIGA EA SPORTS), a 70 mil coins, oferece uma probabilidade de alta de 45% com um crescimento de 6,9%, representando uma opção mais conservadora para quem busca estabilidade em valores elevados.
+
+Por fim, o David Raum (87, Bundesliga) e o Leonardo Spinazzola (89, Serie A TIM) oferecem equilíbrios interessantes. Raum, a 31 mil coins, possui uma alta probabilidade de 60% de alta, apesar de um crescimento modesto de 5%, indicando acumulação silenciosa de valor. Spinazzola, a 38 mil coins, combina um crescimento saudável de 13,2% com uma probabilidade de alta de 56%, tornando-o uma das escolhas mais balanceadas do mercado atual. Em resumo, enquanto Francisco Moura e Alex Scott (85) são as melhores entradas de baixo custo, Hanna Lundkvist e Spinazzola oferecem a melhor combinação de segurança e potencial de valorização para os próximos dias.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -39,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcos Acuña | 89 | LPF | 58k coins | +23.4% | +69.3% | 41% |
+| Francisco Moura | 90 | Liga Portugal | 40k coins | +17.6% | +77.8% | 23% |
+| Alex Scott | 85 | Barclays WSL | 20k coins | +24.6% | +65.1% | 33% |
 | Hanna Lundkvist | 87 | Barclays WSL | 56k coins | +11% | +63.2% | 60% |
 | Míchel Salgado | 89 | LALIGA EA SPORTS | 70k coins | +6.9% | +62.8% | 45% |
-| Olga Carmona | 87 | D1 Arkema | 20k coins | +18.8% | +60.6% | 65% |
-| Odriozola | 85 | LALIGA EA SPORTS | 30k coins | +19% | +48.8% | 53% |
-| Mats Deijl | 88 | Eredivisie | 25k coins | +19% | +47.1% | 55% |
-| Adam Reach | 94 | — | 72k coins | +33.3% | +36% | 0% |
+| David Raum | 87 | Bundesliga | 31k coins | +5% | +61.5% | 60% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 38k coins | +13.2% | +57.1% | 56% |
+| Marcos Acuña | 89 | LPF | 57k coins | +22.3% | +55.4% | 41% |
+| Alex Scott | 89 | Barclays WSL | 59k coins | +31.1% | +48.4% | 25% |
+| Jade Le Guilly | 89 | D1 Arkema | 41k coins | +3.8% | +46% | 42% |
+| Odriozola | 85 | LALIGA EA SPORTS | 28k coins | +16% | +45% | 53% |
+| Lucy Bronze | 88 | Barclays WSL | 149k coins | +3.4% | +36.4% | 54% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 43k coins | +17.2% | +34.5% | 55% |
 | Denzel Dumfries | 89 | Serie A TIM | 90k coins | +13.1% | +33.1% | 36% |
-| Carolin Simon | 90 | GPFBL | 35k coins | +12.3% | +32.7% | 28% |
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 35k coins | +10.2% | +29.6% | 22% |
-| Ashley Cole | 92 | — | 120k coins | +22.3% | +25.9% | 12% |
-| Aaron Wan-Bissaka | 89 | Premier League | 50k coins | +13.6% | +24.2% | 24% |
-| Alex Scott | 93 | — | 108k coins | +21.3% | +21.3% | 36% |
-| Ashley Cole | 88 | — | 25k coins | +16.1% | +20% | 50% |
-| Julian Ryerson | 93 | — | 153k coins | +3.7% | +19.7% | 0% |
+| Carolin Simon | 90 | GPFBL | 35k coins | +13.8% | +27.3% | 28% |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcos Acuña (89)** — 58k coins, **+69.3% em 7 dias** (+23.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Francisco Moura (90)** — 40k coins, **+77.8% em 7 dias** (+17.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Hanna Lundkvist (87)** — 56k coins, **+63.2% em 7 dias** (+11% em 24h). Preço +54% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Alex Scott (85)** — 20k coins, **+65.1% em 7 dias** (+24.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Míchel Salgado (89)** — 70k coins, **+62.8% em 7 dias** (+6.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Hanna Lundkvist (87)** — 56k coins, **+63.2% em 7 dias** (+11% em 24h). Preço +52% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Olga Carmona (87)** — 20k coins, **+60.6% em 7 dias** (+18.8% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Míchel Salgado (89)** — 70k coins, **+62.8% em 7 dias** (+6.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Odriozola (85)** — 30k coins, **+48.8% em 7 dias** (+19% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **David Raum (87)** — 31k coins, **+61.5% em 7 dias** (+5% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +90,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Marcos Acuña (89, LPF) lidera, com +69.3% em 7 dias a 58k coins no PC, e o modelo dá 41% de chance de seguir subindo.
+Francisco Moura (90, Liga Portugal) lidera, com +77.8% em 7 dias a 40k coins no PC, e o modelo dá 23% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
