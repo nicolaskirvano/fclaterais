@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:30:28.000Z
+pubDatetime: 2026-06-18T20:16:52.000Z
 title: "Melhores investimentos em Laterais no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Francisco Moura (90, Liga Portugal) lidera, com +73.3% em 7 dias a 34k coins no PC, e o modelo dá 23% de chance de seguir subindo."
+    a: "Francisco Moura (90, Liga Portugal) lidera, com +71.1% em 7 dias a 38k coins no PC, e o modelo dá 23% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,17 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Francisco Moura (90) acumula **+73.3% em 7 dias** a 34k coins.
+> 🔝 **Destaque:** Francisco Moura (90) acumula **+71.1% em 7 dias** a 38k coins.
+
+
+## 🧠 Análise FutQuant do dia
+No cenário do EA FC Ultimate Team em PC, a análise de 18/06/2026 destaca laterais com forte potencial de valorização. Sonia Bompastor (89) surge como destaque absoluto, com alta de 40% em 24h e probabilidade de alta de 45% a 24k coins. Mats Deijl (88) também se destaca, com 24.4% de alta em 24h e probabilidade de alta de 55% a 27k coins. Essas cartas oferecem excelente relação risco-retorno, especialmente para quem busca investimentos de médio prazo.
+
+Outras opções promissoras incluem Hanna Lundkvist (87), com 32.9% de alta em 24h e probabilidade de alta de 60% a 56k coins, e Olga Carmona (87), que registrou 11.8% de alta em 24h e probabilidade de alta de 65% a 26k coins. A alta probabilidade de valorização dessas cartas, combinada com preços acessíveis, as torna escolhas estratégicas para portfólios focados em crescimento consistente.
+
+Míchel Salgado (89), com 6.1% de alta em 24h e probabilidade de alta de 45% a 70k coins, e Marcos Acuña (89), com 8% de alta em 24h e probabilidade de alta de 41% a 58k coins, representam oportunidades mais conservadoras. Embora tenham aumentos menores, suas probabilidades de alta ainda são relevantes, sugerindo estabilidade e crescimento gradual.
+
+Finalmente, Francisco Moura (90), com 13.2% de alta em 24h e probabilidade de alta de 23% a 38k coins, e Odriozola (85), com 17% de alta em 24h e probabilidade de alta de 53% a 29k coins, completam o grupo de laterais com tendência positiva. Nawaf Boushal (91), apesar de ter apenas 4.4% de alta em 24h e probabilidade de alta de 0% a 19k coins, e Timothy Weah (85), com 1% de alta em 24h e probabilidade de alta de 55% a 48k coins, merecem monitoramento, pois podem apresentar surpresas no mercado.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +41,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Francisco Moura | 90 | Liga Portugal | 34k coins | +13.9% | +73.3% | 23% |
-| Hanna Lundkvist | 87 | Barclays WSL | 56k coins | +36.2% | +63.2% | 60% |
-| Olga Carmona | 87 | D1 Arkema | 28k coins | +11.8% | +60.6% | 65% |
-| Sonia Bompastor | 89 | — | 25k coins | +26.9% | +52.3% | 45% |
-| Odriozola | 85 | LALIGA EA SPORTS | 29k coins | +5.4% | +46.2% | 53% |
-| Nawaf Boushal | 91 | — | 18k coins | +6.1% | +45.8% | 0% |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 24k coins | +38% | +42% | 36% |
-| Adam Reach | 94 | — | 70k coins | +12.2% | +38.7% | 0% |
-| Jade Le Guilly | 89 | D1 Arkema | 27k coins | +38% | +36.9% | 42% |
-| Esmee Brugts | 94 | — | 90k coins | +16.1% | +28.6% | 0% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 35k coins | +30.2% | +27.8% | 22% |
-| Nuno Tavares | 87 | Serie A TIM | 68k coins | +20.9% | +27.2% | 26% |
-| Lilian Thuram | 89 | — | 95k coins | +5.6% | +25% | 75% |
-| Ashley Cole | 88 | — | 36k coins | +4.3% | +20% | 50% |
-| Javier Zanetti | 91 | Icons | 154k coins | +6.8% | +18.9% | 27% |
+| Francisco Moura | 90 | Liga Portugal | 38k coins | +13.2% | +71.1% | 23% |
+| Hanna Lundkvist | 87 | Barclays WSL | 56k coins | +32.9% | +63.2% | 60% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 70k coins | +6.1% | +61.6% | 45% |
+| Olga Carmona | 87 | D1 Arkema | 26k coins | +11.8% | +60.6% | 65% |
+| Marcos Acuña | 89 | LPF | 58k coins | +8% | +58.8% | 41% |
+| Mats Deijl | 88 | Eredivisie | 27k coins | +24.4% | +57.4% | 55% |
+| Sonia Bompastor | 89 | — | 24k coins | +40% | +50.8% | 45% |
+| Nawaf Boushal | 91 | — | 19k coins | +4.4% | +47.9% | 0% |
+| Odriozola | 85 | LALIGA EA SPORTS | 29k coins | +17% | +46.2% | 53% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 48k coins | +1% | +40.8% | 55% |
+| Adam Reach | 94 | — | 70k coins | +29% | +38% | 0% |
+| Tara Elimbi Gilbert | 86 | D1 Arkema | 19k coins | +33.8% | +37.7% | 36% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 35k coins | +10.2% | +29.6% | 22% |
+| Marc Cucurella | 93 | — | 77k coins | +27.3% | +29.4% | 0% |
+| Esmee Brugts | 94 | — | 85k coins | +16.9% | +28.6% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **Francisco Moura (90)** — 34k coins, **+73.3% em 7 dias** (+13.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Francisco Moura (90)** — 38k coins, **+71.1% em 7 dias** (+13.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Hanna Lundkvist (87)** — 56k coins, **+63.2% em 7 dias** (+36.2% em 24h). Preço +55% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Hanna Lundkvist (87)** — 56k coins, **+63.2% em 7 dias** (+32.9% em 24h). Preço +55% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Olga Carmona (87)** — 28k coins, **+60.6% em 7 dias** (+11.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Míchel Salgado (89)** — 70k coins, **+61.6% em 7 dias** (+6.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Sonia Bompastor (89)** — 25k coins, **+52.3% em 7 dias** (+26.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Olga Carmona (87)** — 26k coins, **+60.6% em 7 dias** (+11.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Odriozola (85)** — 29k coins, **+46.2% em 7 dias** (+5.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marcos Acuña (89)** — 58k coins, **+58.8% em 7 dias** (+8% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -69,14 +79,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Francisco Moura (90, Liga Portugal) lidera, com +73.3% em 7 dias a 34k coins no PC, e o modelo dá 23% de chance de seguir subindo.
+Francisco Moura (90, Liga Portugal) lidera, com +71.1% em 7 dias a 38k coins no PC, e o modelo dá 23% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

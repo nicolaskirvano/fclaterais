@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:30:17.000Z
+pubDatetime: 2026-06-18T20:15:00.000Z
 title: "Laterais no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,126 +13,120 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Kenny Lala (87, Ligue 1 McDonald's), com +25.8% em 24h, a 45k coins no Console (PS)."
+    a: "Denzel Dumfries (86, Serie A TIM), com +32.5% em 24h, a 50k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Patrick van Aanholt (85), -49.2% em 24h, a 31k coins."
+    a: "Patrick van Aanholt (85), -48.3% em 24h, a 30k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 47k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 88 cartas em alta contra 109 em queda (média -0.72%)."
+    a: "Pelo modelo FutQuant, Jurriën Timber (87) — 95% de probabilidade de alta, a 38k coins."
+  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 89 cartas em alta contra 113 em queda (média -1.07%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📈 O mercado hoje, em resumo
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **88 subiram** e **109 caíram**, com variação média de **-0.72%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+O mercado de laterais em Console apresenta um cenário de lado hoje, com 89 altas e 113 quedas registradas nas últimas 24 horas, resultando em uma média negativa de apenas 1.07%. Esse equilíbrio indica que não há um direcionamento claro de alta ou baixa generalizada, exigindo cautela e análise individualizada para identificar as melhores oportunidades de trading.
 
-> 🟢 **Maior alta:** Kenny Lala (87) **+25.8%** · 🔴 **Maior baixa:** Patrick van Aanholt (85) **-49.2%**
+> 🟢 **Maior alta:** Denzel Dumfries (86) **+32.5%** · 🔴 **Maior baixa:** Patrick van Aanholt (85) **-48.3%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 45k coins | +25.8% | +8.3% |
-| Esmee Brugts | 94 | — | 86k coins | +21% | +9.5% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 34k coins | +18.4% | +23.3% |
-| Alex Scott | 93 | — | 62k coins | +18% | -14.6% |
-| Lisa Karl | 84 | GPFBL | 28k coins | +17% | +42.9% |
-| Joshua Kimmich | 89 | Bundesliga | 166k coins | +16.9% | +84.4% |
-| Marc Cucurella | 93 | — | 58k coins | +16.7% | +1.8% |
-| Carolin Simon | 90 | GPFBL | 35k coins | +16.7% | +23.9% |
-| Joelle Wedemeyer | 89 | GPFBL | 25k coins | +16.5% | +45.2% |
-| Nuno Tavares | 91 | Serie A TIM | 54k coins | +16.5% | -1% |
+| Denzel Dumfries | 86 | Serie A TIM | 50k coins | +32.5% | +25% |
+| Tariq Lamptey | 89 | — | 45k coins | +19.7% | +32.8% |
+| Joshua Kimmich | 89 | Bundesliga | 170k coins | +19.7% | +88.9% |
+| Ona Batlle | 90 | Liga F | 44k coins | +18.6% | +22.9% |
+| Esmee Brugts | 94 | — | 80k coins | +18.6% | +3.8% |
+| Marc Cucurella | 93 | — | 56k coins | +18.6% | +4.5% |
+| Ashley Cole | 88 | — | 34k coins | +17.2% | +13.3% |
+| Carolin Simon | 90 | GPFBL | 35k coins | +15.7% | +25% |
+| Lewis Hall | 89 | Premier League | 65k coins | +14.2% | +15.1% |
+| Sergiño Dest | 86 | Eredivisie | 105k coins | +13.5% | +40% |
 
 
-### Análise das altas
-
-- **Kenny Lala (87)** subiu **+25.8%** em 24h, a **45k coins** (faixa do dia: 31k–45k). Está +25% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
-
-- **Esmee Brugts (94)** subiu **+21%** em 24h, a **86k coins** (faixa do dia: 68k–87k). Está +18% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
-
-- **Ben Chilwell (90)** subiu **+18.4%** em 24h, a **34k coins** (faixa do dia: 26k–40k). Está +20% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+Denzel Dumfries lidera as altas com um impressionante aumento de 32.5% em 24 horas, atingindo 50k coins com probabilidade de alta de 95%, seguido por Tariq Lamptey e Joshua Kimmich, ambos com alta de 19.7%. Ona Batlle, Esmee Brugts e Marc Cucurella também se destacam com alta de 18.6%, mostrando força em diferentes faixas de preço e ligas.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick van Aanholt | 85 | Eredivisie | 31k coins | -49.2% | -16.9% |
-| Micah Richards | 85 | Premier League | 27k coins | -37.7% | +9% |
-| Max Aarons | 85 | Scottish Premiership | 33k coins | -20.8% | +54.7% |
-| Álvaro Carreras | 90 | LALIGA EA SPORTS | 400k coins | -18.7% | -23.1% |
-| Gisele Thompson | 90 | NWSL | 40k coins | -18.3% | +2.1% |
-| Alfonso Espino | 86 | LALIGA EA SPORTS | 22k coins | -17% | -44.7% |
-| David Raum | 87 | Bundesliga | 21k coins | -16.5% | -13.6% |
-| Cafu | 92 | Icons | 395k coins | -16.2% | -4.1% |
-| Mats Deijl | 88 | Eredivisie | 29k coins | -16% | +56.2% |
-| Tino Livramento | 85 | Premier League | 30k coins | -15.5% | +3.4% |
+| Patrick van Aanholt | 85 | Eredivisie | 30k coins | -48.3% | -19.5% |
+| Álvaro Carreras | 90 | LALIGA EA SPORTS | 400k coins | -27.7% | -27.3% |
+| Archie Brown | 85 | Trendyol Süper Lig | 34k coins | -26.2% | -18.8% |
+| Micah Richards | 85 | Premier League | 29k coins | -21% | +9% |
+| Max Aarons | 85 | Scottish Premiership | 30k coins | -20.8% | +47.8% |
+| Narcis Ilaș | 87 | SUPERLIGA | 24k coins | -20.8% | -16.8% |
+| Lewis Miley | 83 | Premier League | 40k coins | -20% | -4.8% |
+| Alfonso Espino | 86 | LALIGA EA SPORTS | 21k coins | -18.9% | -45.9% |
+| Allegra Poljak | 87 | Liga F | 24k coins | -18% | +10.8% |
+| Joško Gvardiol | 86 | Premier League | 60k coins | -17.4% | -26.2% |
 
 
-### Análise das baixas
-
-- **Patrick van Aanholt (85)** caiu **-49.2%** em 24h, a **31k coins** (faixa do dia: 32k–63k). Está em linha com a média de 7 dias (+7%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 80% de probabilidade.
-
-- **Micah Richards (85)** caiu **-37.7%** em 24h, a **27k coins** (faixa do dia: 25k–43k). Está -8% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Max Aarons (85)** caiu **-20.8%** em 24h, a **33k coins** (faixa do dia: 26k–44k). Está +41% acima da média de 7 dias (aquecida). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+Patrick van Aanholt sofreu a maior queda com 48.3% em 24 horas, caindo para 30k coins, enquanto Álvaro Carreras despencou 27.7% para 400k coins. Archie Brown, Micah Richards e Max Aarons completam o grupo das maiores baixas com quedas entre 20% e 26%, refletindo uma correção significativa em ativos específicos.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Projeções do modelo para 24h
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Lewis Miley | 89 | 47k coins | 56k coins | 95% |
-| Elliot Stroud | 94 | 42k coins | 50k coins | 95% |
-| Dimitris Giannoulis | 83 | 62k coins | 76k coins | 95% |
-| Kenny Lala | 87 | 45k coins | 53k coins | 95% |
-| Alexander Bah | 86 | 90k coins | 106k coins | 95% |
-| Javier Zanetti | 89 | 77k coins | 89k coins | 95% |
-| Giovanni Di Lorenzo | 85 | 70k coins | 83k coins | 95% |
-| Alphonso Davies | 89 | 120k coins | 161k coins | 95% |
+| Jurriën Timber | 87 | 38k coins | 48k coins | 95% |
+| Lewis Miley | 89 | 48k coins | 56k coins | 95% |
+| Kenny Lala | 87 | 36k coins | 43k coins | 95% |
+| Giovanni Di Lorenzo | 85 | 68k coins | 80k coins | 95% |
+| Alexander Bah | 86 | 96k coins | 114k coins | 95% |
+| Elliot Stroud | 94 | 45k coins | 53k coins | 95% |
+| Javier Zanetti | 89 | 70k coins | 81k coins | 95% |
+| Lilian Thuram | 88 | 213k coins | 253k coins | 95% |
 
 
-## ⚠️ Cuidado: o modelo projeta queda
+O modelo projeta alta de 95% para Jurriën Timber, Lewis Miley, Kenny Lala, Giovanni Di Lorenzo, Alexander Bah, Elliot Stroud, Javier Zanetti e Lilian Thuram. Esses jogadores são indicados como os principais candidatos a valorização nas próximas horas, oferecendo oportunidades de compra estratégica.
+
+
+## ⚠️ Cartas em risco nas próximas 24h
 
 Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Gisele Thompson | 90 | 40k coins | -15.7% |
-| Izzy Rodriguez | 94 | 44k coins | -17.5% |
-| Bart van Rooij | 92 | 36k coins | -17.4% |
-| Fabio Fehr | 93 | 34k coins | -24% |
-| Rayan Aït-Nouri | 90 | 43k coins | -15.6% |
-| Mingueza | 88 | 39k coins | -34.2% |
-| Alex Freeman | 88 | 40k coins | -29.2% |
-| Carolin Simon | 90 | 35k coins | -21.3% |
+| Nuno Tavares | 87 | 46k coins | -24.1% |
+| Ian Maatsen | 89 | 35k coins | -21.4% |
+| Marcus Pedersen | 89 | 40k coins | -24% |
+| Lynn Wilms | 86 | 30k coins | -21.3% |
+| Katie McCabe | 92 | 36k coins | -21.4% |
+| Marcos Acuña | 89 | 35k coins | -24% |
+| Aaron Wan-Bissaka | 89 | 48k coins | -15.6% |
+| Míchel Salgado | 87 | 45k coins | -15.6% |
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 Conclusão do dia
+Recomendo comprar os ativos com previsão de alta de 95%, como Jurriën Timber e Javier Zanetti, enquanto se evita expor capital em jogadores que já sofreram quedas bruscas sem sinais de reversão imediata. O mercado está equilibrado, portanto, o foco deve ser na execução precisa das previsões do modelo e não em tentativas de adivinhar tendências de curto prazo.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Kenny Lala (87, Ligue 1 McDonald's), com +25.8% em 24h, a 45k coins no Console (PS).
+Denzel Dumfries (86, Serie A TIM), com +32.5% em 24h, a 50k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Patrick van Aanholt (85), -49.2% em 24h, a 31k coins.
+Patrick van Aanholt (85), -48.3% em 24h, a 30k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 47k coins.
+Pelo modelo FutQuant, Jurriën Timber (87) — 95% de probabilidade de alta, a 38k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 88 cartas em alta contra 109 em queda (média -0.72%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**  
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 89 cartas em alta contra 113 em queda (média -1.07%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
 > 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.

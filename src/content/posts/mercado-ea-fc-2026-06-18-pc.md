@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:30:27.000Z
+pubDatetime: 2026-06-18T20:16:05.000Z
 title: "Laterais no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,89 +13,80 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Grace Kazadi (87, D1 Arkema), com +53.8% em 24h, a 24k coins no PC."
+    a: "Alfonso Espino (86, LALIGA EA SPORTS), com +50.7% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Tyrick Mitchell (96), -43.6% em 24h, a 700k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 81 cartas em alta contra 103 em queda (média 0.78%)."
+    a: "Amar Dedić (88), -45.5% em 24h, a 30k coins."
+  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 84 cartas em alta contra 109 em queda (média 0.26%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📈 O mercado hoje, em resumo
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **81 subiram** e **103 caíram**, com variação média de **0.78%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado de laterais na PC apresenta um cenário equilibrado em 18/06/2026, com um sentimento lateral que reflete a disputa entre 84 altas e 109 quedas registradas nas últimas 24 horas. A volatilidade média foi contida, ficando em apenas 0.26%, indicando que os traders devem ter paciência e esperar movimentos mais direcionados antes de agir. Não há uma tendência massiva de alta ou baixa, o que sugere que as oportunidades estão mais isoladas em ativos específicos do que no segmento como um todo.
 
-> 🟢 **Maior alta:** Grace Kazadi (87) **+53.8%** · 🔴 **Maior baixa:** Tyrick Mitchell (96) **-43.6%**
+> 🟢 **Maior alta:** Alfonso Espino (86) **+50.7%** · 🔴 **Maior baixa:** Amar Dedić (88) **-45.5%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Grace Kazadi | 87 | D1 Arkema | 24k coins | +53.8% | +38.9% |
-| Francés | 84 | LALIGA EA SPORTS | 25k coins | +45.7% | +15.9% |
-| Marc Cucurella | 86 | Premier League | 40k coins | +44.5% | +26.2% |
-| Lucy Bronze | 88 | Barclays WSL | 120k coins | +41.2% | +9.1% |
+| Alfonso Espino | 86 | LALIGA EA SPORTS | 28k coins | +50.7% | -5.8% |
+| Grace Kazadi | 87 | D1 Arkema | 24k coins | +49.2% | +34.7% |
+| Marc Cucurella | 86 | Premier League | 40k coins | +44.5% | -22.1% |
+| Francés | 84 | LALIGA EA SPORTS | 20k coins | +41.4% | +12.5% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 25k coins | +41.4% | -8.3% |
 | Givairo Read | 86 | Eredivisie | 23k coins | +41% | +22.2% |
-| Alfonso Espino | 86 | LALIGA EA SPORTS | 28k coins | +40.7% | -1.7% |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 24k coins | +38% | +42% |
-| Jade Le Guilly | 89 | D1 Arkema | 27k coins | +38% | +36.9% |
-| Hanna Lundkvist | 87 | Barclays WSL | 56k coins | +36.2% | +63.2% |
-| Katie McCabe | 92 | — | 46k coins | +34.7% | +10% |
+| Sonia Bompastor | 89 | — | 24k coins | +40% | +50.8% |
+| Ona Batlle | 90 | Liga F | 40k coins | +33.3% | +6.7% |
+| Hanna Lundkvist | 87 | Barclays WSL | 56k coins | +32.9% | +63.2% |
+| Blás Riveros | 94 | — | 55k coins | +32.5% | +27.2% |
 
 
-### Análise das altas
-
-- **Grace Kazadi (87)** subiu **+53.8%** em 24h, a **24k coins** (faixa do dia: 15k–27k). Está +29% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Francés (84)** subiu **+45.7%** em 24h, a **25k coins** (faixa do dia: 18k–30k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Marc Cucurella (86)** subiu **+44.5%** em 24h, a **40k coins** (faixa do dia: 28k–55k). Está -11% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+Alfonso Espino lidera as altas com um salto expressivo de 50.7% para 28k, apoiado por uma probabilidade de alta de 62%, enquanto Grace Kazadi também se destaca com 49.2% de valorização a 24k. Míchel Salgado e Marc Cucurella seguem o movimento de alta, com aumentos de 41.4% e 44.5% respectivamente, embora a probabilidade de alta do espanhol seja mais modesta. Ona Batlle, um ativo de maior valor, subiu 33.3% para 40k, atraindo atenção dos traders que buscam oscilações em cards de rating mais elevado.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tyrick Mitchell | 96 | — | 700k coins | -43.6% | -0.3% |
-| Andrea Medina | 86 | Liga F | 27k coins | -32.7% | +18.9% |
-| Danny da Costa | 84 | Bundesliga | 26k coins | -30% | +36.4% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 43k coins | -29.5% | -21.3% |
-| Lewis Hall | 89 | Premier League | 48k coins | -29.3% | +2.6% |
-| Carlos Alberto | 92 | Icons | 320k coins | -27.5% | -6% |
-| Lucy Bronze | 88 | Barclays WSL | 70k coins | -27.4% | +10.7% |
+| Amar Dedić | 88 | — | 30k coins | -45.5% | +84.6% |
+| Tyrick Mitchell | 96 | — | 779k coins | -41.9% | -0.1% |
+| Danny da Costa | 84 | Bundesliga | 26k coins | -30% | +41.9% |
+| Carlos Alberto | 92 | Icons | 315k coins | -28.4% | -8.8% |
+| Lewis Hall | 89 | Premier League | 48k coins | -27.4% | +8.4% |
+| Christian Günter | 84 | Bundesliga | 20k coins | -27.3% | +6.7% |
 | Manolis Saliakas | 84 | Bundesliga | 40k coins | -26.4% | +3.8% |
-| Ashley Lawrence | 86 | D1 Arkema | 31k coins | -24.9% | -21.8% |
-| Matheus Silva | 84 | Liga Azerbaijan | 32k coins | -24.7% | +3.2% |
+| Matheus Silva | 84 | Liga Azerbaijan | 32k coins | -25.9% | +4.1% |
+| Theo Hernández | 88 | ROSHN Saudi League | 318k coins | -25.9% | -30.1% |
+| Vladimír Coufal | 91 | — | 35k coins | -25.5% | -10.3% |
 
 
-### Análise das baixas
-
-- **Tyrick Mitchell (96)** caiu **-43.6%** em 24h, a **700k coins** (faixa do dia: 700k–1.26M). Está -12% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Andrea Medina (86)** caiu **-32.7%** em 24h, a **27k coins** (faixa do dia: 21k–40k). Está em linha com a média de 7 dias (+1%). O modelo vê **estabilização** no curto prazo.
-
-- **Danny da Costa (84)** caiu **-30%** em 24h, a **26k coins** (faixa do dia: 25k–38k). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
+Amar Dedić sofreu a maior queda relativa com -45.5% para 30k, mas ainda mantém uma probabilidade de alta de 54%, o que pode indicar uma oportunidade de compra se o jogador se estabilizar. Tyrick Mitchell despencou 41.9% para 779k, mas com probabilidade de alta em 0%, sinalizando que é melhor evitar esse ativo por enquanto. Carlos Alberto (Icons) caiu 28.4% para 315k, e Lewis Hall perdeu 27.4% para 48k, oferecendo potenciais entradas de compra dada a alta probabilidade de alta (64%) deste último.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 Conclusão do dia
+Recomenda-se segurar os ativos que já estão em alta, como Alfonso Espino e Míchel Salgado, para tentar capturar lucros adicionais dada a probabilidade favorável. É interessante comprar com cautela ativos como Lewis Hall e Amar Dedić, que sofreram quedas mas mantêm probabilidades de alta significativas, buscando um rebote nos próximos dias. Evite entrar em Tyrick Mitchell ou outros cards com probabilidade de alta zero, pois o risco de desvalorização contínua é elevado neste momento.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Grace Kazadi (87, D1 Arkema), com +53.8% em 24h, a 24k coins no PC.
+Alfonso Espino (86, LALIGA EA SPORTS), com +50.7% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Tyrick Mitchell (96), -43.6% em 24h, a 700k coins.
+Amar Dedić (88), -45.5% em 24h, a 30k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 81 cartas em alta contra 103 em queda (média 0.78%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**  
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 84 cartas em alta contra 109 em queda (média 0.26%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
 > 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
