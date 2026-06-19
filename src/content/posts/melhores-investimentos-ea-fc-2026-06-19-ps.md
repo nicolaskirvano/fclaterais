@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:12:15.000Z
+pubDatetime: 2026-06-19T19:12:17.000Z
 title: "Melhores investimentos em Laterais no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Maicon (88, Serie A TIM) lidera, com +86.4% em 7 dias a 110k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
+    a: "Joshua Kimmich (89, Bundesliga) lidera, com +45.1% em 7 dias a 119k coins no Console (PS), e o modelo dá 27% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Maicon (88) acumula **+86.4% em 7 dias** a 110k coins.
+> 🔝 **Destaque:** Joshua Kimmich (89) acumula **+45.1% em 7 dias** a 119k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário atual do mercado de EA FC Ultimate Team para consoles PlayStation, analisado em 19 de junho de 2026, a posição de lateral apresenta oportunidades distintas de investimento, impulsionadas por tendências de valorização nos últimos sete dias. A análise foca exclusivamente nas cartas que demonstram movimento ascendente nas últimas 24 horas, permitindo identificar quais ativos oferecem maior segurança e potencial de retorno para os investidores cautelosos e agressivos. O mercado reage rapidamente a esses micro-movimentos, e entender a probabilidade de alta associada a cada porcentagem de ganho é fundamental para a tomada de decisão estratégica neste período.
+A análise do mercado de Laterais no EA FC Ultimate Team para o dia 19 de junho de 2026 revela um cenário complexo, onde a volatilidade recente define as oportunidades mais lucrativas. Ao observarmos os dados de tendência de valorização dos últimos sete dias, focamos especificamente no comportamento de curto prazo das últimas 24 horas para identificar quais ativos apresentam maior probabilidade de retorno. A dinâmica do mercado em Console (PS) mostra que nem todos os laterais reagem da mesma forma às flutuações de preço, sendo crucial distinguir entre aqueles com alta probabilidade de continuidade de valorização e aqueles que podem sofrer correções imediatas. O objetivo é identificar cartas que não apenas subiram, mas que possuem indicadores técnicos sugerindo uma tendência sustentável, permitindo ao investidor entrar em posições com menor risco de perda rápida.
 
-Dentre as opções de alto valor, Maicon (88, Serie A TIM) se destaca com uma subida de 1,9% em 24 horas, cotado a 110k coins. O ponto crucial para este ativo é a probabilidade de alta de 95%, o que indica uma tendência extremamente sólida e segura para entrada. Embora o ganho percentual pareça modesto, a alta probabilidade sugere que o valor está estabilizado em uma trajetória ascendente, tornando-o uma escolha defensiva para quem busca preservar capital com risco mínimo. É um investimento de "carta de ouro" para quem prioriza a certeza sobre o lucro explosivo imediato.
+Dentre os ativos analisados, Selma Bacha destaca-se como a oportunidade mais robusta para entrada imediata. Com uma valorização de 22.1% nas últimas 24 horas e um preço atual de 25k coins, a lateral da D1 Arkema apresenta uma probabilidade de alta impressionante de 95%. Este índice estatístico sugere que o movimento de preço não é apenas um pico isolado, mas sim parte de uma tendência estrutural forte. A combinação de um preço acessível com uma probabilidade de sucesso extremamente alta torna a carta de 87 rating um dos alvos mais seguros para quem busca lucros consistentes e de baixo risco no curto prazo, aproveitando a confiança do mercado nesta jogadora.
 
-No extremo oposto da escalada percentual, Diogo Dalot (87, Premier League) registra um impressionante aumento de 8,8% em 24 horas, cotado a 120k coins, com uma probabilidade de alta de 50%. Já Carvajal (89, LALIGA EA SPORTS), a 225k coins, subiu 6,1% com 40% de probabilidade. Esses valores mais elevados de variação diária indicam volatilidade e interesse do mercado, mas a probabilidade inferior a 50% para Carvajal e exata para Dalot exige cautela. São cartas de maior risco, adequadas para investidores dispostos a apostar na continuidade do momentum, mas sem a segurança estatística de um Maicon.
+Outro nome que merece atenção é Giovanni Di Lorenzo. O lateral da Serie A TIM, com rating de 85, registrou uma alta de 3% em 24 horas, posicionando-se na faixa dos 68k coins. Embora o percentual de crescimento recente pareça modesto, a probabilidade de alta para esta carta também é de 95%. Isso indica que o mercado está consolidando o preço em um patamar mais elevado, sugerindo estabilidade e potencial para novos aumentos graduais. Para investidores que preferem evitar a volatilidade extrema, Di Lorenzo oferece um perfil de risco reduzido, atuando como um ativo defensivo dentro de uma carteira focada em laterais de ligas tradicionais.
 
-Para quem opera com capital mais reduzido, as oportunidades são igualmente interessantes, embora com perfis de risco diferentes. Mats Deijl (88, Eredivisie) subiu 1,7% para 30k coins, mas possui apenas 5% de probabilidade de alta, sendo, portanto, uma aposta muito arriscada baseada apenas no momento atual. Em contraste, Tariq Lamptey (89, s/liga) apresenta uma alta de 9% para 39k coins, com 46% de probabilidade, oferecendo um equilíbrio interessante entre ganho rápido e risco moderado. Já Míchel Salgado (89, LALIGA EA SPORTS), a 43k coins, com 3,8% de alta e 5% de probabilidade, deve ser evitado por investidores que buscam tendências sustentáveis.
+Jade Le Guilly apresenta um perfil de alto risco e alta recompensa, típico de cartas de ligas menores como a D1 Arkema. Com uma explosão de 26.2% em 24 horas e um preço baixo de 22k coins, a lateral de 84 rating atrai atenção por sua acessibilidade. A probabilidade de alta de 50% indica um mercado indeciso, mas com viés positivo. Investidores agressivos podem considerar a entrada aqui, apostando que a tendência de alta se mantém, mas devem estar preparados para possíveis correções, dada a natureza especulativa de ativos com preços iniciais tão baixos e volatilidade acentuada.
 
-As cartas mais promissoras para entrada imediata, considerando a combinação de alta percentual e probabilidade robusta, são Lewis Miley (89, Premier League) e Wesley (88, Serie A TIM). Miley, cotado a 47k coins, lidera com 11,9% de alta em 24 horas e uma probabilidade de alta de 95%. Essa combinação é rara e extremamente atraente, indicando forte demanda e expectativa de continuidade. Wesley, a 110k coins, segue com 11,7% de alta, embora sua probabilidade de 8% torne o investimento significativamente mais arriscado que o de Miley.
+Por outro lado, é fundamental evitar cartas que, apesar de terem subido, apresentam probabilidade de alta de 0%. Amir Murillo e Jason Geria, ambos com rating 92 e preço de 15k coins, registraram aumentos de 11.3% e 9.1% respectivamente, mas a probabilidade de alta é nula. Isso sugere fortemente que esses ativos atingiram um pico temporário e estão prestes a sofrer uma queda de valor. Entrar nessas cartas agora seria contrariar a tendência estatística, resultando provavelmente em prejuízo. Portanto, a disciplina para não comprar apenas pelo aumento percentual recente, mas sim pela probabilidade futura, é essencial.
 
-Por fim, João Cancelo (87, ROSHN Saudi League) a 115k coins (2,6% de alta, 43% de probabilidade) e Jade Le Guilly (84, D1 Arkema) a 20k coins (26,1% de alta, 50% de probabilidade) completam o cenário. Le Guilly, apesar do enorme salto de 26,1%, possui probabilidade de apenas 50%, o que pode indicar um pico temporário ou "pump". Em resumo, para entrada segura, Maicon e Lewis Miley são as escolhas lógicas devido às altas probabilidades de 95%. Para apostas mais ousadas, Diogo Dalot e Tariq Lamptey oferecem o melhor equilíbrio entre ganho recente e chance de continuidade, enquanto cartas como Mats Deijl e Míchel Salgado devem ser evitadas pela baixa probabilidade de alta sustentada.
+Em resumo, as melhores entradas para hoje são Selma Bacha e Giovanni Di Lorenzo, devido à sua alta probabilidade de continuidade de valorização (95%), combinada com preços estáveis. Jade Le Guilly pode ser considerada para apostas mais arriscadas. Já cartas como Kimmich e Dest, embora tenham subido, possuem probabilidades de alta mais baixas (27% e 23%), exigindo cautela. A estratégia vencedora hoje é focar na qualidade da tendência (probabilidade) e não apenas na magnitude do ganho recente.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maicon | 88 | Serie A TIM | 110k coins | +1.9% | +86.4% | 95% |
-| João Cancelo | 87 | ROSHN Saudi League | 115k coins | +2.6% | +85.9% | 43% |
-| Mats Deijl | 88 | Eredivisie | 30k coins | +1.7% | +79.1% | 5% |
-| Jade Le Guilly | 84 | D1 Arkema | 20k coins | +26.1% | +61.1% | 50% |
-| Diogo Dalot | 87 | Premier League | 120k coins | +8.8% | +57% | 50% |
-| Carvajal | 89 | LALIGA EA SPORTS | 225k coins | +6.1% | +45.2% | 40% |
-| Tariq Lamptey | 89 | — | 39k coins | +9% | +38.2% | 46% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 43k coins | +3.8% | +37.5% | 5% |
-| Wesley | 88 | Serie A TIM | 110k coins | +11.7% | +36.6% | 8% |
-| Lewis Miley | 89 | Premier League | 47k coins | +11.9% | +36.2% | 95% |
-| Marcus Pedersen | 89 | Serie A TIM | 40k coins | +3.3% | +31.7% | 5% |
-| Ruben Kluivert | 86 | Ligue 1 McDonald's | 38k coins | +25% | +31.6% | 5% |
-| Nerea Nevado | 89 | Liga F | 25k coins | +21.7% | +26.2% | 5% |
-| Katie McCabe | 89 | Barclays WSL | 18k coins | +16.7% | +22.5% | 5% |
-| Carlos Alberto | 91 | Icons | 220k coins | +15.8% | +22.2% | 33% |
+| Joshua Kimmich | 89 | Bundesliga | 119k coins | +17.1% | +45.1% | 27% |
+| Jade Le Guilly | 84 | D1 Arkema | 22k coins | +26.2% | +42.6% | 50% |
+| Tariq Lamptey | 89 | — | 44k coins | +6.3% | +40% | 46% |
+| Allegra Poljak | 87 | Liga F | 21k coins | +2.3% | +39.1% | 5% |
+| Selma Bacha | 87 | D1 Arkema | 25k coins | +22.1% | +23.7% | 95% |
+| Sergiño Dest | 86 | Eredivisie | 116k coins | +11.4% | +21.2% | 23% |
+| Amir Murillo | 92 | — | 15k coins | +11.3% | +15.7% | 0% |
+| DeAndre Yedlin | 86 | MLS | 38k coins | +5.2% | +11.7% | 52% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 68k coins | +3% | +11.3% | 95% |
+| Jason Geria | 92 | — | 15k coins | +9.1% | +11.1% | 0% |
+| Katie McCabe | 89 | Barclays WSL | 22k coins | +7.3% | +10% | 5% |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 42k coins | +6.2% | +6.2% | 32% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 64k coins | +7.9% | +6.2% | 5% |
+| Javier Zanetti | 91 | Icons | 107k coins | +11.2% | +5.8% | 49% |
 
 
 ## 📈 Análise dos destaques
 
-- **Maicon (88)** — 110k coins, **+86.4% em 7 dias** (+1.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Joshua Kimmich (89)** — 119k coins, **+45.1% em 7 dias** (+17.1% em 24h). Preço -12% abaixo da média de 7 dias (descontada). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **João Cancelo (87)** — 115k coins, **+85.9% em 7 dias** (+2.6% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jade Le Guilly (84)** — 22k coins, **+42.6% em 7 dias** (+26.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mats Deijl (88)** — 30k coins, **+79.1% em 7 dias** (+1.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Tariq Lamptey (89)** — 44k coins, **+40% em 7 dias** (+6.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jade Le Guilly (84)** — 20k coins, **+61.1% em 7 dias** (+26.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Allegra Poljak (87)** — 21k coins, **+39.1% em 7 dias** (+2.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Diogo Dalot (87)** — 120k coins, **+57% em 7 dias** (+8.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Selma Bacha (87)** — 25k coins, **+23.7% em 7 dias** (+22.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -90,7 +89,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Maicon (88, Serie A TIM) lidera, com +86.4% em 7 dias a 110k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
+Joshua Kimmich (89, Bundesliga) lidera, com +45.1% em 7 dias a 119k coins no Console (PS), e o modelo dá 27% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
