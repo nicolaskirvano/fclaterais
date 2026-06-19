@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:12:18.000Z
+pubDatetime: 2026-06-19T22:12:43.000Z
 title: "Jogadores baratos de Laterais no EA FC (19/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 19/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/06/2026)?"
-    a: "Jason Geria (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Amir Murillo (92, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jason Geria (92) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Amir Murillo (92) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,29 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jason Geria | 92 | RB | — | 15k coins | +11.1% |
-| Amir Murillo | 92 | RB | — | 15k coins | +15.7% |
-| Nawaf Boushal | 91 | LB | — | 15k coins | +13.2% |
-| David Møller Wolfe | 91 | LB | — | 15k coins | +11.1% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 15k coins | -1.6% |
-| João Cancelo | 86 | LB | ROSHN Saudi League | 2k coins | +13.6% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | +4.3% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | +6.7% |
-| Hannah Blundell | 84 | LB | Barclays WSL | 4k coins | +200% |
-| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 4k coins | -17.5% |
+| Amir Murillo | 92 | RB | — | 14k coins | +5.9% |
+| Jason Geria | 92 | RB | — | 14k coins | 0% |
+| Amar Dedić | 92 | RB | — | 14k coins | +1.8% |
+| Yan Valery | 91 | RB | — | 14k coins | +7.8% |
+| David Møller Wolfe | 91 | LB | — | 14k coins | +3.7% |
+| Nawaf Boushal | 91 | LB | — | 14k coins | +3.7% |
+| Sonia Bompastor | 89 | LB | — | 13k coins | -24.3% |
+| Sara Holmgaard | 88 | LB | — | 14k coins | +5.7% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -6.5% |
+| João Cancelo | 86 | LB | ROSHN Saudi League | 2k coins | +9.1% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | +22.2% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14k coins | +16.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | +7.4% |
+| Alex Scott | 85 | RB | Barclays WSL | 14k coins | +29.8% |
 
 
 ## 📈 Destaques
 
-- **Jason Geria (92, RB)** da —, a apenas **15k coins**
+- **Amir Murillo (92, RB)** da —, a apenas **14k coins**
 
-- **Amir Murillo (92, RB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Jason Geria (92, RB)** da —, a apenas **14k coins**
 
-- **Nawaf Boushal (91, LB)** da —, a apenas **15k coins**
+- **Amar Dedić (92, RB)** da —, a apenas **14k coins**
 
-- **David Møller Wolfe (91, LB)** da —, a apenas **15k coins**
+- **Yan Valery (91, RB)** da —, a apenas **14k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **15k coins**
+- **David Møller Wolfe (91, LB)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -68,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/06/2026)?**  
-Jason Geria (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Amir Murillo (92, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
