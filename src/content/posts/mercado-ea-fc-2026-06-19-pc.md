@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:13:47.000Z
+pubDatetime: 2026-06-20T01:13:39.000Z
 title: "Laterais no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Amar Dedić (88, sem liga), com +46.9% em 24h, a 35k coins no PC."
+    a: "Sonia Bompastor (88, D1 Arkema), com +60% em 24h, a 30k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Izzy Rodriguez (94), -44.8% em 24h, a 24k coins."
+    a: "Julian Ryerson (93), -45.5% em 24h, a 90k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 56 cartas em alta contra 98 em queda (média -6.32%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 61 cartas em alta contra 103 em queda (média -3.96%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de laterais em 19 de junho de 2026 apresenta um cenário de extrema volatilidade e pressão vendedora, caracterizado por uma dominância clara das quedas sobre as altas, com 98 jogadores em queda contra apenas 56 em alta. A média do segmento registra uma desvalorização de -6.32% nas últimas 24 horas, indicando um ambiente hostil para traders que buscam segurança e sugerindo que o fluxo principal é de liquidificação de ativos. Esse desequilíbrio reflete um sentimento de cautela ou desconhecimento das próximas atualizações de conteúdo, onde os investidores estão priorizando a realização de ganhos ou corte de perdas em vez de acumulação de posições. A dispersão nos dados mostra que, embora haja oportunidades pontuais de alta em nomes específicos, a regra geral é a depreciação de valor, exigindo uma leitura atenta das probabilidades associadas a cada movimento. Traders experientes devem tratar este dia como uma oportunidade de compra seletiva em ativos fundamentais que estão sendo vendidos por pânico, enquanto evitam expor capital excessivo a jogadores com baixa probabilidade de reversão. O tom do dia é de desconfiança, onde a liquidez parece estar saindo do mercado mais rapidamente do que entrando, criando assimetrias de preço que podem ser exploradas por quem compreende a dinâmica de oferta e demanda em momentos de crise.
+O mercado de laterais em PC para 19 de junho de 2026 apresenta um cenário de extrema volatilidade e pressão vendedora, com uma clara dominância das quedas que reflete um sentimento de cautela generalizada entre os traders. Dos movimentos registrados nas últimas 24 horas, observamos 103 quedas contra apenas 61 altas, resultando em uma média negativa de -3.96%, o que indica que a liquidez está sendo drenada rapidamente de ativos que não possuem suporte fundamental forte. Esse ambiente hostil exige que os operadores mantenham uma disciplina rigorosa, evitando compras impulsivas em ativos que parecem baratos apenas pela queda recente, mas que carecem de fundamentos para reverter a tendência. A concentração de quedas em cards de alta raridade e ícones sugere que o mercado está reprecificando ativos que perderam relevância em metas competitivas ou que foram impactados por promoções de ofertas duplas. Portanto, a estratégia deve focar em identificar oportunidades de compra em ativos com alta probabilidade de alta projetada, enquanto se evita expor capital em ativos com probabilidade de alta zero, que tendem a continuar caindo.
 
-> 🟢 **Maior alta:** Amar Dedić (88) **+46.9%** · 🔴 **Maior baixa:** Izzy Rodriguez (94) **-44.8%**
+> 🟢 **Maior alta:** Sonia Bompastor (88) **+60%** · 🔴 **Maior baixa:** Julian Ryerson (93) **-45.5%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Amar Dedić | 88 | — | 35k coins | +46.9% | +72% |
-| Nuno Tavares | 87 | Serie A TIM | 69k coins | +42.1% | -28.9% |
-| Marc Cucurella | 86 | Premier League | 54k coins | +42.1% | +24.3% |
-| Francisco Calvo | 84 | Brasileirão | 55k coins | +35.6% | -16.8% |
-| Matheus Silva | 84 | Liga Azerbaijan | 42k coins | +34.1% | +55% |
-| Johan Mojica | 85 | LALIGA EA SPORTS | 60k coins | +28.3% | +12.1% |
-| Nuno Tavares | 91 | Serie A TIM | 60k coins | +20.6% | -1.6% |
-| Gianluca Zambrotta | 86 | Icons | 114k coins | +18.1% | +90.3% |
-| Carson Pickett | 86 | NWSL | 40k coins | +16.8% | +17.6% |
-| Givairo Read | 86 | Eredivisie | 25k coins | +15.4% | +31.2% |
+| Sonia Bompastor | 88 | D1 Arkema | 30k coins | +60% | +53.8% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 21k coins | +51.7% | -13.7% |
+| Nuno Tavares | 87 | Serie A TIM | 64k coins | +36.2% | -31.9% |
+| Francisco Calvo | 84 | Brasileirão | 42k coins | +35.7% | -22.3% |
+| Johan Mojica | 85 | LALIGA EA SPORTS | 60k coins | +28.3% | +9.1% |
+| Carson Pickett | 86 | NWSL | 37k coins | +21.3% | +19.4% |
+| Emmanuel Maviram | 84 | Liga Portugal | 42k coins | +19.6% | -17.1% |
+| Balde | 86 | LALIGA EA SPORTS | 72k coins | +18.9% | +6.6% |
+| Givairo Read | 86 | Eredivisie | 22k coins | +17.9% | +15% |
+| Alphonso Davies | 89 | Bundesliga | 199k coins | +17.1% | +18.5% |
 
 
-Entre as poucas luzes no mercado, Amar Dedić se destaca com uma impressionante alta de 46.9% em 24 horas, atingindo 35k coins, impulsionado por uma probabilidade de alta de 54% que sugere sustentação no movimento mesmo sem liga associada. Nuno Tavares (87, Serie A TIM) também apresenta uma valorização robusta de 42.1%, cotado a 69k coins, embora sua probabilidade de alta de apenas 26% indique que este pode ser um movimento especulativo de curto prazo sem fundamento técnico sólido. Marc Cucurella (86, Premier League) acompanha o mesmo ritmo de alta de 42.1%, valorizando-se a 54k coins, mas com uma probabilidade de alta de 23% que alerta para a fragilidade desta tendência, possivelmente sustentada apenas por flutuações momentâneas de demanda. Francisco Calvo (84, Brasileirão) sobe 35.6% para 55k coins, apoiado por uma probabilidade de alta de 56%, o que o torna uma das altas mais confiáveis do dia, sugerindo uma compra orgânica ou expectativa de utilidade no mercado de liga. Matheus Silva (84, Liga Azerbaijan) registra um aumento de 34.1% para 42k coins, com a maior probabilidade de alta entre os listados em 70%, indicando forte sentimento de compra e potencial de continuidade na valorização. Johan Mojica (85, LALIGA EA SPORTS) sobe 28.3% para 60k coins com 56% de probabilidade de alta, enquanto Nuno Tavares (91, Serie A TIM) avança 20.6% para 60k coins com 57% de chance de continuidade, mostrando que as versões de maior rating do jogador também estão atraindo investidores. Por fim, Gianluca Zambrotta (86, Icons) valoriza 18.1% para 114k coins com 54% de probabilidade de alta, demonstrando que até ícones estão sujeitos a ajustes de preço positivos em um mercado predominantemente negativo.
+Entre os poucos ativos que conseguiram se destacar no mar vermelho, Sonia Bompastor (88, D1 Arkema) liderou as altas com um impressionante aumento de 60% em 24 horas, atingindo 30k coins, embora a probabilidade de alta futura seja de apenas 38%, o que sugere uma correção técnica iminente e risco para quem comprar agora. Míchel Salgado (87, LALIGA EA SPORTS) subiu 51.7% para 21k coins, apresentando uma probabilidade de alta de 70%, o que o torna um dos ativos mais saudáveis para compra e segurar, indicando um movimento sustentado e não apenas especulativo. Nuno Tavares (87, Serie A TIM) registrou alta de 36.2% para 64k coins, mas com baixa probabilidade de alta de 26%, sugerindo que o movimento pode ser uma isca para atração de compradores antes de uma correção. Francisco Calvo (84, Brasileirão) subiu 35.7% para 42k coins com probabilidade de alta de 56%, oferecendo um equilíbrio razoável entre risco e retorno para traders de curto prazo. Johan Mojica (85, LALIGA EA SPORTS) cresceu 28.3% para 60k coins com 56% de probabilidade de alta, consolidando-se como uma opção interessante de médio prazo, enquanto Carson Pickett (86, NWSL) subiu 21.3% para 37k coins com 56% de chance de alta, reforçando a tendência de valorização em ligas menores com menos oferta.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Izzy Rodriguez | 94 | — | 24k coins | -44.8% | -44.5% |
-| Nuno Mendes | 95 | — | 610k coins | -43.5% | -23.5% |
-| Alphonso Davies | 95 | — | 449k coins | -41.1% | -28% |
-| Ian Maatsen | 96 | — | 280k coins | -41% | -34.9% |
-| Diogo Dalot | 87 | Premier League | 102k coins | -40% | -27.1% |
-| Trai Hume | 84 | Premier League | 32k coins | -38.7% | +28.7% |
-| Bixente Lizarazu | 90 | — | 20k coins | -38.3% | -43.1% |
-| Jurriën Timber | 87 | Premier League | 28k coins | -35.3% | -13.4% |
-| Philipp Lahm | 89 | Icons | 101k coins | -34.4% | -19.2% |
-| Cafu | 91 | Icons | 180k coins | -33% | -31.5% |
+| Julian Ryerson | 93 | — | 90k coins | -45.5% | -52.4% |
+| John Arne Riise | 88 | Premier League | 28k coins | -41.3% | +15% |
+| Lucas Digne | 96 | — | 200k coins | -40.7% | -32.4% |
+| Cafu | 91 | Icons | 158k coins | -37.7% | -43.3% |
+| Alphonso Davies | 95 | — | 520k coins | -35.7% | -23.1% |
+| Míchel Salgado | 94 | — | 54k coins | -34.2% | -33.2% |
+| Carlos Alberto | 91 | Icons | 143k coins | -33.9% | -12.9% |
+| Lilian Thuram | 93 | Icons | 995k coins | -33.3% | -8.2% |
+| Carlos Alberto | 92 | Icons | 250k coins | -31.8% | -41.8% |
+| Lilly Reale | 89 | NWSL | 21k coins | -30.8% | -40.7% |
 
 
-As quedas são severas e generalizadas, lideradas por Izzy Rodriguez (94, s/liga), que despencou 44.8% para 24k coins com probabilidade de alta de 0%, sinalizando uma queda livre sem suporte técnico aparente. Nuno Mendes (95, s/liga) sofreu uma alta de 43.5%, caindo para 610k coins, também com 0% de probabilidade de alta, indicando que o mercado está despejando ativos de alta gama sem expectativa de recuperação imediata. Alphonso Davies (95, s/liga) caiu 41.1% para 449k coins e Ian Maatsen (96, s/liga) despencou 41% para 280k coins, ambos com probabilidade de alta de 0%, confirmando a venda massiva de laterais de elite sem liga. Diogo Dalot (87, Premier League) perdeu 40% do valor, fechando em 102k coins, mas ainda mantém uma probabilidade de alta de 58%, o que pode indicar um fundo temporário ou oportunidade de compra de dip para traders agressivos. Trai Hume (84, Premier League) caiu 38.7% para 32k coins, mas com 63% de probabilidade de alta, sugerindo que a venda pode ter esgotado o sentimento negativo e que uma correção positiva é provável. Bixente Lizarazu (90, s/liga) despencou 38.3% para 20k coins com apenas 27% de chance de alta, refletindo a baixa liquidez e interesse em ícones mais antigos. Jurriën Timber (87, Premier League) caiu 35.3% para 28k coins, mas com 56% de probabilidade de alta, tornando-se um dos ativos de queda com melhor perfil de risco para possível reversão de tendência.
+As quedas foram severas e generalizadas, com Julian Ryerson (93, s/liga) despencando 45.5% para 90k coins, tendo probabilidade de alta de 0%, o que sinaliza uma queda livre sem suporte técnico visível e risco extremo para qualquer investimento. John Arne Riise (88, Premier League) caiu 41.3% para 28k coins, apesar de ter 40% de probabilidade de alta, o que indica que a pressão vendedora atual é muito forte para ser revertida imediatamente. Lucas Digne (96, s/liga) sofreu uma queda de 40.7% para 200k coins, com probabilidade de alta de 0%, confirmando que cards sem liga ativa estão sendo abandonados pelo mercado em massa. Cafu (91, Icons) caiu 37.7% para 158k coins, mas mantém 42% de probabilidade de alta, sugerindo que pode haver uma estabilização no médio prazo, mas o momento atual é de venda pura. Alphonso Davies (95, s/liga) despencou 35.7% para 520k coins, com 0% de probabilidade de alta, demonstrando que mesmo ídolos globais não estão imunes à falta de demanda quando não há suporte de liga ou evento.
 
 
 ## 🎯 O que fazer hoje
-A estratégia para hoje deve ser altamente seletiva, focando na compra de ativos com alta probabilidade de reversão após quedas acentuadas, como Trai Hume e Jurriën Timber, que apresentam quedas significativas mas com probabilidades de alta superiores a 55%. É crucial evitar a compra de ativos com probabilidade de alta de 0%, como Izzy Rodriguez, Nuno Mendes e Alphonso Davies, pois não há indicação estatística de recuperação imediata, tornando-os armadilhas para compradores de fundo. Investidores devem considerar segurar posições em Amar Dedić e Matheus Silva, que exibem altas sustentadas por probabilidades elevadas, esperando por mais valorização antes de realizar lucros. A venda de ativos de alta gama sem liga, como Davies e Maatsen, deve ser priorizada se o trader ainda detiver essas cartas, pois a tendência de queda é forte e sem sinais de esgotamento. O timing ideal para compra é durante os horários de menor liquidez, quando os preços podem estar mais desvalorizados devido ao pânico, permitindo entrada em ativos como Francisco Calvo com margem de segurança maior. Em resumo, o dia exige paciência e disciplina, focando em qualidade de probabilidade em vez de magnitude de preço, e evitando expor capital a ativos que o mercado já rejeitou completamente.
+Diante deste cenário, a estratégia do dia deve ser extremamente seletiva, focando na compra de ativos com alta probabilidade de alta e evitando completamente os que possuem probabilidade zero, como Julian Ryerson e Lucas Digne. Recomenda-se comprar Míchel Salgado (87) e Francisco Calvo (84) devido às suas probabilidades de alta superiores a 50% e aos preços ainda acessíveis de 21k e 42k coins, respectivamente, buscando lucros rápidos em um mercado de alta volatilidade. Deve-se evitar a compra de Sonia Bompastor (88) e Nuno Tavares (87) neste momento, pois a baixa probabilidade de alta (38% e 26%) indica que os preços já estão esticados e correções são prováveis. Traders de longo prazo podem observar Cafu (91) e Lilian Thuram (93) para compras escalonadas em níveis mais baixos, mas apenas após confirmação de estabilização, dada a queda recente de 37.7% e 33.3%. O timing crucial será nas próximas 12 horas, onde a pressão vendedora deve exaurir, permitindo compras em fundos locais de ativos como Johan Mojica e Carson Pickett.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -77,13 +77,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Amar Dedić (88, sem liga), com +46.9% em 24h, a 35k coins no PC.
+Sonia Bompastor (88, D1 Arkema), com +60% em 24h, a 30k coins no PC.
 
 **E a maior queda do dia?**  
-Izzy Rodriguez (94), -44.8% em 24h, a 24k coins.
+Julian Ryerson (93), -45.5% em 24h, a 90k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 56 cartas em alta contra 98 em queda (média -6.32%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 61 cartas em alta contra 103 em queda (média -3.96%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

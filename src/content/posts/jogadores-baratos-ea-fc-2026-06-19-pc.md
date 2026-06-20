@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:14:22.000Z
+pubDatetime: 2026-06-20T01:14:10.000Z
 title: "Jogadores baratos de Laterais no EA FC (19/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jason Geria | 92 | RB | — | 14k coins | +1.8% |
-| Amir Murillo | 92 | RB | — | 15k coins | +13.5% |
-| Yan Valery | 91 | RB | — | 14k coins | +9.8% |
-| David Møller Wolfe | 91 | LB | — | 14k coins | +3.6% |
-| Nawaf Boushal | 91 | LB | — | 14k coins | +5.6% |
-| João Cancelo | 86 | LB | ROSHN Saudi League | 6k coins | -36.1% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | +2% |
-| Hannah Blundell | 84 | LB | Barclays WSL | 8k coins | 0% |
-| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 3k coins | -3.6% |
+| Jason Geria | 92 | RB | — | 14k coins | -7% |
+| Amir Murillo | 92 | RB | — | 14k coins | 0% |
+| Yan Valery | 91 | RB | — | 13k coins | +2% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | 0% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | +46.7% |
+| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 3k coins | -3.4% |
 
 
 ## 📈 Destaques
 
 - **Jason Geria (92, RB)** da —, a apenas **14k coins**
 
-- **Amir Murillo (92, RB)** da —, a apenas **15k coins**
+- **Amir Murillo (92, RB)** da —, a apenas **14k coins**
 
-- **Yan Valery (91, RB)** da —, a apenas **14k coins**
+- **Yan Valery (91, RB)** da —, a apenas **13k coins**
 
-- **David Møller Wolfe (91, LB)** da —, a apenas **14k coins**
+- **John Arne Riise (86, LB)** da Premier League, a apenas **12k coins**
 
-- **Nawaf Boushal (91, LB)** da —, a apenas **14k coins**
+- **Alex Scott (85, RB)** da Barclays WSL, a apenas **11k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
