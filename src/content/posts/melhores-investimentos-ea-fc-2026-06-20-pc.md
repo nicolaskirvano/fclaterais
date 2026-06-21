@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:12:58.000Z
+pubDatetime: 2026-06-21T01:13:29.000Z
 title: "Melhores investimentos em Laterais no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Mary Alice Vignola (85, NWSL) lidera, com +70.5% em 7 dias a 26k coins no PC, e o modelo dá 47% de chance de seguir subindo."
+    a: "Jade Le Guilly (89, D1 Arkema) lidera, com +36.7% em 7 dias a 42k coins no PC, e o modelo dá 42% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Mary Alice Vignola (85) acumula **+70.5% em 7 dias** a 26k coins.
+> 🔝 **Destaque:** Jade Le Guilly (89) acumula **+36.7% em 7 dias** a 42k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No mercado de Ultimate Team do EA FC, a posição de lateral é frequentemente negligenciada por investidores iniciantes, mas os dados de 20 de junho de 2026 revelam oportunidades interessantes para quem busca lucros rápidos ou sustentáveis. Ao analisar a tendência de valorização dos últimos sete dias, focamos especificamente nas últimas 24 horas para identificar cartas com movimento agressivo. O objetivo aqui é destacar quais laterais apresentam o melhor equilíbrio entre preço de entrada, potencial de alta e probabilidade estatística de valorização, garantindo que o investidor não arrisque capital desnecessariamente em ativos voláteis sem fundamento.
+Ao analisar o mercado de Laterais para a data de 20 de junho de 2026, a volatilidade dos últimos sete dias revela oportunidades distintas para investidores em EA FC Ultimate Team. A análise foca em cartas que apresentam não apenas um pico de valorização em 24 horas, mas também uma probabilidade estatística relevante de manutenção dessa tendência de alta. Entre os destaques absolutos, Lucy Bronze se impõe com uma valorização de 28% em apenas um dia, atingindo a marca de 122k coins. Apesar de seu preço elevado, a probabilidade de alta de 54% sugere uma solidez no mercado, tornando-a uma aposta segura para quem busca estabilidade com retorno moderado a longo prazo, especialmente considerando seu status de 88 rating na Barclays WSL.
 
-Entre as opções de baixo custo, Mary Alice Vignola se destaca como a principal candidata para entrada imediata. A carta de 85 de overall, pertencente à NWSL, registrou um impressionante aumento de 31,6% em apenas 24 horas, consolidando seu preço atual em 26 mil coins. O que torna essa jogada atrativa não é apenas o ganho recente, mas a probabilidade calculada de alta de 47%. Para uma carta nessa faixa de preço, essa porcentagem indica um fluxo de demanda consistente, sugerindo que o valor pode continuar a subir enquanto o hype durar, oferecendo um retorno rápido sobre um investimento moderado.
+Para investidores com capital mais limitado, Jordan Teze e John Arne Riise oferecem perfis de risco e retorno extremamente atraentes. Teze, com 87 rating na Ligue 1 McDonald's, disparou 31,9% em 24 horas e está cotado a apenas 30k coins, com uma probabilidade de alta de 48%. Já Riise, o veterano da Premier League com 88 rating, apresenta a maior valorização percentual do grupo com 38,9% em 24 horas, também a 30k coins, embora sua probabilidade de alta seja ligeiramente menor, em 40%. Ambos representam entradas de baixo custo com potencial de multiplicação rápida, ideais para portfólios diversificados que buscam liquidez imediata.
 
-No segmento intermediário, Odriozola apresenta uma combinação estatística fascinante, embora o movimento recente seja mais conservador. O lateral espanhol, com 85 de overall da LaLiga EA Sports, subiu apenas 2,6% nas últimas 24 horas, posicionando-se a 30 mil coins. Contudo, a probabilidade de alta é a mais robusta do grupo analisado, com 53%. Isso sugere que a carta está em uma fase de acumulação silenciosa, onde a demanda está crescendo gradualmente sem causar picos artificiais de preço. Para investidores pacientes, essa é uma aposta de segurança, onde a alta probabilidade de valorização compensa a velocidade mais lenta do ganho diário.
+Outro par de cartas que merece atenção estratégica são João Cancelo e Denzel Dumfries, ambas valendo 100k coins. Cancelo, na ROSHN Saudi League, registrou uma alta de 35,1% em 24 horas com probabilidade de 40%, enquanto Dumfries, na Serie A TIM, subiu 25,8% com probabilidade de 36%. Embora os preços sejam significativos, a magnitude dos saltos diários indica forte demanda de mercado, possivelmente impulsionada por promoções ou desempenho no jogo. Para traders experientes, a entrada nesses ativos pode ser justificada pela consistência das altas, desde que haja monitoramento constante dos níveis de suporte.
 
-Para quem possui um capital maior e aceita riscos diferentes, Marcus Pedersen e Aaron Wan-Bissaka merecem atenção distinta. Pedersen, com 89 de overall da Serie A TIM, subiu 15,5% em 24h para 32 mil coins, com uma probabilidade de alta de 39%. Já Wan-Bissaka, também com 89, mas da Premier League, registrou um forte aumento de 25% para 44 mil coins, porém com uma probabilidade de alta menor, de apenas 24%. A diferença aqui é crucial: Wan-Bissaka oferece volatilidade e ganho rápido, mas com maior risco de correção, enquanto Pedersen oferece um caminho mais equilibrado entre crescimento recente e sustentabilidade estatística.
+No extremo superior de preço, Joshua Kimmich destaca-se pela sua probabilidade de alta, que é a mais alta do grupo, 61%, apesar de ter apresentado o menor crescimento percentual em 24 horas, de apenas 7,7%. Cota-se a 140k coins, Kimmich representa um ativo de reserva de valor, onde a confiança do mercado na continuidade da tendência é maior do que a volatilidade imediata. Por outro lado, David Raum, a 54k coins, mostra sinais de fraqueza com apenas 2,8% de alta e probabilidade de apenas 14%, sendo desaconselhável para entrada neste momento específico.
 
-No topo da pirâmide de preços, as decisões devem ser ainda mais cautelosas. Míchel Salgado, um ícone com 89 de overall da LaLiga EA Sports, está a 70 mil coins após subir 7,7%, com 45% de chance de alta. Já Alexander Bah, com 86 de overall da Liga Portugal, apresenta um cenário curioso: subiu 10,6% para um preço elevado de 157 mil coins, mas possui a menor probabilidade de alta do grupo, com apenas 10%. Isso indica que Bah pode estar no topo de seu ciclo de valorização de curto prazo, tornando-o uma má escolha para nova entrada, ao contrário de Salgado, que ainda mantém uma probabilidade saudável de continuar valorizando apesar do preço mais alto.
+Finalmente, as versões de Jade Le Guilly oferecem dois cenários de investimento. A versão de 89 rating, a 42k coins, subiu 2,5% com probabilidade de 42%, enquanto a versão de 84 rating, a 18k coins, cresceu 1,4% com probabilidade de 49%. A versão de menor custo parece ter uma probabilidade de alta ligeiramente superior, sugerindo que o mercado pode estar rotacionando para ativos mais acessíveis. Larrazabal, a 52k coins, completa o quadro com 17,3% de alta e 50% de probabilidade, posicionando-se como uma opção intermediária sólida entre custo e risco.
 
-Por fim, as cartas sem liga específica, como Sara Holmgaard (88, 22k coins, 2,6% de alta, 24% de probabilidade) e Alex Scott (93, 100k coins, 14,3% de alta, 36% de probabilidade), oferecem nichos específicos. Scott, apesar do preço elevado, tem uma probabilidade de alta de 36%, o que a torna mais atraente do que Bah para investidores de alto risco. A conclusão é clara: Mary Alice Vignola e Odriozola são as escolhas mais seguras para entrada hoje devido ao equilíbrio entre preço, ganho recente e alta probabilidade de continuidade, enquanto cartas como Bah devem ser evitadas devido à baixa probabilidade de continuidade da alta.
+Em resumo, as melhores entradas hoje são Jordan Teze e John Arne Riise pela relação custo-benefício e alta probabilidade de retorno rápido, seguidas por Lucy Bronze para estabilidade. Cancelo e Dumfries exigem maior capital e tolerância a risco, enquanto Kimmich serve como âncora de probabilidade. Evitar Raum é prudente, e as Le Guillys devem ser escolhidas conforme a estratégia de alavancagem desejada, priorizando a versão de 84 para maior probabilidade estatística.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,28 +45,29 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mary Alice Vignola | 85 | NWSL | 26k coins | +31.6% | +70.5% | 47% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 70k coins | +7.7% | +61.8% | 45% |
-| Aaron Wan-Bissaka | 89 | Premier League | 44k coins | +25% | +42.9% | 24% |
-| Odriozola | 85 | LALIGA EA SPORTS | 30k coins | +2.6% | +34.1% | 53% |
-| Alexander Bah | 86 | Liga Portugal | 157k coins | +10.6% | +22.7% | 10% |
-| Marcus Pedersen | 89 | Serie A TIM | 32k coins | +15.5% | +13.4% | 39% |
-| Sara Holmgaard | 88 | — | 22k coins | +2.6% | +13% | 24% |
-| Alex Scott | 93 | — | 100k coins | +14.3% | +8.7% | 36% |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 90k coins | +16.1% | +5.9% | 18% |
+| Jade Le Guilly | 89 | D1 Arkema | 42k coins | +2.5% | +36.7% | 42% |
+| Lucy Bronze | 88 | Barclays WSL | 122k coins | +28% | +30.6% | 54% |
+| Larrazabal | 84 | Liga Portugal | 52k coins | +17.3% | +30.4% | 50% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 30k coins | +31.9% | +29% | 48% |
+| John Arne Riise | 88 | Premier League | 30k coins | +38.9% | +18.9% | 40% |
+| Denzel Dumfries | 89 | Serie A TIM | 100k coins | +25.8% | +17.6% | 36% |
+| João Cancelo | 87 | ROSHN Saudi League | 100k coins | +35.1% | +13.6% | 40% |
+| Joshua Kimmich | 89 | Bundesliga | 140k coins | +7.7% | +12.9% | 61% |
+| David Raum | 84 | Bundesliga | 54k coins | +2.8% | +12.4% | 14% |
+| Jade Le Guilly | 84 | D1 Arkema | 18k coins | +1.4% | +7.6% | 49% |
 
 
 ## 📈 Análise dos destaques
 
-- **Mary Alice Vignola (85)** — 26k coins, **+70.5% em 7 dias** (+31.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jade Le Guilly (89)** — 42k coins, **+36.7% em 7 dias** (+2.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Míchel Salgado (89)** — 70k coins, **+61.8% em 7 dias** (+7.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lucy Bronze (88)** — 122k coins, **+30.6% em 7 dias** (+28% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Aaron Wan-Bissaka (89)** — 44k coins, **+42.9% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Larrazabal (84)** — 52k coins, **+30.4% em 7 dias** (+17.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Odriozola (85)** — 30k coins, **+34.1% em 7 dias** (+2.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jordan Teze (87)** — 30k coins, **+29% em 7 dias** (+31.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Alexander Bah (86)** — 157k coins, **+22.7% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+6%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **John Arne Riise (88)** — 30k coins, **+18.9% em 7 dias** (+38.9% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +85,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Mary Alice Vignola (85, NWSL) lidera, com +70.5% em 7 dias a 26k coins no PC, e o modelo dá 47% de chance de seguir subindo.
+Jade Le Guilly (89, D1 Arkema) lidera, com +36.7% em 7 dias a 42k coins no PC, e o modelo dá 42% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

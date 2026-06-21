@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:13:04.000Z
+pubDatetime: 2026-06-21T01:13:05.000Z
 title: "Laterais no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Juan Cuadrado (86, Serie A TIM), com +57.1% em 24h, a 30k coins no PC."
+    a: "Lisa Karl (84, GPFBL), com +58.3% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ashley Cole (92), -46.6% em 24h, a 73k coins."
+    a: "Ian Maatsen (89), -49.4% em 24h, a 22k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 64 cartas em alta contra 132 em queda (média -3.33%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 120 em queda (média -2.18%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O cenário do mercado de Laterais em PC para o dia 20 de junho de 2026 é dominado por uma clara tendência de desvalorização generalizada, com o sentimento dos traders refletindo cautela e liquidificação de ativos em larga escala. Os dados indicam um desequilíbrio significativo entre oferta e demanda, onde 132 jogadores sofreram quedas de preço em comparação a apenas 64 que registraram altas, resultando em uma variação média negativa de -3.33% nas últimas 24 horas. Esse ambiente hostil exige uma análise cirúrgica para identificar oportunidades de compra em ativos descontados ou evitar armadilhas em cartas que parecem estar subindo, mas podem ser picos isolados sem sustentação. A volatilidade extrema presente neste segmento sugere que a maioria dos investidores está realizando lucros ou cortando prejuízos, o que cria uma janela temporária de liquidez para operações de arbitragem rápida e compra de itens fundamentais para squads de longo prazo. É fundamental manter o foco na probabilidade de alta associada a cada movimento, pois nem toda queda representa uma oportunidade de compra segura, nem toda alta indica um movimento sustentável de mercado.
+O mercado de laterais no EA FC Ultimate Team apresenta uma dinâmica de extrema volatilidade e pessimismo generalizado nesta terça-feira, 20 de junho de 2026, com um saldo negativo esmagador que reflete a falta de confiança dos traders em ativos de médio e longo prazo. A análise dos dados das últimas 24 horas revela uma predominância clara das quedas, com 120 jogadores registrando desvalorização contra apenas 68 em alta, resultando em uma média de variação de -2.18% para todo o segmento. Este cenário de mercado em baixa sugere que a maioria dos jogadores está liquidando posições para reduzir exposição ao risco ou para alocar capital em outros segmentos que possam oferecer retornos mais seguros, criando uma oportunidade de compra seletiva para aqueles que entendem os ciclos de hype. O tom do dia é de cautela extrema, onde o volume de vendas supera amplamente a demanda, pressionando os preços para baixo e exigindo uma leitura atenta das probabilidades de alta associadas a cada ativo para evitar compras em ativos que estão apenas passando por uma correção temporária. A divergência entre os movimentos de alta e baixa indica que não há uma narrativa única movendo o mercado, mas sim ajustes específicos de preços baseados em eventos isolados ou flutuações naturais de oferta e demanda.
 
-> 🟢 **Maior alta:** Juan Cuadrado (86) **+57.1%** · 🔴 **Maior baixa:** Ashley Cole (92) **-46.6%**
+> 🟢 **Maior alta:** Lisa Karl (84) **+58.3%** · 🔴 **Maior baixa:** Ian Maatsen (89) **-49.4%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Cuadrado | 86 | Serie A TIM | 30k coins | +57.1% | +6.9% |
-| Olga Carmona | 87 | D1 Arkema | 26k coins | +45% | +30.3% |
-| João Cancelo | 87 | ROSHN Saudi League | 100k coins | +42.9% | +13.6% |
-| Narcis Ilaș | 87 | SUPERLIGA | 27k coins | +36.2% | +0.9% |
-| Lewis Miley | 83 | Premier League | 54k coins | +30.5% | +27.4% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 38k coins | +30.2% | -20.1% |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 42k coins | +29.7% | +0.6% |
-| Lisa Karl | 84 | GPFBL | 29k coins | +28.8% | -30.3% |
-| Lucy Bronze | 88 | Barclays WSL | 85k coins | +28.6% | +0.7% |
-| Balde | 90 | LALIGA EA SPORTS | 180k coins | +27.1% | +7.9% |
+| Lisa Karl | 84 | GPFBL | 28k coins | +58.3% | -6.6% |
+| Selma Bacha | 94 | D1 Arkema | 120k coins | +57.9% | -51.6% |
+| Lilian Thuram | 93 | Icons | 1.50M coins | +50.8% | +15.5% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 64k coins | +48.8% | +14.3% |
+| Juan Cuadrado | 86 | Serie A TIM | 38k coins | +48.1% | -8.6% |
+| Álvaro Carreras | 86 | LALIGA EA SPORTS | 44k coins | +45.5% | -38.8% |
+| Archie Brown | 85 | Trendyol Süper Lig | 86k coins | +45.4% | -21.4% |
+| Lilly Reale | 89 | NWSL | 30k coins | +44.6% | +0.8% |
+| Sakina Karchaoui | 88 | D1 Arkema | 60k coins | +41.2% | +20.6% |
+| John Arne Riise | 88 | Premier League | 30k coins | +38.9% | +18.9% |
 
 
-Entre as poucas luzes no mercado deprimido, Juan Cuadrado se destaca com um impressionante aumento de 57.1% em 24 horas, atingindo o preço de 30 mil coins, embora sua probabilidade de alta futura seja considerada baixa em apenas 30%, sugerindo que este seja um movimento especulativo de curto prazo sem forte suporte fundamental. Olga Carmona apresenta um perfil mais atraente para traders de medium term, com alta de 45% em 24 horas e preço atual de 26 mil coins, apoiada por uma robusta probabilidade de alta de 65%, o que indica forte demanda sustentada e potencial de continuidade na valorização. João Cancelo, por outro lado, registra alta de 42.9% em 24 horas, mas seu preço elevado de 100 mil coins e probabilidade de alta de apenas 40% tornam a entrada arriscada, indicando que a maioria dos compradores pode estar buscando liquidez rápida em um ativo de alto valor. Narcis Ilaș sobe 36.2% em 24 horas para 27 mil coins com probabilidade de alta de 32%, enquanto Lewis Miley, apesar de ser uma carta de Premier League, tem alta de 30.5% para 54 mil coins mas sofre com uma probabilidade de alta muito baixa de 10%, sinalizando saturação iminente. Giovanni Di Lorenzo (30.2% para 38k, prob. 25%) e Matthieu Udol (29.7% para 42k, prob. 42%) completam o grupo de altas moderadas, onde a probabilidade de Udol sugere maior resiliência de preço em comparação com a incerteza que cerca a sustentabilidade da valorização de Di Lorenzo em um mercado de baixa.
+Entre as poucas luzes neste mercado de baixa, destacam-se movimentos significativos em ativos específicos que deflagramem interesse imediato, com Lisa Karl liderando a lista com uma impressionante alta de 58.3% em 24 horas, atingindo o preço de 28k coins, apesar de sua probabilidade de alta futura ser considerada baixa em apenas 28%, o que sugere um pico de preço de curto prazo impulsionado por escassez momentânea de ofertas. Selma Bacha também se destaca com uma valorização de 57.9% para 120k coins, mas diferentemente de Karl, ela possui uma probabilidade de alta robusta de 74%, indicando que este movimento pode ter pernas para continuar subindo devido a uma combinação de demanda sustentada e baixa oferta no mercado. No topo da cadeia de valor, Lilian Thuram registra um aumento de 50.8% para 1.50M coins, um movimento típico de ativos premium onde a liquidez é menor e grandes oscilações são comuns, embora sua probabilidade de alta seja de apenas 17%, o que alerta traders a tratarem isso como uma oportunidade de venda rápida e não de investimento de longo prazo. Míchel Salgado apresenta um cenário interessante com 48.8% de alta para 64k coins e uma probabilidade de alta de 45%, equilibrando risco e retorno de maneira atrativa para traders que buscam ativos de preço médio com potencial de continuidade. Por fim, Juan Cuadrado sobe 48.1% para 38k coins com 30% de probabilidade de alta, enquanto Álvaro Carreras (45.5% para 44k, 24% prob.), Archie Brown (45.4% para 86k, 68% prob.) e Lilly Reale (44.6% para 30k, 66% prob.) completam o quadro, mostrando que atletas com probabilidades de alta superiores a 60%, como Brown e Reale, são os candidatos mais sólidos para serem segurados ou comprados em correções, pois o mercado parece estar validando seu valor intrínseco acima do preço atual, diferentemente de ativos como Thuram ou Karl que parecem estar em picos irracionais.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ashley Cole | 92 | — | 73k coins | -46.6% | -44.7% |
-| Nahuel Molina | 91 | — | 85k coins | -45.6% | -44.2% |
-| Patrick van Aanholt | 85 | Eredivisie | 24k coins | -45% | -39% |
-| Nicolò Savona | 83 | Premier League | 54k coins | -44.9% | -42.6% |
-| Ahmet Oğuz | 86 | EFL League One | 28k coins | -44.2% | -53.4% |
-| Mateo Chávez | 89 | — | 37k coins | -42.3% | -42.7% |
-| Gianluca Zambrotta | 86 | Icons | 65k coins | -41.4% | -16.1% |
-| Cafu | 95 | — | 282k coins | -41.2% | -77% |
-| Nuno Tavares | 91 | Serie A TIM | 34k coins | -40% | -44.6% |
-| Lucas Digne | 96 | — | 140k coins | -38.3% | -56% |
+| Ian Maatsen | 89 | Premier League | 22k coins | -49.4% | -37.1% |
+| Diogo Dalot | 87 | Premier League | 76k coins | -48.7% | -35.8% |
+| Carlos Romero | 95 | — | 23k coins | -48.6% | -72.3% |
+| Philipp Lahm | 89 | Icons | 138k coins | -47.3% | -47.3% |
+| Lucy Bronze | 95 | Barclays WSL | 150k coins | -46.4% | -30.9% |
+| Jurriën Timber | 87 | Premier League | 22k coins | -45.6% | -48.2% |
+| Ian Maatsen | 96 | — | 215k coins | -45% | -46.3% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 25k coins | -42.7% | -26.2% |
+| Carlos Alberto | 92 | Icons | 156k coins | -37.3% | -55% |
+| Gianluca Zambrotta | 86 | Icons | 70k coins | -34.6% | -20.9% |
 
 
-O lado das quedas é onde reside a maior volatilidade e oportunidade, com Ashley Cole despencando 46.6% em 24 horas para 73 mil coins, uma queda brutal em uma carta de elite que agora possui probabilidade de alta de apenas 12%, indicando risco extremo de continuação da desvalorização ou consolidação em patamares muito inferiores. Nahuel Molina acompanha a queda livre com -45.6% em 24 horas para 85 mil coins, mas sua probabilidade de alta de 36% sugere que, diferentemente de Cole, há um fundo de compradores esperando um preço mais acessível para reverter o fluxo. Patrick van Aanholt cai 45% em 24 horas para um preço atrativo de 24 mil coins e, crucialmente, apresenta a maior probabilidade de alta entre as baixas significativas com 56%, tornando-se um dos alvos mais promissores para rebote técnico. Nicolò Savona despencou 44.9% para 54 mil coins com probabilidade de alta de apenas 12%, enquanto Ahmet Oğuz teve queda similar de 44.2% para 28 mil coins também com probabilidade baixa de 12%, indicando que ambos podem sofrer mais pressão vendedora devido à falta de interesse comprador imediato. Mateo Chávez (-42.3% para 37k, prob. 42%) e Gianluca Zambrotta (-41.4% para 65k, prob. 54%) mostram quedas severas, mas a alta probabilidade de Zambrotta sugere que a comunidade de traders vê valor residual na carta, ao contrário de Savona e Oğuz que parecem ter perdido seu suporte de preço.
+As quedas no mercado de laterais são severas e abrangem desde ativos de entrada até ícones de alto custo, com Ian Maatsen (89) sofrendo uma desvalorização brutal de 49.4% para 22k coins, um sinal claro de que o hype que o sustentava se esgotou, embora sua probabilidade de alta de 66% sugira que este preço pode ser um fundo temporário antes de uma recuperação. Diogo Dalot acompanha a tendência negativa com uma queda de 48.7% para 76k coins, refletindo a saturação de ofertas no mercado de Premier League, onde a probabilidade de alta de 58% indica que a estabilização dos preços pode estar próxima, mas o momento atual é de forte venda. Carlos Romero (95) cai 48.6% para 23k coins e, crucialmente, possui probabilidade de alta de 0%, o que significa que não há expectativa de recuperação imediata, tornando-o um ativo a ser evitado completamente até que novos dados indiquem uma mudança estrutural na demanda. Philipp Lahm, um ícone clássico, perde 47.3% de seu valor para 138k coins, demonstrando que até mesmo cartas de legado não estão imunes às pressões do mercado, apesar de manter uma probabilidade de alta de 60%, o que pode atrair compradores contrarian no longo prazo. Lucy Bronze (95) desvaloriza 46.4% para 150k coins, um movimento significativo em ativos de elite, mas sua alta probabilidade de alta de 64% sugere que esta queda pode ser uma oportunidade de compra para traders de maior capital que acreditam na valorização futura de ícones femininos. Jurriën Timber (-45.6% para 22k, 56% prob.), Ian Maatsen (96) (-45% para 215k, 0% prob.) e Ruben Kluivert (-42.7% para 25k, 50% prob.) completam a lista de perdedores, com destaque para o Maatsen de alta raridade que, ao ter 0% de probabilidade de alta, representa um risco extremo de perda de capital, enquanto o Timber e o Kluivert parem estar em fases de correção natural onde a entrada pode ser segura se acompanhada de stop-loss rigorosos.
 
 
 ## 🎯 A estratégia do dia
-A estratégia ideal para hoje é evitar agressivamente ativos em alta com baixa probabilidade de sustentação, como Juan Cuadrado e Lewis Miley, pois o risco de compra no topo é elevado em um mercado com tendência média de -3.33%. O foco principal deve ser a compra estratégica de ativos em queda que possuem alta probabilidade de reversão, sendo Patrick van Aanholt o alvo número um devido à sua queda de 45% combinada com a chance de alta de 56% e preço baixo de 24 mil coins, oferecendo excelente relação risco-retorno. Gianluca Zambrotta também merece atenção imediata para compra a 65 mil coins, pois sua probabilidade de alta de 54% em meio a uma queda de 41.4% indica um forte potencial de recuperação de valor a curto prazo. É aconselhável segurar posições em Olga Carmona, cuja probabilidade de alta de 65% e queda relativa menor de preço a tornam um ativo defensivo sólido contra a volatilidade do mercado. Por fim, evite completamente Ashley Cole e Nicolò Savona por enquanto, pois suas baixas probabilidades de alta (12%) sugerem que o fundo do poço ainda não foi atingido, e entrar agora seria tentar pegar uma faca caindo sem garantia de suporte.
+A estratégia para hoje deve ser altamente seletiva, focando em aproveitar as quedas acentuadas em ativos com alta probabilidade de recuperação, evitando-se a qualquer custo os ativos com probabilidade de alta nula ou baixa que estão em tendência de baixa. Recomenda-se fortemente a compra de Selma Bacha e Archie Brown, pois suas altas probabilidades de alta (74% e 68%, respectivamente) combinadas com preços ajustados indicam que o mercado está corrigindo para um novo equilíbrio mais alto, oferecendo uma relação risco-retorno favorável para traders de médio prazo. Lucy Bronze e Philipp Lahm também merecem atenção como oportunidades de compra em fundo de mercado, pois suas quedas de 46.4% e 47.3% respectivamente, parem ser exageradas em relação à sua utilidade de longo prazo, especialmente considerando suas probabilidades de alta de 64% e 60%, o que sugere uma eventual valorização quando o pânico de venda acalmar. É imperativo evitar a compra de Carlos Romero e Ian Maatsen (96), pois a probabilidade de alta de 0% em ambos indica que não há suporte de compra visível no horizonte imediato, transformando qualquer investimento neles em uma aposta pura sem fundamento analítico. Por fim, traders com perfil agressivo podem considerar a venda rápida de Lisa Karl e Lilian Thuram, aproveitando as altas de 58.3% e 50.8% para realizar lucros, já que suas baixas probabilidades de alta futura (28% e 17%) sugerem que esses picos de preço são insustentáveis e uma correção é iminente, garantindo assim a proteção do capital em um dia onde a média do mercado é negativa.
 
 
 ## 🔍 Como apuramos os preços
@@ -77,13 +77,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Juan Cuadrado (86, Serie A TIM), com +57.1% em 24h, a 30k coins no PC.
+Lisa Karl (84, GPFBL), com +58.3% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Ashley Cole (92), -46.6% em 24h, a 73k coins.
+Ian Maatsen (89), -49.4% em 24h, a 22k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 64 cartas em alta contra 132 em queda (média -3.33%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 120 em queda (média -2.18%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
