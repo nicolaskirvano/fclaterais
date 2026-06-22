@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T10:11:05.000Z
+pubDatetime: 2026-06-22T13:11:05.000Z
 title: "Jogadores baratos de Laterais no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 22/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/06/2026)?"
-    a: "Adam Reach (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Fabio Fehr (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Adam Reach (94) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Fabio Fehr (93) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Adam Reach | 94 | LB | — | 15k coins | -66.9% |
-| Nina Lührßen | 93 | LB | — | 12k coins | -68.5% |
-| Santiago Mouriño | 93 | RB | — | 12k coins | -68.7% |
-| Maximiliano Araújo | 93 | LB | — | 12k coins | -68% |
-| Marco Palestra | 93 | RB | — | 12k coins | -67.8% |
-| Avery Patterson | 93 | RB | — | 12k coins | -68% |
-| Fabio Fehr | 93 | RB | — | 12k coins | -68.4% |
-| Matthieu Udol | 93 | LB | — | 12k coins | -67.1% |
-| Marc Cucurella | 93 | LB | — | 14k coins | -72% |
-| David Raum | 92 | LB | — | 12k coins | -70.4% |
-| Tristan Crama | 92 | RB | — | 12k coins | -70.4% |
-| Katie McCabe | 92 | LB | — | 12k coins | -69.1% |
-| Grimaldo | 92 | LB | — | 12k coins | -69.1% |
-| Tarciane | 92 | RB | — | 12k coins | -71.7% |
+| Fabio Fehr | 93 | RB | — | 12k coins | -65.6% |
+| Maximiliano Araújo | 93 | LB | — | 12k coins | -67.3% |
+| Santiago Mouriño | 93 | RB | — | 12k coins | -66.7% |
+| Nina Lührßen | 93 | LB | — | 12k coins | -66.4% |
+| Avery Patterson | 93 | RB | — | 13k coins | -66.7% |
+| Matthieu Udol | 93 | LB | — | 13k coins | -66.4% |
+| Marc Cucurella | 93 | LB | — | 13k coins | -71.8% |
+| Marco Palestra | 93 | RB | — | 13k coins | -65.8% |
+| Tristan Crama | 92 | RB | — | 12k coins | -70.1% |
+| Bart van Rooij | 92 | RB | — | 12k coins | -70.3% |
 | Camilla Küver | 92 | RB | — | 12k coins | -69.1% |
+| David Raum | 92 | LB | — | 12k coins | -70.4% |
+| Grimaldo | 92 | LB | — | 12k coins | -69.1% |
+| Katie McCabe | 92 | LB | — | 12k coins | -69.1% |
+| Tarciane | 92 | RB | — | 12k coins | -72% |
 
 
 ## 📈 Destaques
 
-- **Adam Reach (94, LB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Nina Lührßen (93, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Santiago Mouriño (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fabio Fehr (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Maximiliano Araújo (93, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marco Palestra (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Santiago Mouriño (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Nina Lührßen (93, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Avery Patterson (93, RB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/06/2026)?**  
-Adam Reach (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Fabio Fehr (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
