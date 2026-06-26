@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:11:05.000Z
+pubDatetime: 2026-06-26T22:11:05.000Z
 title: "Jogadores baratos de Laterais no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bixente Lizarazu | 93 | LB | — | 13k coins | -37% |
+| Bixente Lizarazu | 93 | LB | — | 13k coins | -34.6% |
+| Marc Cucurella | 93 | LB | — | 14k coins | +9.8% |
 | Sonia Bompastor | 89 | LB | — | 12k coins | -14.3% |
-| Katie McCabe | 89 | LB | Barclays WSL | 14k coins | -13% |
-| Ricardo Rodríguez | 88 | LB | — | 13k coins | -6.7% |
-| Sara Holmgaard | 88 | LB | — | 13k coins | -7.1% |
-| Ashley Cole | 88 | LB | — | 14k coins | -23.7% |
-| David Raum | 87 | LB | Bundesliga | 12k coins | -42.7% |
-| Selma Bacha | 87 | LB | D1 Arkema | 12k coins | -37.5% |
-| Olga Carmona | 87 | LB | D1 Arkema | 12k coins | -37% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 13k coins | -25.7% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 15k coins | -18.4% |
+| Katie McCabe | 89 | LB | Barclays WSL | 13k coins | -16.7% |
+| Sara Holmgaard | 88 | LB | — | 12k coins | -7.1% |
+| Ashley Cole | 88 | LB | — | 14k coins | -19.4% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | -14.7% |
+| Ricardo Rodríguez | 88 | LB | — | 14k coins | -8.2% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -19.4% |
+| David Raum | 87 | LB | Bundesliga | 12k coins | -37.5% |
+| Olga Carmona | 87 | LB | D1 Arkema | 13k coins | -37.3% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | -24.3% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -2.1% |
 | John Arne Riise | 86 | LB | Premier League | 12k coins | -2.1% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -2.1% |
 | Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -4% |
-| Andrea Medina | 86 | LB | Liga F | 13k coins | -6.9% |
 
 
 ## 📈 Destaques
 
 - **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Marc Cucurella (93, LB)** da —, a apenas **14k coins**
+
 - **Sonia Bompastor (89, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Katie McCabe (89, LB)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Katie McCabe (89, LB)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ricardo Rodríguez (88, LB)** da —, a apenas **13k coins**
-
-- **Sara Holmgaard (88, LB)** da —, a apenas **13k coins**
+- **Sara Holmgaard (88, LB)** da —, a apenas **12k coins**
 
 
 ## Por que estas cartas?
