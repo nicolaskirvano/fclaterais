@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:11:05.000Z
+pubDatetime: 2026-06-27T13:11:05.000Z
 title: "Jogadores baratos de Laterais no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Bixente Lizarazu | 93 | LB | — | 13k coins | -35.8% |
-| Amar Dedić | 93 | RB | — | 14k coins | +20.8% |
-| Jason Geria | 93 | RB | — | 14k coins | +7.7% |
-| Amir Murillo | 92 | RB | — | 14k coins | +7.7% |
-| Sonia Bompastor | 89 | LB | — | 13k coins | +1.9% |
-| Sara Holmgaard | 88 | LB | — | 11k coins | -7.5% |
-| Esmee Brugts | 88 | LB | Liga F | 13k coins | -19.7% |
-| Ricardo Rodríguez | 88 | LB | — | 13k coins | -10.3% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 13k coins | -14.8% |
-| Ashley Cole | 88 | LB | — | 14k coins | -1.7% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -18.1% |
-| David Raum | 87 | LB | Bundesliga | 13k coins | -13.3% |
-| Olga Carmona | 87 | LB | D1 Arkema | 13k coins | -30.8% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14k coins | -15.6% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | 0% |
+| Amar Dedić | 93 | RB | — | 14k coins | +7.5% |
+| Jason Geria | 93 | RB | — | 14k coins | +11.5% |
+| Amir Murillo | 92 | RB | — | 14k coins | +9.6% |
+| Yan Valery | 91 | RB | — | 15k coins | +26.9% |
+| Sonia Bompastor | 89 | LB | — | 13k coins | +3.8% |
+| Katie McCabe | 89 | LB | Barclays WSL | 15k coins | -9.2% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 12k coins | -21.9% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | -12.5% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -19.4% |
+| Selma Bacha | 87 | LB | D1 Arkema | 12k coins | -14.3% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 12k coins | -21.9% |
+| Olga Carmona | 87 | LB | D1 Arkema | 12k coins | -24.7% |
+| David Raum | 87 | LB | Bundesliga | 12k coins | -13.8% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -12.5% |
 
 
 ## 📈 Destaques
 
 - **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Amar Dedić (93, RB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Amar Dedić (93, RB)** da —, a apenas **14k coins**
 
 - **Jason Geria (93, RB)** da —, a apenas **14k coins**
 
 - **Amir Murillo (92, RB)** da —, a apenas **14k coins**
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **13k coins**
+- **Yan Valery (91, RB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

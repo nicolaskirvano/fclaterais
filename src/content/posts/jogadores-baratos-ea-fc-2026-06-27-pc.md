@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:11:09.000Z
+pubDatetime: 2026-06-27T13:11:09.000Z
 title: "Jogadores baratos de Laterais no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Pervis Estupiñán (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Bixente Lizarazu (93, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Pervis Estupiñán (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Bixente Lizarazu (93) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pervis Estupiñán | 94 | LB | — | 14k coins | -40.6% |
-| Matthieu Udol | 93 | LB | — | 13k coins | +1.9% |
-| Bixente Lizarazu | 93 | LB | — | 13k coins | -34.6% |
-| Marco Palestra | 93 | RB | — | 13k coins | +3.8% |
-| Fabio Fehr | 93 | RB | — | 13k coins | +3.8% |
-| Nina Lührßen | 93 | LB | — | 13k coins | +3.9% |
+| Bixente Lizarazu | 93 | LB | — | 13k coins | -35.8% |
+| Matthieu Udol | 93 | LB | — | 14k coins | +3.8% |
+| Nina Lührßen | 93 | LB | — | 14k coins | +5.9% |
 | Avery Patterson | 93 | RB | — | 14k coins | +3.8% |
-| Santiago Mouriño | 93 | RB | — | 14k coins | +3.8% |
-| Jason Geria | 93 | RB | — | 14k coins | -1.9% |
-| Grimaldo | 92 | LB | — | 13k coins | +1.9% |
-| Bart van Rooij | 92 | RB | — | 13k coins | +3.9% |
-| Katie McCabe | 92 | LB | — | 13k coins | +3.9% |
-| David Raum | 92 | LB | — | 14k coins | +3.9% |
+| Jason Geria | 93 | RB | — | 15k coins | +11.3% |
+| Grimaldo | 92 | LB | — | 14k coins | +5.9% |
+| Katie McCabe | 92 | LB | — | 14k coins | +5.9% |
+| David Raum | 92 | LB | — | 14k coins | +5.9% |
+| Tristan Crama | 92 | RB | — | 14k coins | +5.9% |
+| Bart van Rooij | 92 | RB | — | 14k coins | +5.9% |
 | Camilla Küver | 92 | RB | — | 14k coins | +5.9% |
-| Amir Murillo | 92 | RB | — | 14k coins | +3.8% |
+| Amir Murillo | 92 | RB | — | 14k coins | +5.7% |
+| Lilly Reale | 91 | LB | — | 12k coins | 0% |
+| Alberto Costa | 91 | RB | — | 12k coins | 0% |
+| Andy Najar | 91 | RB | — | 14k coins | +5.9% |
 
 
 ## 📈 Destaques
 
-- **Pervis Estupiñán (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Matthieu Udol (93, LB)** da —, a apenas **13k coins**
-
 - **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marco Palestra (93, RB)** da —, a apenas **13k coins**
+- **Matthieu Udol (93, LB)** da —, a apenas **14k coins**
 
-- **Fabio Fehr (93, RB)** da —, a apenas **13k coins**
+- **Nina Lührßen (93, LB)** da —, a apenas **14k coins**
+
+- **Avery Patterson (93, RB)** da —, a apenas **14k coins**
+
+- **Jason Geria (93, RB)** da —, a apenas **15k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Pervis Estupiñán (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Bixente Lizarazu (93, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
