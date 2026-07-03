@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:11:05.000Z
+pubDatetime: 2026-07-03T19:11:05.000Z
 title: "Jogadores baratos de Laterais no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Richie Laryea (94, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Richie Laryea (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Richie Laryea (94) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Richie Laryea (94) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Richie Laryea | 94 | LB | — | 13k coins | -35.8% |
-| Gideon Mensah | 92 | LB | — | 12k coins | 0% |
-| Amir Murillo | 92 | RB | — | 14k coins | +9.1% |
+| Richie Laryea | 94 | LB | — | 14k coins | -35.8% |
+| Jason Geria | 93 | RB | — | 15k coins | +10.9% |
 | Sonia Bompastor | 89 | LB | — | 13k coins | +12.5% |
-| Katie McCabe | 89 | LB | Barclays WSL | 15k coins | +25.9% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -18.5% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 14k coins | +15.4% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | 0% |
-| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | +2% |
-| Allegra Poljak | 87 | RB | Liga F | 14k coins | -16.7% |
-| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 14k coins | -21.7% |
-| Olga Carmona | 87 | LB | D1 Arkema | 15k coins | +10.9% |
-| David Raum | 87 | LB | Bundesliga | 15k coins | +17.6% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | +3.6% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -11.8% |
+| Sara Holmgaard | 88 | LB | — | 11k coins | +3.8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -17% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | +5.6% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 15k coins | +17.6% |
+| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | +4% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +20% |
+| Olga Carmona | 87 | LB | D1 Arkema | 14k coins | 0% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 15k coins | +26.2% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | 0% |
+| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 15k coins | -10.1% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +21.4% |
+| John Arne Riise | 86 | LB | Premier League | 11k coins | -2.2% |
 
 
 ## 📈 Destaques
 
-- **Richie Laryea (94, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Richie Laryea (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gideon Mensah (92, LB)** da —, a apenas **12k coins**
-
-- **Amir Murillo (92, RB)** da —, a apenas **14k coins**
+- **Jason Geria (93, RB)** da —, a apenas **15k coins**
 
 - **Sonia Bompastor (89, LB)** da —, a apenas **13k coins**
 
-- **Katie McCabe (89, LB)** da Barclays WSL, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Sara Holmgaard (88, LB)** da —, a apenas **11k coins**
+
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Richie Laryea (94, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Richie Laryea (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
