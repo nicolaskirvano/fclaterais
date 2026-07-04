@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:11:09.000Z
+pubDatetime: 2026-07-04T13:11:09.000Z
 title: "Jogadores baratos de Laterais no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,29 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jason Geria | 93 | RB | — | 14k coins | +5.6% |
-| Gideon Mensah | 92 | LB | — | 12k coins | +4.3% |
-| Katie McCabe | 89 | LB | Barclays WSL | 15k coins | -26.8% |
-| Sara Holmgaard | 88 | LB | — | 14k coins | -32.6% |
+| Jason Geria | 93 | RB | — | 14k coins | +7.4% |
+| Amir Murillo | 92 | RB | — | 15k coins | +14.8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -58.3% |
 | Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -18.8% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | -14% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | +17.4% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | 0% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 14k coins | -7.4% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | -13.7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | +20.9% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -52.8% |
 
 
 ## 📈 Destaques
 
 - **Jason Geria (93, RB)** da —, a apenas **14k coins**
 
-- **Gideon Mensah (92, LB)** da —, a apenas **12k coins**
+- **Amir Murillo (92, RB)** da —, a apenas **15k coins**
 
-- **Katie McCabe (89, LB)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Sara Holmgaard (88, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Grace Kazadi (87, RB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
 
 
 ## Por que estas cartas?
