@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T13:11:09.000Z
+pubDatetime: 2026-07-04T19:11:09.000Z
 title: "Jogadores baratos de Laterais no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jason Geria | 93 | RB | — | 14k coins | +7.4% |
-| Amir Murillo | 92 | RB | — | 15k coins | +14.8% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -58.3% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -18.8% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | -13.7% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | +20.9% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -52.8% |
+| Jason Geria | 93 | RB | — | 14k coins | +5.6% |
+| Bixente Lizarazu | 93 | LB | — | 15k coins | +21.2% |
+| Gideon Mensah | 92 | LB | — | 12k coins | +8.7% |
+| Amir Murillo | 92 | RB | — | 15k coins | +11.1% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +20% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -47.5% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +206.7% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | +15.2% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | +14% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | +39.5% |
+| Alex Scott | 85 | RB | Barclays WSL | 14k coins | +17.8% |
 
 
 ## 📈 Destaques
 
 - **Jason Geria (93, RB)** da —, a apenas **14k coins**
 
+- **Bixente Lizarazu (93, LB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Gideon Mensah (92, LB)** da —, a apenas **12k coins**
+
 - **Amir Murillo (92, RB)** da —, a apenas **15k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Grace Kazadi (87, RB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
