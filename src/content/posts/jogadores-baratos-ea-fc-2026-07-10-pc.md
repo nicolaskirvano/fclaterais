@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T13:11:10.000Z
+pubDatetime: 2026-07-10T16:11:10.000Z
 title: "Jogadores baratos de Laterais no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,26 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thomas Meunier | 92 | RB | — | 13k coins | +8.5% |
-| Gideon Mensah | 92 | LB | — | 15k coins | +28.3% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +10% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 15k coins | -23.3% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 5k coins | +246.2% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | 0% |
+| Thomas Meunier | 92 | RB | — | 13k coins | +12.8% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 15k coins | -5.1% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 5k coins | +235.7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | -1.9% |
+| John Arne Riise | 86 | LB | Premier League | 14k coins | +75.6% |
+| Theo Hernández | 84 | LB | Serie A Enilive | 2k coins | +54.5% |
 | Christian Günter | 84 | LB | Bundesliga | 14k coins | -20.5% |
+| Jade Le Guilly | 84 | RB | D1 Arkema | 14k coins | +5.1% |
 
 
 ## 📈 Destaques
 
 - **Thomas Meunier (92, RB)** da —, a apenas **13k coins**
 
-- **Gideon Mensah (92, LB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins**
-
-- **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **15k coins**
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **14k coins**
+
+- **John Arne Riise (86, LB)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
