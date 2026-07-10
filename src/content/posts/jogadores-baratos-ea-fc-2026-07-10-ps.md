@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T16:11:05.000Z
+pubDatetime: 2026-07-10T19:11:06.000Z
 title: "Jogadores baratos de Laterais no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Gideon Mensah (92, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gideon Mensah (92) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gideon Mensah | 92 | LB | — | 13k coins | +15.2% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -15.6% |
-| Sonia Bompastor | 89 | LB | — | 14k coins | +7.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -28.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +13.7% |
 | Sara Holmgaard | 88 | LB | — | 14k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +14.3% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -17.1% |
 | Mats Deijl | 88 | RB | Eredivisie | 15k coins | -33% |
-| Allegra Poljak | 87 | RB | Liga F | 13k coins | -9.1% |
-| Narcis Ilaș | 87 | RB | SUPERLIGA | 14k coins | -33.3% |
-| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 14k coins | -9.4% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 15k coins | -15.7% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 4k coins | +233.3% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | +8.7% |
-| John Arne Riise | 86 | LB | Premier League | 13k coins | +15.6% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | +15.2% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 15k coins | +20% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 12k coins | -18.8% |
+| Allegra Poljak | 87 | RB | Liga F | 12k coins | -7.4% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -14.7% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +1.7% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | +6.5% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | +2.2% |
+| Alfonso Espino | 86 | LB | LALIGA EA SPORTS | 14k coins | -27.2% |
 
 
 ## 📈 Destaques
 
-- **Gideon Mensah (92, LB)** da —, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Sonia Bompastor (89, LB)** da —, a apenas **14k coins**
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins**
 
 - **Sara Holmgaard (88, LB)** da —, a apenas **14k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins**
+- **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +70,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-Gideon Mensah (92, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
