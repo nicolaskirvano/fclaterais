@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:11:05.000Z
+pubDatetime: 2026-07-11T13:11:05.000Z
 title: "Jogadores baratos de Laterais no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Sonia Bompastor (89, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sonia Bompastor (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sonia Bompastor | 89 | LB | — | 13k coins | -3.6% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 15k coins | +11.1% |
-| Sara Holmgaard | 88 | LB | — | 15k coins | +9.1% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -11.3% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | +8.5% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13k coins | +11.8% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -19% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 14k coins | +3.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -26.5% |
+| Sonia Bompastor | 89 | LB | — | 12k coins | -5.5% |
+| Sara Holmgaard | 88 | LB | — | 13k coins | +7.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | 0% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -5.2% |
+| Selma Bacha | 87 | LB | D1 Arkema | 14k coins | +17.6% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 14k coins | -22.2% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +1.7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -20.4% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | +4.1% |
 
 
 ## 📈 Destaques
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **13k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **15k coins**
+- **Sonia Bompastor (89, LB)** da —, a apenas **12k coins**
 
-- **Sara Holmgaard (88, LB)** da —, a apenas **15k coins**
+- **Sara Holmgaard (88, LB)** da —, a apenas **13k coins**
 
-- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins**
 
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **13k coins**
+- **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -66,7 +68,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Sonia Bompastor (89, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
