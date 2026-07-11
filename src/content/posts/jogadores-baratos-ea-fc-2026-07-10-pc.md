@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T16:11:10.000Z
+pubDatetime: 2026-07-11T01:11:10.000Z
 title: "Jogadores baratos de Laterais no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Thomas Meunier (92, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Sonia Bompastor (89, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Thomas Meunier (92) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Sonia Bompastor (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thomas Meunier | 92 | RB | — | 13k coins | +12.8% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 15k coins | -5.1% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 5k coins | +235.7% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | -1.9% |
-| John Arne Riise | 86 | LB | Premier League | 14k coins | +75.6% |
-| Theo Hernández | 84 | LB | Serie A Enilive | 2k coins | +54.5% |
-| Christian Günter | 84 | LB | Bundesliga | 14k coins | -20.5% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 14k coins | +5.1% |
+| Sonia Bompastor | 89 | LB | — | 14k coins | -7.7% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -4.4% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | -14.3% |
+| Christian Günter | 84 | LB | Bundesliga | 14k coins | -28.6% |
 
 
 ## 📈 Destaques
 
-- **Thomas Meunier (92, RB)** da —, a apenas **13k coins**
+- **Sonia Bompastor (89, LB)** da —, a apenas **14k coins**
 
-- **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **15k coins**
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **14k coins**
-
-- **John Arne Riise (86, LB)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Christian Günter (84, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -66,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-Thomas Meunier (92, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
+Sonia Bompastor (89, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
