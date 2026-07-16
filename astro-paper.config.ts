@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fclaterais.pages.dev/",
     title: "Lateral Market",
     description:
-      "Os melhores laterais do EA FC Ultimate Team: precos e mercado, todos os dias.",
+      "Os melhores laterais do EA FC Ultimate Team: preços e mercado, todos os dias.",
     author: "Lateral Market",
-    profile: "https://fclaterais.pages.dev/",
+    profile: "https://fclaterais.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Lateral Market",
