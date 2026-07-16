@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:42:58.000Z
+pubDatetime: 2026-07-16T22:11:18.000Z
 title: "Melhores investimentos em Laterais no EA FC (16/07/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "John Arne Riise (88, Premier League) lidera, com +87.5% em 7 dias a 43k coins no PC."
+    a: "Nawaf Boushal (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
 
-> 🔝 **Destaque:** John Arne Riise (88) acumula **+87.5% em 7 dias** a 43k coins.
+> 🔝 **Destaque:** Nawaf Boushal (91) acumula **+89.9% em 7 dias** a 38k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| John Arne Riise | 88 | Premier League | 43k coins | +2.9% | +87.5% | 0% |
-| Andy Najar | 91 | — | 42k coins | +10.7% | +74.2% | 0% |
-| Lilly Reale | 89 | NWSL | 35k coins | +36.3% | +73.8% | 0% |
-| Daniel Muñoz | 94 | — | 94k coins | +5% | +73.4% | 0% |
-| Marc Cucurella | 95 | — | 65k coins | +6.9% | +70.2% | 0% |
-| Marc Cucurella | 93 | — | 40k coins | +23.4% | +68.1% | 0% |
+| Nawaf Boushal | 91 | — | 38k coins | +7.1% | +89.9% | 0% |
+| Marc Cucurella | 95 | — | 90k coins | +6.7% | +76.8% | 0% |
+| Daniel Muñoz | 94 | — | 95k coins | +4.4% | +72.5% | 0% |
+| Marc Cucurella | 93 | — | 38k coins | +20.3% | +70.2% | 0% |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 230k coins | +9.5% | +60.8% | 0% |
-| Víctor Gómez | 91 | — | 50k coins | +33.3% | +55% | 0% |
-| Gideon Mensah | 92 | — | 20k coins | +5.3% | +50.9% | 0% |
-| Lewis Hall | 90 | — | 45k coins | +25% | +50% | 0% |
-| Leonardo Spinazzola | 89 | Serie A TIM | 40k coins | +21.3% | +49.2% | 0% |
-| Ferdi Kadıoğlu | 87 | — | 53k coins | +31.8% | +48.3% | 0% |
-| Marcelo | 89 | Icons | 142k coins | +8.5% | +48.1% | 0% |
-| Gisele Thompson | 90 | NWSL | 54k coins | +38.3% | +47.4% | 0% |
-| Lilian Thuram | 88 | Icons | 179k coins | +11.5% | +44.9% | 0% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 29k coins | +9.3% | +58.1% | 0% |
+| Lilian Thuram | 89 | — | 70k coins | +31.7% | +57.5% | 0% |
+| Jordi Alba | 84 | MLS | 130k coins | +22.6% | +55.7% | 0% |
+| Lewis Hall | 90 | — | 50k coins | +25% | +50% | 0% |
+| João Cancelo | 95 | — | 249k coins | +1.9% | +46.7% | 0% |
+| Gideon Mensah | 92 | — | 20k coins | +2.6% | +41.8% | 0% |
+| Amar Dedić | 93 | — | 38k coins | +36.6% | +41.7% | 0% |
+| Gisele Thompson | 90 | NWSL | 54k coins | +36.3% | +40.8% | 0% |
+| Marcelo | 89 | Icons | 142k coins | +14.5% | +40.6% | 0% |
+| Lilian Thuram | 88 | Icons | 174k coins | +8.5% | +38.8% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **John Arne Riise (88)** — 43k coins, **+87.5% em 7 dias** (+2.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nawaf Boushal (91)** — 38k coins, **+89.9% em 7 dias** (+7.1% em 24h). Preço +64% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Andy Najar (91)** — 42k coins, **+74.2% em 7 dias** (+10.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marc Cucurella (95)** — 90k coins, **+76.8% em 7 dias** (+6.7% em 24h). Preço +60% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Lilly Reale (89)** — 35k coins, **+73.8% em 7 dias** (+36.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Daniel Muñoz (94)** — 95k coins, **+72.5% em 7 dias** (+4.4% em 24h). Preço +46% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Daniel Muñoz (94)** — 94k coins, **+73.4% em 7 dias** (+5% em 24h). Preço +45% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marc Cucurella (93)** — 38k coins, **+70.2% em 7 dias** (+20.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Marc Cucurella (95)** — 65k coins, **+70.2% em 7 dias** (+6.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marcos Llorente (90)** — 230k coins, **+60.8% em 7 dias** (+9.5% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-John Arne Riise (88, Premier League) lidera, com +87.5% em 7 dias a 43k coins no PC.
+Nawaf Boushal (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

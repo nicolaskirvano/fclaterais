@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:42:50.000Z
+pubDatetime: 2026-07-16T22:11:10.000Z
 title: "Jogadores baratos de Laterais no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -33,14 +33,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Guéla Doué | 94 | RB | — | 12k coins | — |
 | Sidny Cabral | 93 | LB | — | 12k coins | — |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +29.2% |
-| Sonia Bompastor | 89 | LB | — | 14k coins | +1.7% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | 0% |
-| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 11k coins | +25.8% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 13k coins | -8.5% |
-| John Arne Riise | 86 | LB | Premier League | 11k coins | -17.2% |
+| Sonia Bompastor | 89 | LB | — | 14k coins | -5.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -5.4% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 12k coins | -11.9% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | +6.7% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | -17.2% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | 0% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | -10.2% |
-| Danny da Costa | 84 | RB | Bundesliga | 15k coins | +8.8% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | +10.6% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14k coins | -1.7% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -5.1% |
+| Alex Scott | 85 | RB | Barclays WSL | 14k coins | -27.9% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 15k coins | +1.7% |
 
 
 ## 📈 Destaques
