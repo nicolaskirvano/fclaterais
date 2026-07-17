@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Reece James</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mary Alice Vignola</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Valery</text>
-<rect x="285" y="153" width="464" height="28" rx="7" fill="#22c55e"/>
-<text x="759" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kerstin Casparij</text>
-<rect x="285" y="211" width="435" height="28" rx="7" fill="#22c55e"/>
-<text x="730" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovanni Di Lorenzo</text>
-<rect x="285" y="269" width="404" height="28" rx="7" fill="#22c55e"/>
-<text x="699" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcelo</text>
-<rect x="285" y="327" width="401" height="28" rx="7" fill="#22c55e"/>
-<text x="696" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Chilwell</text>
-<rect x="285" y="385" width="387" height="28" rx="7" fill="#22c55e"/>
-<text x="682" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Reece James</text>
+<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
+<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ian Maatsen</text>
+<rect x="285" y="211" width="424" height="28" rx="7" fill="#22c55e"/>
+<text x="719" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+73.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Ryerson</text>
+<rect x="285" y="269" width="397" height="28" rx="7" fill="#22c55e"/>
+<text x="692" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tarciane</text>
+<rect x="285" y="327" width="374" height="28" rx="7" fill="#22c55e"/>
+<text x="669" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcelo</text>
+<rect x="285" y="385" width="372" height="28" rx="7" fill="#22c55e"/>
+<text x="667" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.8%</text>
 </svg>

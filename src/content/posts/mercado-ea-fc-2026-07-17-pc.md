@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:11:17.000Z
+pubDatetime: 2026-07-17T16:11:17.000Z
 title: "Mercado EA FC em 17/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Johan Mojica (85, LALIGA EA SPORTS), com +58% em 24h, a 35k coins no PC."
+    a: "Míchel Salgado (89, LALIGA EA SPORTS), com +52.4% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Danny da Costa (84), -32.8% em 24h, a 24k coins."
+    a: "Hamari Traoré (87), -41.2% em 24h, a 22k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 122 cartas em alta contra 103 em queda (média 4.55%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 118 cartas em alta contra 104 em queda (média 3.42%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **122 subiram** e **103 caíram**, com variação média de **4.55%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **118 subiram** e **104 caíram**, com variação média de **3.42%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Johan Mojica (85) **+58%** · 🔴 **Maior baixa:** Danny da Costa (84) **-32.8%**
+> 🟢 **Maior alta:** Míchel Salgado (89) **+52.4%** · 🔴 **Maior baixa:** Hamari Traoré (87) **-41.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,65 +35,65 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.2% entre as cartas que se moveram; o universo observado reúne 269 cartas.
+- **Amplitude do dia:** 93.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.2% entre as cartas que se moveram; o universo observado reúne 261 cartas.
 - **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Johan Mojica | 85 | LALIGA EA SPORTS | 35k coins | +58% | -20.6% |
-| Selma Bacha | 94 | — | 68k coins | +56.6% | +52.2% |
-| Lucas Digne | 96 | — | 173k coins | +53.5% | -12.5% |
-| Maicon | 88 | Serie A TIM | 74k coins | +53.1% | +7.1% |
-| Álvaro Carreras | 86 | LALIGA EA SPORTS | 69k coins | +50.8% | +56.8% |
-| Marcos Acuña | 89 | LPF | 130k coins | +44.4% | +36.8% |
-| Hanna Lundkvist | 87 | Barclays WSL | 48k coins | +41.5% | +20.1% |
-| Rayan Aït-Nouri | 90 | Premier League | 63k coins | +39.6% | +52.1% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.60M coins | +38.2% | -13.4% |
-| Narcis Ilaș | 87 | SUPERLIGA | 25k coins | +37% | +11.1% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 55k coins | +52.4% | +94.8% |
+| Amar Dedić | 88 | — | 52k coins | +52.1% | +30.9% |
+| Katie McCabe | 89 | Barclays WSL | 22k coins | +48.3% | +27.1% |
+| Marcos Acuña | 89 | LPF | 130k coins | +47.7% | +36.8% |
+| Mërgim Vojvoda | 87 | — | 55k coins | +42.9% | +15.8% |
+| Micah Richards | 85 | Premier League | 30k coins | +41.1% | +6.3% |
+| Alphonso Davies | 89 | Bundesliga | 115k coins | +40% | +17.9% |
+| Ian Maatsen | 89 | Premier League | 48k coins | +38.9% | +73.9% |
+| Alberto Costa | 91 | — | 25k coins | +37% | +25% |
+| Mauro Júnior | 95 | — | 37k coins | +35.1% | +33.9% |
 
 
 ### Análise das altas
 
-- **Johan Mojica (85)** subiu **+58%** em 24h, a **35k coins** (faixa do dia: 21k–35k). Está em linha com a média de 7 dias (-2%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Míchel Salgado (89)** subiu **+52.4%** em 24h, a **55k coins** (faixa do dia: 30k–62k). Está +45% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Selma Bacha (94)** subiu **+56.6%** em 24h, a **68k coins** (faixa do dia: 38k–80k). Está +28% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Amar Dedić (88)** subiu **+52.1%** em 24h, a **52k coins** (faixa do dia: 22k–65k). Está +57% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lucas Digne (96)** subiu **+53.5%** em 24h, a **173k coins** (faixa do dia: 105k–204k). Está em linha com a média de 7 dias (-1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Katie McCabe (89)** subiu **+48.3%** em 24h, a **22k coins** (faixa do dia: 12.750–26k). Está em linha com a média de 7 dias (+8%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Danny da Costa | 84 | Bundesliga | 24k coins | -32.8% | -16.7% |
-| Carson Pickett | 86 | NWSL | 31k coins | -30.7% | -26.6% |
-| Daniel Muñoz | 96 | — | 833k coins | -30.6% | +6.8% |
-| Nuno Tavares | 87 | Serie A TIM | 42k coins | -30.4% | -1.8% |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 146k coins | -28.8% | +0.7% |
-| Lilian Thuram | 88 | Icons | 130k coins | -27.8% | -11.6% |
-| Francisco Moura | 90 | Liga Portugal | 40k coins | -26.4% | +20.9% |
-| Lewis Miley | 89 | Premier League | 60k coins | -26.2% | +3.8% |
-| Esmee Brugts | 96 | — | 800k coins | -22.7% | +4.3% |
-| Ashley Cole | 88 | — | 33k coins | -21.6% | -6.5% |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 22k coins | -41.2% | -46.9% |
+| Marcus Pedersen | 89 | Serie A TIM | 36k coins | -41.1% | -24.4% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 22k coins | -36.8% | -40% |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 146k coins | -36.5% | +0.7% |
+| Lilian Thuram | 88 | Icons | 144k coins | -33.9% | -15% |
+| Sakina Karchaoui | 88 | D1 Arkema | 33k coins | -32% | -22.7% |
+| Daniel Muñoz | 96 | — | 829k coins | -30.9% | +4.5% |
+| Carson Pickett | 86 | NWSL | 31k coins | -30.7% | -28.7% |
+| Francisco Moura | 90 | Liga Portugal | 41k coins | -27.7% | +19.5% |
+| Nuno Tavares | 87 | Serie A TIM | 38k coins | -27.1% | -16.6% |
 
 
 ### Análise das baixas
 
-- **Danny da Costa (84)** caiu **-32.8%** em 24h, a **24k coins** (faixa do dia: 19.750–30k). Está em linha com a média de 7 dias (+3%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Hamari Traoré (87)** caiu **-41.2%** em 24h, a **22k coins** (faixa do dia: 15.000–36k). Está em linha com a média de 7 dias (+0%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Carson Pickett (86)** caiu **-30.7%** em 24h, a **31k coins** (faixa do dia: 31k–45k). Está em linha com a média de 7 dias (-6%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Marcus Pedersen (89)** caiu **-41.1%** em 24h, a **36k coins** (faixa do dia: 34k–64k). Está -20% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Daniel Muñoz (96)** caiu **-30.6%** em 24h, a **833k coins** (faixa do dia: 700k–1.20M). Está -8% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Míchel Salgado (87)** caiu **-36.8%** em 24h, a **22k coins** (faixa do dia: 15.000–26k). Está em linha com a média de 7 dias (+8%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Johan Mojica já avançou 58% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Míchel Salgado já avançou 52.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Danny da Costa recuou -32.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Hamari Traoré recuou -41.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Johan Mojica (85, LALIGA EA SPORTS), com +58% em 24h, a 35k coins no PC.
+Míchel Salgado (89, LALIGA EA SPORTS), com +52.4% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**  
-Danny da Costa (84), -32.8% em 24h, a 24k coins.
+Hamari Traoré (87), -41.2% em 24h, a 22k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 122 cartas em alta contra 103 em queda (média 4.55%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 118 cartas em alta contra 104 em queda (média 3.42%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

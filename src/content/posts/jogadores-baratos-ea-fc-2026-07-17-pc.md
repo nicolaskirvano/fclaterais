@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:11:20.000Z
+pubDatetime: 2026-07-17T16:11:19.000Z
 title: "Jogadores baratos EA FC: Laterais em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC."
+    a: "Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Guéla Doué (94) por apenas 13.000 coins.
+> 💰 **Melhor pechincha:** Guéla Doué (94) por apenas 13.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Laterais em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 12.069 coins.
-- **Posição mais frequente:** LB, com 6 cartas.
-- **Faixa real:** 3.800 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 11.160 coins.
+- **Posição mais frequente:** LB, com 3 cartas.
+- **Faixa real:** 3.800 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Guéla Doué | 94 | RB | — | 13.000 coins | +8.5% |
-| El Hadji Malick Diouf | 94 | LB | — | 13.250 coins | +10.6% |
-| Sidny Cabral | 93 | LB | — | 13.000 coins | +8.5% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.800 coins | -11.4% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12.000 coins | -5.3% |
-| John Arne Riise | 86 | LB | Premier League | 13.500 coins | -3.9% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13.500 coins | +6.5% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.500 coins | -7.9% |
+| Guéla Doué | 94 | RB | — | 13.500 coins | +12.8% |
+| Sidny Cabral | 93 | LB | — | 13.000 coins | +10.6% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.800 coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | +9.1% |
+| John Arne Riise | 86 | LB | Premier League | 13.500 coins | -10.5% |
 
 
 ## 📈 Destaques
 
-- **Guéla Doué (94, RB)** da —, a apenas **13.000 coins**
-
-- **El Hadji Malick Diouf (94, LB)** da —, a apenas **13.250 coins**
+- **Guéla Doué (94, RB)** da —, a apenas **13.500 coins**
 
 - **Sidny Cabral (93, LB)** da —, a apenas **13.000 coins**
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12.000 coins**
+
+- **John Arne Riise (86, LB)** da Premier League, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Guéla Doué (94, RB) por 13.000 coins é a referência de rating deste recorte.
+- **Defesa:** Guéla Doué (94, RB) por 13.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -84,7 +81,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC.
+Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
