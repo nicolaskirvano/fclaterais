@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:11:18.000Z
+pubDatetime: 2026-07-17T22:11:18.000Z
 title: "Investimentos EA FC: Laterais em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Philipp Lahm (89, Icons) lidera, com +76.3% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ona Batlle (90, Liga F) lidera, com +85.2% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Philipp Lahm (89) acumula **+76.3% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ona Batlle (90) acumula **+85.2% em 7 dias** a 50k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.4% em 24h** e **+53.8% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.7% em 24h** e **+33.3% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Philipp Lahm | 89 | Icons | 110k coins | +30.1% | +76.3% | Esticada |
-| Javier Zanetti | 92 | — | 79k coins | +21.4% | +72.6% | Esticada |
-| Reece James | 91 | — | 50k coins | +16.3% | +66.7% | Esticada |
-| Tarciane | 92 | — | 38k coins | +23.8% | +62.5% | Esticada |
-| Selma Bacha | 94 | D1 Arkema | 161k coins | +21.1% | +61% | Esticada |
-| Gisele Thompson | 90 | NWSL | 50k coins | +3.7% | +59.2% | Momentum moderado |
-| Denzel Dumfries | 89 | Serie A TIM | 52k coins | +19.5% | +54.1% | Momentum moderado |
-| Lilly Reale | 91 | — | 40k coins | +33.3% | +53.8% | Esticada |
-| Mary Alice Vignola | 85 | NWSL | 21k coins | +33.3% | +52.7% | Esticada |
-| Álvaro Carreras | 86 | LALIGA EA SPORTS | 65k coins | +9% | +51.1% | Momentum moderado |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 67k coins | +34.6% | +50.5% | Esticada |
-| Tarciane | 88 | D1 Arkema | 40k coins | +15.7% | +50% | Momentum moderado |
-| Julian Araujo | 89 | Scottish Premiership | 199k coins | +23.7% | +46% | Esticada |
-| Jordi Alba | 84 | MLS | 120k coins | +4.3% | +43.7% | Momentum moderado |
-| Marcelo | 89 | Icons | 140k coins | +28.4% | +42.1% | Esticada |
+| Ona Batlle | 90 | Liga F | 50k coins | +16.3% | +85.2% | Esticada |
+| Vladimír Coufal | 91 | — | 43k coins | +14% | +72.7% | Esticada |
+| Bixente Lizarazu | 88 | Bundesliga | 17.750 coins | +22% | +63.6% | Esticada |
+| Javier Zanetti | 92 | — | 82k coins | +15.7% | +62.8% | Esticada |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 128k coins | +7.5% | +61.3% | Esticada |
+| Philipp Lahm | 89 | Icons | 100k coins | +22.7% | +60% | Esticada |
+| Lilly Reale | 91 | — | 40k coins | +8.8% | +60% | Esticada |
+| Mateo Chávez | 89 | — | 62k coins | +17.8% | +33.3% | Momentum moderado |
+| Bart van Rooij | 92 | — | 29k coins | +4.5% | +32.2% | Momentum moderado |
+| Julian Araujo | 89 | Scottish Premiership | 198k coins | +10% | +32% | Momentum moderado |
+| Marcelo | 89 | Icons | 130k coins | +19.3% | +32% | Momentum moderado |
+| Terry Devlin | 86 | EFL Championship | 50k coins | +7% | +26.9% | Momentum moderado |
+| Tariq Lamptey | 89 | — | 42k coins | +13.9% | +26% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 54k coins | +20.5% | +25% | Esticada |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 44k coins | +16.6% | +24.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Philipp Lahm (89)** — 110k coins, **+76.3% em 7 dias** (+30.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ona Batlle (90)** — 50k coins, **+85.2% em 7 dias** (+16.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). O modelo recente está neutro; a tese depende do momentum observado.
 
-- **Javier Zanetti (92)** — 79k coins, **+72.6% em 7 dias** (+21.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vladimír Coufal (91)** — 43k coins, **+72.7% em 7 dias** (+14% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reece James (91)** — 50k coins, **+66.7% em 7 dias** (+16.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bixente Lizarazu (88)** — 17.750 coins, **+63.6% em 7 dias** (+22% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tarciane (92)** — 38k coins, **+62.5% em 7 dias** (+23.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (92)** — 82k coins, **+62.8% em 7 dias** (+15.7% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Selma Bacha (94)** — 161k coins, **+61% em 7 dias** (+21.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Llorente (86)** — 128k coins, **+61.3% em 7 dias** (+7.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Philipp Lahm (89, Icons) lidera, com +76.3% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ona Batlle (90, Liga F) lidera, com +85.2% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Laterais em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Mercado EA FC em 17/07: Laterais — PC](/posts/mercado-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
