@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:05:51.000Z
+pubDatetime: 2026-07-17T01:11:08.000Z
 title: "Mercado EA FC em 16/07: Laterais — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 16/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Alfonso Espino (86, LALIGA EA SPORTS), com +34.4% em 24h, a 21k coins no Console (PS)."
+    a: "Giovanni Di Lorenzo (86, Serie A TIM), com +48.8% em 24h, a 53k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alex Freeman (88), -35.8% em 24h, a 20k coins."
+    a: "Danny da Costa (84), -42.5% em 24h, a 20k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 111 cartas em alta contra 108 em queda (média 0.69%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 110 cartas em alta contra 109 em queda (média -0.52%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **111 subiram**, **108 caíram** (80+ e 5k+ coins), média de **0.69%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **110 subiram**, **109 caíram** (80+ e 5k+ coins), média de **-0.52%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Alfonso Espino (86) **+34.4%** · 🔴 **Maior baixa:** Alex Freeman (88) **-35.8%**
+> 🟢 **Maior alta:** Giovanni Di Lorenzo (86) **+48.8%** · 🔴 **Maior baixa:** Danny da Costa (84) **-42.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Laterais — Console (PS)](/charts/mercado-ea-fc-2026-07-16-ps.svg)
 
@@ -35,65 +35,65 @@ Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 70.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.7% entre as cartas que se moveram; o universo observado reúne 246 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 91.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.2% entre as cartas que se moveram; o universo observado reúne 243 cartas.
+- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alfonso Espino | 86 | LALIGA EA SPORTS | 21k coins | +34.4% | +28.4% |
-| Nuno Mendes | 96 | — | 589k coins | +33.7% | +35.9% |
-| Theo Hernández | 88 | ROSHN Saudi League | 115k coins | +27.8% | +75.6% |
-| Micah Richards | 92 | — | 88k coins | +27.7% | +12.5% |
-| Lilian Thuram | 93 | Icons | 570k coins | +25.5% | +61.2% |
-| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +25% | +62.2% |
-| Lewis Miley | 89 | Premier League | 42k coins | +24.5% | +20.3% |
-| Lilian Thuram | 89 | — | 50k coins | +23.5% | +34.2% |
-| Nahuel Molina | 91 | — | 130k coins | +22.6% | +80.6% |
-| Jurriën Timber | 93 | — | 84k coins | +22.5% | +33.8% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 53k coins | +48.8% | +0.8% |
+| Sakina Karchaoui | 88 | D1 Arkema | 48k coins | +39.7% | +58.3% |
+| Lilian Thuram | 94 | — | 385k coins | +38.5% | +41% |
+| Alfonso Espino | 86 | LALIGA EA SPORTS | 20k coins | +37.7% | +25.4% |
+| Joelle Wedemeyer | 89 | GPFBL | 22k coins | +36.9% | +11.2% |
+| Nico O'Reilly | 87 | — | 48k coins | +31% | 0% |
+| Balde | 90 | LALIGA EA SPORTS | 98k coins | +30% | +65.3% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 27k coins | +28.9% | +37.2% |
+| Theo Hernández | 88 | ROSHN Saudi League | 99k coins | +27.4% | +74% |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 22k coins | +24.3% | +45% |
 
 
 ### Análise das altas
 
-- **Alfonso Espino (86)** subiu **+34.4%** em 24h, a **21k coins** (faixa do dia: 14.000–22k). Está +16% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Giovanni Di Lorenzo (86)** subiu **+48.8%** em 24h, a **53k coins** (faixa do dia: 42k–90k). Está -10% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Nuno Mendes (96)** subiu **+33.7%** em 24h, a **589k coins** (faixa do dia: 441k–800k). Está +22% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Sakina Karchaoui (88)** subiu **+39.7%** em 24h, a **48k coins** (faixa do dia: 30k–50k). Está +18% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Theo Hernández (88)** subiu **+27.8%** em 24h, a **115k coins** (faixa do dia: 85k–120k). Está +25% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lilian Thuram (94)** subiu **+38.5%** em 24h, a **385k coins** (faixa do dia: 274k–395k). Está em linha com a média de 7 dias (-0%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alex Freeman | 88 | LALIGA EA SPORTS | 20k coins | -35.8% | -23.8% |
-| Konrad Laimer | 84 | Bundesliga | 44k coins | -30.7% | -15.4% |
-| Katie McCabe | 88 | Barclays Women’s Super League | 38k coins | -29.8% | +2% |
-| Marcus Pedersen | 89 | Serie A TIM | 35k coins | -27.5% | -21.3% |
-| Maximilian Mittelstädt | 88 | Bundesliga | 22k coins | -23% | 0% |
-| Ricardo Rodríguez | 88 | — | 21k coins | -20.9% | -20.9% |
-| Roberto Carlos | 90 | Icons | 154k coins | -20.4% | +12.3% |
-| Lynn Wilms | 86 | Barclays Women’s Super League | 40k coins | -19.5% | -17.9% |
-| Carlos Romero | 95 | — | 33k coins | -19.2% | +6.1% |
-| Sonia Bompastor | 88 | D1 Arkema | 21k coins | -18.2% | +12.5% |
+| Danny da Costa | 84 | Bundesliga | 20k coins | -42.5% | +7.8% |
+| Marcos Acuña | 89 | LPF | 90k coins | -33.8% | -2.5% |
+| Konrad Laimer | 84 | Bundesliga | 48k coins | -30.7% | -15.4% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 34k coins | -28.8% | +0.7% |
+| Dimitris Giannoulis | 83 | Bundesliga | 42k coins | -25.2% | -15.5% |
+| Lilian Thuram | 88 | Icons | 164k coins | -25.1% | +48.1% |
+| Ricardo Rodríguez | 88 | — | 23k coins | -24.1% | -26.1% |
+| Trai Hume | 84 | Premier League | 37k coins | -22.5% | -11.4% |
+| Tino Livramento | 85 | Premier League | 23k coins | -22.5% | -36.3% |
+| Carson Pickett | 86 | NWSL | 30k coins | -21.6% | -14.3% |
 
 
 ### Análise das baixas
 
-- **Alex Freeman (88)** caiu **-35.8%** em 24h, a **20k coins** (faixa do dia: 15.000–26k). Está em linha com a média de 7 dias (-4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Danny da Costa (84)** caiu **-42.5%** em 24h, a **20k coins** (faixa do dia: 15.000–32k). Está em linha com a média de 7 dias (+2%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Konrad Laimer (84)** caiu **-30.7%** em 24h, a **44k coins** (faixa do dia: 40k–72k). Está -20% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Marcos Acuña (89)** caiu **-33.8%** em 24h, a **90k coins** (faixa do dia: 78k–130k). Está +35% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Katie McCabe (88)** caiu **-29.8%** em 24h, a **38k coins** (faixa do dia: 33k–60k). Está -13% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Konrad Laimer (84)** caiu **-30.7%** em 24h, a **48k coins** (faixa do dia: 40k–72k). Está -13% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alfonso Espino já avançou 34.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Giovanni Di Lorenzo já avançou 48.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alex Freeman recuou -35.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Danny da Costa recuou -42.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Alfonso Espino (86, LALIGA EA SPORTS), com +34.4% em 24h, a 21k coins no Console (PS).
+Giovanni Di Lorenzo (86, Serie A TIM), com +48.8% em 24h, a 53k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Alex Freeman (88), -35.8% em 24h, a 20k coins.
+Danny da Costa (84), -42.5% em 24h, a 20k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 111 cartas em alta contra 108 em queda (média 0.69%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 110 cartas em alta contra 109 em queda (média -0.52%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

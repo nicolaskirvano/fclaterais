@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trai Hume</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Odriozola</text>
-<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
-<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc Cucurella</text>
-<rect x="285" y="211" width="453" height="28" rx="7" fill="#22c55e"/>
-<text x="748" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nahuel Molina</text>
-<rect x="285" y="269" width="427" height="28" rx="7" fill="#22c55e"/>
-<text x="722" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Givairo Read</text>
-<rect x="285" y="327" width="421" height="28" rx="7" fill="#22c55e"/>
-<text x="716" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovanni Di Lorenzo</text>
-<rect x="285" y="385" width="412" height="28" rx="7" fill="#22c55e"/>
-<text x="707" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Warren Zaïre-Emery</text>
+<rect x="285" y="153" width="455" height="28" rx="7" fill="#22c55e"/>
+<text x="750" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nahuel Molina</text>
+<rect x="285" y="211" width="419" height="28" rx="7" fill="#22c55e"/>
+<text x="714" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Odriozola</text>
+<rect x="285" y="269" width="404" height="28" rx="7" fill="#22c55e"/>
+<text x="699" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrei Rațiu</text>
+<rect x="285" y="327" width="374" height="28" rx="7" fill="#22c55e"/>
+<text x="669" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
+<rect x="285" y="385" width="373" height="28" rx="7" fill="#22c55e"/>
+<text x="668" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.2%</text>
 </svg>

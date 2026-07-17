@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:06:03.000Z
+pubDatetime: 2026-07-17T01:11:19.000Z
 title: "Investimentos EA FC: Laterais em 16/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+63.4% em 7 dias**.
+- A mediana é de **+11.2% em 24h** e **+44.9% em 7 dias**.
 - **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lucy Bronze | 88 | Barclays WSL | 230k coins | +15.6% | +88.5% | Esticada |
-| Marc Cucurella | 93 | — | 45k coins | +21.4% | +80.9% | Esticada |
-| Daniel Muñoz | 94 | — | 86k coins | +1.1% | +74.3% | Esticada |
-| Lilly Reale | 89 | NWSL | 34k coins | +39.8% | +67.1% | Esticada |
-| Lewis Hall | 90 | — | 50k coins | +11.1% | +66.7% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 57k coins | +4.5% | +65.5% | Esticada |
+| Reece James | 91 | — | 55k coins | +12.2% | +83.3% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 86k coins | +1.2% | +79.2% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +9.1% | +73.9% | Esticada |
+| Selma Bacha | 94 | — | 76k coins | +25.6% | +68% | Esticada |
+| Lewis Hall | 90 | — | 50k coins | +1.5% | +67.2% | Esticada |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 230k coins | +9.5% | +64.3% | Esticada |
-| Selma Bacha | 94 | — | 76k coins | +25.6% | +63.4% | Esticada |
-| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +14.3% | +50.7% | Momentum moderado |
-| João Cancelo | 95 | — | 225k coins | +6% | +47.2% | Momentum moderado |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 27k coins | +24.5% | +46.2% | Esticada |
-| Ona Batlle | 94 | — | 50k coins | +13.3% | +41.7% | Momentum moderado |
-| Christian Günter | 84 | Bundesliga | 21k coins | +10.7% | +40.7% | Momentum moderado |
-| Gideon Mensah | 92 | — | 19.250 coins | +1.3% | +40% | Momentum moderado |
+| Francisco Moura | 90 | Liga Portugal | 50k coins | +8.1% | +44.9% | Momentum moderado |
+| Marcelo | 90 | — | 60k coins | +12.6% | +42.8% | Momentum moderado |
+| Christian Günter | 84 | Bundesliga | 20k coins | +10.7% | +40.7% | Momentum moderado |
 | Maicon | 90 | Serie A TIM | 140k coins | +9.4% | +40% | Momentum moderado |
+| Nico O'Reilly | 87 | — | 60k coins | +22.4% | +39.5% | Esticada |
+| Marcelo | 96 | — | 140k coins | +26.9% | +38.2% | Esticada |
+| Ona Batlle | 94 | — | 48k coins | +11.2% | +38.2% | Momentum moderado |
+| Lilian Thuram | 89 | — | 64k coins | +11.5% | +38.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (93)** — 45k coins, **+80.9% em 7 dias** (+21.4% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reece James (91)** — 55k coins, **+83.3% em 7 dias** (+12.2% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniel Muñoz (94)** — 86k coins, **+74.3% em 7 dias** (+1.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fridolina Rolfö (90)** — 86k coins, **+79.2% em 7 dias** (+1.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lilly Reale (89)** — 34k coins, **+67.1% em 7 dias** (+39.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 60k coins, **+73.9% em 7 dias** (+9.1% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lewis Hall (90)** — 50k coins, **+66.7% em 7 dias** (+11.1% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Selma Bacha (94)** — 76k coins, **+68% em 7 dias** (+25.6% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:06:04.000Z
+pubDatetime: 2026-07-17T01:11:20.000Z
 title: "Jogadores baratos EA FC: Laterais em 16/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 10.670 coins.
-- **Posição mais frequente:** LB, com 3 cartas.
-- **Faixa real:** 3.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 11.486 coins.
+- **Posição mais frequente:** LB, com 4 cartas.
+- **Faixa real:** 4.900 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,11 +40,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| El Hadji Malick Diouf | 94 | LB | — | 11.750 coins | 0% |
+| El Hadji Malick Diouf | 94 | LB | — | 11.750 coins | -2.1% |
 | Guéla Doué | 94 | RB | — | 11.750 coins | 0% |
-| Sidny Cabral | 93 | LB | — | 12.000 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.100 coins | -8.3% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 14.750 coins | -8.6% |
+| Sidny Cabral | 93 | LB | — | 11.750 coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.500 coins | +16.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.250 coins | +23.1% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 4.900 coins | +40% |
+| Jade Le Guilly | 84 | RB | D1 Arkema | 13.500 coins | -7.7% |
 
 
 ## 📈 Destaques
@@ -53,11 +55,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Guéla Doué (94, RB)** da —, a apenas **11.750 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **12.000 coins**
+- **Sidny Cabral (93, LB)** da —, a apenas **11.750 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.100 coins**
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12.500 coins**
 
-- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **14.750 coins**
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **14.250 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca

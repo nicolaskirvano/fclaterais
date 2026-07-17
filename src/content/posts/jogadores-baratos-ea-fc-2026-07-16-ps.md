@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:05:54.000Z
+pubDatetime: 2026-07-17T01:11:11.000Z
 title: "Jogadores baratos EA FC: Laterais em 16/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.369 coins.
-- **Posição mais frequente:** LB, com 10 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 10.550 coins.
+- **Posição mais frequente:** LB, com 7 cartas.
+- **Faixa real:** 2.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,16 +43,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | El Hadji Malick Diouf | 94 | LB | — | 11.750 coins | 0% |
 | Guéla Doué | 94 | RB | — | 11.750 coins | 0% |
 | Sidny Cabral | 93 | LB | — | 11.750 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.100 coins | -11.8% |
-| Sonia Bompastor | 89 | LB | — | 14.750 coins | -6.5% |
-| Sara Holmgaard | 88 | LB | — | 14.000 coins | -11.1% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.000 coins | -14.3% |
+| Esmee Brugts | 88 | LB | Liga F | 13.500 coins | +24.1% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | 0% |
-| John Arne Riise | 86 | LB | Premier League | 12.500 coins | +8.3% |
+| John Arne Riise | 86 | LB | Premier League | 12.500 coins | +4.2% |
 | Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | -1.9% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | -14.3% |
-| Mary Alice Vignola | 85 | LB | NWSL | 13.250 coins | -11.7% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 1.700 coins | +11.8% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | -14.5% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14.000 coins | -14.5% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2.000 coins | +11.8% |
 
 
 ## 📈 Destaques
@@ -63,9 +60,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sidny Cabral (93, LB)** da —, a apenas **11.750 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **14.750 coins**
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
