@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:11:17.000Z
-title: "Laterais no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — PC"
+pubDatetime: 2026-07-17T00:06:01.000Z
+title: "Mercado EA FC em 16/07: Laterais — PC"
 draft: false
 featured: true
 tags:
@@ -10,84 +10,92 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
     a: "Trai Hume (84, Premier League), com +58.3% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ricardo Rodríguez (88), -38.1% em 24h, a 25k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ellie Carpenter (86) — 60% de probabilidade de alta, a 38k coins."
+    a: "Lewis Hall (89), -46.9% em 24h, a 50k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 109 cartas em alta contra 89 em queda (média 3.25%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 106 cartas em alta contra 89 em queda (média 2.7%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **aquecido** — as altas dominam o dia — **109 subiram**, **89 caíram** (80+ e 5k+ coins), média de **3.25%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **aquecido** — as altas dominam o dia — **106 subiram**, **89 caíram** (80+ e 5k+ coins), média de **2.7%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Trai Hume (84) **+58.3%** · 🔴 **Maior baixa:** Ricardo Rodríguez (88) **-38.1%**
+> 🟢 **Maior alta:** Trai Hume (84) **+58.3%** · 🔴 **Maior baixa:** Lewis Hall (89) **-46.9%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 105.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.4% entre as cartas que se moveram; o universo observado reúne 236 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Trai Hume | 84 | Premier League | 55k coins | +58.3% | +19.6% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 52k coins | +57.1% | +66.7% |
-| Odriozola | 85 | LALIGA EA SPORTS | 26k coins | +55.2% | +19.5% |
+| Odriozola | 85 | LALIGA EA SPORTS | 23k coins | +58.1% | +15.3% |
+| Marc Cucurella | 86 | Premier League | 58k coins | +55% | +98.5% |
 | Nahuel Molina | 87 | LALIGA EA SPORTS | 60k coins | +51.9% | -21.6% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 64k coins | +51.2% | +111.4% |
-| João Cancelo | 87 | ROSHN Saudi League | 78k coins | +50.5% | +103.9% |
-| Itziar Pinillos | 87 | — | 43k coins | +50.4% | +33.3% |
-| Givairo Read | 86 | Eredivisie | 36k coins | +48.5% | +42.6% |
-| Joško Gvardiol | 86 | Premier League | 68k coins | +42.9% | 0% |
-| Lilly Reale | 89 | NWSL | 34k coins | +41.8% | +73.8% |
+| Givairo Read | 86 | Eredivisie | 29k coins | +51.1% | +37.6% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 64k coins | +50% | +108.1% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 25k coins | +44.4% | -3.7% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 49k coins | +42.9% | +42.9% |
+| Lilly Reale | 89 | NWSL | 34k coins | +39.8% | +67.1% |
+| Gianluca Zambrotta | 86 | Icons | 131k coins | +38.9% | +29.4% |
 
 
 ### Análise das altas
 
-- **Trai Hume (84)** subiu **+58.3%** em 24h, a **55k coins** (faixa do dia: 34k–55k). Está +20% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Trai Hume (84)** subiu **+58.3%** em 24h, a **55k coins** (faixa do dia: 34k–55k). Está +19% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ben Chilwell (90)** subiu **+57.1%** em 24h, a **52k coins** (faixa do dia: 35k–55k). Está +56% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Odriozola (85)** subiu **+58.1%** em 24h, a **23k coins** (faixa do dia: 13.000–29k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Odriozola (85)** subiu **+55.2%** em 24h, a **26k coins** (faixa do dia: 13k–29k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Marc Cucurella (86)** subiu **+55%** em 24h, a **58k coins** (faixa do dia: 31k–74k). Está +62% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Rodríguez | 88 | — | 25k coins | -38.1% | -10% |
-| Fridolina Rolfö | 90 | Barclays WSL | 58k coins | -36% | +16.7% |
-| Ona Batlle | 88 | — | 41k coins | -34.6% | -6.9% |
-| Giulia Gwinn | 89 | GPFBL | 27k coins | -34.6% | -37.9% |
-| Alberto Costa | 91 | — | 30k coins | -32.2% | -1.2% |
-| Johan Mojica | 85 | LALIGA EA SPORTS | 24k coins | -27.7% | -28.7% |
-| Alphonso Davies | 89 | Bundesliga | 84k coins | -26.7% | -14% |
-| Marcelo | 95 | — | 586k coins | -26.5% | -12.3% |
-| Djed Spence | 96 | — | 520k coins | -24.6% | — |
-| Joshua Kimmich | 89 | Bundesliga | 90k coins | -24.6% | +25.7% |
+| Lewis Hall | 89 | Premier League | 50k coins | -46.9% | -36.3% |
+| Theo Hernández | 88 | ROSHN Saudi League | 118k coins | -35.7% | -21.5% |
+| Joshua Kimmich | 89 | Bundesliga | 90k coins | -29.8% | +25.7% |
+| Ona Batlle | 88 | — | 56k coins | -29.8% | -3% |
+| Selma Bacha | 94 | D1 Arkema | 98k coins | -29.1% | -25.4% |
+| Ricardo Rodríguez | 88 | — | 25k coins | -29.1% | -9.1% |
+| Tariq Lamptey | 89 | — | 42k coins | -26.6% | +15.6% |
+| Nico O'Reilly | 88 | Premier League | 42k coins | -25.7% | -30.2% |
+| Alphonso Davies | 89 | Bundesliga | 80k coins | -25.5% | -18% |
+| Giulia Gwinn | 89 | GPFBL | 24k coins | -22% | -29.4% |
 
 
 ### Análise das baixas
 
-- **Ricardo Rodríguez (88)** caiu **-38.1%** em 24h, a **25k coins** (faixa do dia: 21k–35k). Está em linha com a média de 7 dias (-4%). O modelo vê **estabilização** no curto prazo.
+- **Lewis Hall (89)** caiu **-46.9%** em 24h, a **50k coins** (faixa do dia: 48k–96k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Fridolina Rolfö (90)** caiu **-36%** em 24h, a **58k coins** (faixa do dia: 56k–88k). Está em linha com a média de 7 dias (-5%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Theo Hernández (88)** caiu **-35.7%** em 24h, a **118k coins** (faixa do dia: 60k–130k). Está em linha com a média de 7 dias (+1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ona Batlle (88)** caiu **-34.6%** em 24h, a **41k coins** (faixa do dia: 36k–60k). Está em linha com a média de 7 dias (-2%). O modelo vê **estabilização** no curto prazo.
+- **Joshua Kimmich (89)** caiu **-29.8%** em 24h, a **90k coins** (faixa do dia: 75k–129k). Está -32% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## 🔮 Radar de valorização (24h)
+## Decisão prática para hoje
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+- **Evite perseguir topo:** Trai Hume já avançou 58.3% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Ellie Carpenter | 86 | 38k coins | 39k coins | 60% |
-| Ruben Kluivert | 86 | 15k coins | 16k coins | 39% |
+- **Queda não é compra automática:** Lewis Hall recuou -46.9%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## ⚙️ A engine por tras deste post
@@ -100,13 +108,10 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 Trai Hume (84, Premier League), com +58.3% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**  
-Ricardo Rodríguez (88), -38.1% em 24h, a 25k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Ellie Carpenter (86) — 60% de probabilidade de alta, a 38k coins.
+Lewis Hall (89), -46.9% em 24h, a 50k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 109 cartas em alta contra 89 em queda (média 3.25%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 106 cartas em alta contra 89 em queda (média 2.7%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -117,3 +122,11 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Laterais em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Investimentos EA FC: Laterais em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

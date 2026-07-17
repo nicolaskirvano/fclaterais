@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:11:10.000Z
-title: "Jogadores baratos de Laterais no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-17T00:05:54.000Z
+title: "Jogadores baratos EA FC: Laterais em 16/07 — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,49 +21,65 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** El Hadji Malick Diouf (94) por apenas 12k coins.
+> 💰 **Melhor pechincha:** El Hadji Malick Diouf (94) por apenas 11.750 coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Laterais em 16/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 13 opções:** 11.369 coins.
+- **Posição mais frequente:** LB, com 10 cartas.
+- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| El Hadji Malick Diouf | 94 | LB | — | 12k coins | — |
-| Guéla Doué | 94 | RB | — | 12k coins | — |
-| Sidny Cabral | 93 | LB | — | 12k coins | — |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +29.2% |
-| Sonia Bompastor | 89 | LB | — | 14k coins | -5.2% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -5.4% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 12k coins | -11.9% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | +6.7% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | -17.2% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | +10.6% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14k coins | -1.7% |
-| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -5.1% |
-| Alex Scott | 85 | RB | Barclays WSL | 14k coins | -27.9% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 15k coins | +1.7% |
+| El Hadji Malick Diouf | 94 | LB | — | 11.750 coins | 0% |
+| Guéla Doué | 94 | RB | — | 11.750 coins | 0% |
+| Sidny Cabral | 93 | LB | — | 11.750 coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.100 coins | -11.8% |
+| Sonia Bompastor | 89 | LB | — | 14.750 coins | -6.5% |
+| Sara Holmgaard | 88 | LB | — | 14.000 coins | -11.1% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | 0% |
+| John Arne Riise | 86 | LB | Premier League | 12.500 coins | +8.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | -1.9% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | -14.3% |
+| Mary Alice Vignola | 85 | LB | NWSL | 13.250 coins | -11.7% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 1.700 coins | +11.8% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | -14.5% |
 
 
 ## 📈 Destaques
 
-- **El Hadji Malick Diouf (94, LB)** da —, a apenas **12k coins**
+- **El Hadji Malick Diouf (94, LB)** da —, a apenas **11.750 coins**
 
-- **Guéla Doué (94, RB)** da —, a apenas **12k coins**
+- **Guéla Doué (94, RB)** da —, a apenas **11.750 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **12k coins**
+- **Sidny Cabral (93, LB)** da —, a apenas **11.750 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **14k coins**
+- **Sonia Bompastor (89, LB)** da —, a apenas **14.750 coins**
+
+
+## Como distribuir a banca
+
+- **Defesa:** El Hadji Malick Diouf (94, LB) por 11.750 coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## ⚙️ A engine por tras deste post
@@ -73,7 +89,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -87,3 +103,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Laterais em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Laterais — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

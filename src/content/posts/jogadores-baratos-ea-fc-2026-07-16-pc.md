@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:11:19.000Z
-title: "Jogadores baratos de Laterais no EA FC (16/07/2026) — joias por menos de 15k — PC"
+pubDatetime: 2026-07-17T00:06:04.000Z
+title: "Jogadores baratos EA FC: Laterais em 16/07 — PC"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - pc
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 12k coins no PC."
+    a: "El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,39 +21,57 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Guéla Doué (94) por apenas 12k coins.
+> 💰 **Melhor pechincha:** El Hadji Malick Diouf (94) por apenas 11.750 coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Laterais em 16/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 5 opções:** 10.670 coins.
+- **Posição mais frequente:** LB, com 3 cartas.
+- **Faixa real:** 3.100 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Guéla Doué | 94 | RB | — | 12k coins | — |
-| El Hadji Malick Diouf | 94 | LB | — | 12k coins | — |
-| Sidny Cabral | 93 | LB | — | 12k coins | — |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +17.2% |
-| John Arne Riise | 86 | LB | Premier League | 13k coins | -32.1% |
+| El Hadji Malick Diouf | 94 | LB | — | 11.750 coins | 0% |
+| Guéla Doué | 94 | RB | — | 11.750 coins | 0% |
+| Sidny Cabral | 93 | LB | — | 12.000 coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.100 coins | -8.3% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 14.750 coins | -8.6% |
 
 
 ## 📈 Destaques
 
-- **Guéla Doué (94, RB)** da —, a apenas **12k coins**
+- **El Hadji Malick Diouf (94, LB)** da —, a apenas **11.750 coins**
 
-- **El Hadji Malick Diouf (94, LB)** da —, a apenas **12k coins**
+- **Guéla Doué (94, RB)** da —, a apenas **11.750 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **12k coins**
+- **Sidny Cabral (93, LB)** da —, a apenas **12.000 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.100 coins**
 
-- **John Arne Riise (86, LB)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **14.750 coins**
+
+
+## Como distribuir a banca
+
+- **Defesa:** El Hadji Malick Diouf (94, LB) por 11.750 coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## ⚙️ A engine por tras deste post
@@ -63,7 +81,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 12k coins no PC.
+El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -77,3 +95,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Laterais em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Mercado EA FC em 16/07: Laterais — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

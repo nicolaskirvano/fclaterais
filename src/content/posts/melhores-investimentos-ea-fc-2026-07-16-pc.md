@@ -1,72 +1,84 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:11:18.000Z
-title: "Melhores investimentos em Laterais no EA FC (16/07/2026): análise e previsões — PC"
+pubDatetime: 2026-07-17T00:06:03.000Z
+title: "Investimentos EA FC: Laterais em 16/07 — PC"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Nawaf Boushal (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC."
+    a: "Lucy Bronze (88, Barclays WSL) lidera, com +88.5% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
+Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nawaf Boushal (91) acumula **+89.9% em 7 dias** a 38k coins.
+> 🔝 **Destaque:** Lucy Bronze (88) acumula **+88.5% em 7 dias** a 230k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+11.1% em 24h** e **+63.4% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nawaf Boushal | 91 | — | 38k coins | +7.1% | +89.9% | 0% |
-| Marc Cucurella | 95 | — | 90k coins | +6.7% | +76.8% | 0% |
-| Daniel Muñoz | 94 | — | 95k coins | +4.4% | +72.5% | 0% |
-| Marc Cucurella | 93 | — | 38k coins | +20.3% | +70.2% | 0% |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 230k coins | +9.5% | +60.8% | 0% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 29k coins | +9.3% | +58.1% | 0% |
-| Lilian Thuram | 89 | — | 70k coins | +31.7% | +57.5% | 0% |
-| Jordi Alba | 84 | MLS | 130k coins | +22.6% | +55.7% | 0% |
-| Lewis Hall | 90 | — | 50k coins | +25% | +50% | 0% |
-| João Cancelo | 95 | — | 249k coins | +1.9% | +46.7% | 0% |
-| Gideon Mensah | 92 | — | 20k coins | +2.6% | +41.8% | 0% |
-| Amar Dedić | 93 | — | 38k coins | +36.6% | +41.7% | 0% |
-| Gisele Thompson | 90 | NWSL | 54k coins | +36.3% | +40.8% | 0% |
-| Marcelo | 89 | Icons | 142k coins | +14.5% | +40.6% | 0% |
-| Lilian Thuram | 88 | Icons | 174k coins | +8.5% | +38.8% | 0% |
+| Lucy Bronze | 88 | Barclays WSL | 230k coins | +15.6% | +88.5% | Esticada |
+| Marc Cucurella | 93 | — | 45k coins | +21.4% | +80.9% | Esticada |
+| Daniel Muñoz | 94 | — | 86k coins | +1.1% | +74.3% | Esticada |
+| Lilly Reale | 89 | NWSL | 34k coins | +39.8% | +67.1% | Esticada |
+| Lewis Hall | 90 | — | 50k coins | +11.1% | +66.7% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 57k coins | +4.5% | +65.5% | Esticada |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 230k coins | +9.5% | +64.3% | Esticada |
+| Selma Bacha | 94 | — | 76k coins | +25.6% | +63.4% | Esticada |
+| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +14.3% | +50.7% | Momentum moderado |
+| João Cancelo | 95 | — | 225k coins | +6% | +47.2% | Momentum moderado |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 27k coins | +24.5% | +46.2% | Esticada |
+| Ona Batlle | 94 | — | 50k coins | +13.3% | +41.7% | Momentum moderado |
+| Christian Günter | 84 | Bundesliga | 21k coins | +10.7% | +40.7% | Momentum moderado |
+| Gideon Mensah | 92 | — | 19.250 coins | +1.3% | +40% | Momentum moderado |
+| Maicon | 90 | Serie A TIM | 140k coins | +9.4% | +40% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nawaf Boushal (91)** — 38k coins, **+89.9% em 7 dias** (+7.1% em 24h). Preço +64% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (95)** — 90k coins, **+76.8% em 7 dias** (+6.7% em 24h). Preço +60% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marc Cucurella (93)** — 45k coins, **+80.9% em 7 dias** (+21.4% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniel Muñoz (94)** — 95k coins, **+72.5% em 7 dias** (+4.4% em 24h). Preço +46% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Daniel Muñoz (94)** — 86k coins, **+74.3% em 7 dias** (+1.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (93)** — 38k coins, **+70.2% em 7 dias** (+20.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lilly Reale (89)** — 34k coins, **+67.1% em 7 dias** (+39.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Llorente (90)** — 230k coins, **+60.8% em 7 dias** (+9.5% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lewis Hall (90)** — 50k coins, **+66.7% em 7 dias** (+11.1% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## ⚙️ A engine por tras deste post
@@ -76,7 +88,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Nawaf Boushal (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC.
+Lucy Bronze (88, Barclays WSL) lidera, com +88.5% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -90,3 +102,11 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Laterais em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Mercado EA FC em 16/07: Laterais — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
