@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:21:16.000Z
+pubDatetime: 2026-07-17T19:11:17.000Z
 title: "Mercado EA FC em 17/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Katie McCabe (89, Barclays WSL), com +50.8% em 24h, a 23k coins no PC."
+    a: "Marcos Acuña (89, LPF), com +52.9% em 24h, a 130k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Marcus Pedersen (89), -38.7% em 24h, a 39k coins."
+    a: "Esmee Brugts (96), -29.6% em 24h, a 699k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 106 cartas em alta contra 112 em queda (média 3.66%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 93 cartas em alta contra 102 em queda (média 3.45%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **106 subiram** e **112 caíram**, com variação média de **3.66%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **93 subiram** e **102 caíram**, com variação média de **3.45%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Katie McCabe (89) **+50.8%** · 🔴 **Maior baixa:** Marcus Pedersen (89) **-38.7%**
+> 🟢 **Maior alta:** Marcos Acuña (89) **+52.9%** · 🔴 **Maior baixa:** Esmee Brugts (96) **-29.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,24 +35,24 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 89.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 249 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 82.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 230 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Katie McCabe | 89 | Barclays WSL | 23k coins | +50.8% | +27.1% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 54k coins | +50.7% | +91.3% |
-| Mërgim Vojvoda | 87 | — | 55k coins | +48.6% | +15.8% |
-| Marcos Acuña | 89 | LPF | 130k coins | +47.7% | +36.8% |
-| Amar Dedić | 88 | — | 48k coins | +45.1% | +21.2% |
-| Lewis Miley | 83 | Premier League | 86k coins | +44.9% | +6.9% |
-| Lucas Digne | 96 | — | 175k coins | +44.4% | -2% |
-| Alberto Costa | 91 | — | 25k coins | +37% | +22% |
-| Javier Zanetti | 92 | — | 85k coins | +34.9% | +73.5% |
-| Ian Maatsen | 89 | Premier League | 55k coins | +34% | +67.8% |
+| Marcos Acuña | 89 | LPF | 130k coins | +52.9% | +36.8% |
+| Ian Maatsen | 89 | Premier League | 55k coins | +52.8% | +57.1% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 53k coins | +47.6% | +91.1% |
+| Mërgim Vojvoda | 87 | — | 54k coins | +47.3% | +14.7% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 25k coins | +46.5% | -13.3% |
+| Juan Cuadrado | 86 | Serie A TIM | 46k coins | +37.8% | +19.2% |
+| Sergiño Dest | 86 | Eredivisie | 138k coins | +36.3% | +11.2% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 67k coins | +34.6% | +50.5% |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 37k coins | +34.5% | +8.8% |
+| Mary Alice Vignola | 85 | NWSL | 21k coins | +33.3% | +52.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Katie McCabe (89)** subiu **+50.8%** em 24h, a **23k coins** (faixa do dia: 12.750–26k). Está +10% acima da média de 7 dias (aquecida).
+- **Marcos Acuña (89)** subiu **+52.9%** em 24h, a **130k coins** (faixa do dia: 80k–130k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Míchel Salgado (89)** subiu **+50.7%** em 24h, a **54k coins** (faixa do dia: 30k–62k). Está +41% acima da média de 7 dias (aquecida).
+- **Ian Maatsen (89)** subiu **+52.8%** em 24h, a **55k coins** (faixa do dia: 21k–55k). Está +60% acima da média de 7 dias (aquecida).
 
-- **Mërgim Vojvoda (87)** subiu **+48.6%** em 24h, a **55k coins** (faixa do dia: 35k–55k). Está +16% acima da média de 7 dias (aquecida).
+- **Míchel Salgado (89)** subiu **+47.6%** em 24h, a **53k coins** (faixa do dia: 30k–62k). Está +38% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marcus Pedersen | 89 | Serie A TIM | 39k coins | -38.7% | -24.4% |
-| Manolis Saliakas | 84 | Bundesliga | 34k coins | -38.6% | -30.8% |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 146k coins | -36.5% | +0.7% |
-| Daniel Muñoz | 96 | — | 809k coins | -30.9% | +1.1% |
-| John Arne Riise | 88 | Premier League | 32k coins | -27.8% | +62.5% |
-| Nuno Tavares | 87 | Serie A TIM | 36k coins | -26% | -19.3% |
-| Ashley Lawrence | 86 | D1 Arkema | 39k coins | -25.9% | -34.6% |
-| Francisco Moura | 90 | Liga Portugal | 41k coins | -25.5% | +28.1% |
+| Esmee Brugts | 96 | — | 699k coins | -29.6% | -11.9% |
+| Mauro Júnior | 86 | Eredivisie | 32k coins | -27.8% | -35% |
+| John Arne Riise | 88 | Premier League | 32k coins | -25.4% | +61.3% |
+| Lilian Thuram | 88 | Icons | 134k coins | -24.9% | -6.1% |
+| Lucy Bronze | 88 | Barclays WSL | 149k coins | -24.7% | +7.2% |
 | Carson Pickett | 86 | NWSL | 31k coins | -24.4% | -28.7% |
-| Matty Cash | 96 | — | 620k coins | -22.4% | +11.9% |
+| Ricardo Rodríguez | 88 | — | 20k coins | -23.4% | -11.8% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 20k coins | -22.9% | -48.7% |
+| Ona Batlle | 90 | Liga F | 39k coins | -22% | +18.2% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 43k coins | -21.8% | +53.6% |
 
 
 ### Análise das baixas
 
-- **Marcus Pedersen (89)** caiu **-38.7%** em 24h, a **39k coins** (faixa do dia: 34k–62k). Está -14% abaixo da média de 7 dias (descontada).
+- **Esmee Brugts (96)** caiu **-29.6%** em 24h, a **699k coins** (faixa do dia: 699k–995k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Manolis Saliakas (84)** caiu **-38.6%** em 24h, a **34k coins** (faixa do dia: 34k–55k). Está -24% abaixo da média de 7 dias (descontada).
+- **Mauro Júnior (86)** caiu **-27.8%** em 24h, a **32k coins** (faixa do dia: 32k–49k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Marcos Llorente (90)** caiu **-36.5%** em 24h, a **146k coins** (faixa do dia: 146k–230k). Está -39% abaixo da média de 7 dias (descontada).
+- **John Arne Riise (88)** caiu **-25.4%** em 24h, a **32k coins** (faixa do dia: 22k–45k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Katie McCabe já avançou 50.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marcos Acuña já avançou 52.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marcus Pedersen recuou -38.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Esmee Brugts recuou -29.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Katie McCabe (89, Barclays WSL), com +50.8% em 24h, a 23k coins no PC.
+Marcos Acuña (89, LPF), com +52.9% em 24h, a 130k coins no PC.
 
 **E a maior queda do dia?**
-Marcus Pedersen (89), -38.7% em 24h, a 39k coins.
+Esmee Brugts (96), -29.6% em 24h, a 699k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 106 cartas em alta contra 112 em queda (média 3.66%).
+Hoje o mercado está em alta — predominam as valorizações, com 93 cartas em alta contra 102 em queda (média 3.45%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -130,7 +130,6 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Laterais em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Investimentos EA FC: Laterais em 17/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
