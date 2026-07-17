@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:11:09.000Z
+pubDatetime: 2026-07-17T13:11:09.000Z
 title: "Investimentos EA FC: Laterais em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Thomas Meunier (92, sem liga) lidera, com +90% em 7 dias a 15.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Thomas Meunier (92, sem liga) lidera, com +80.4% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Thomas Meunier (92) acumula **+90% em 7 dias** a 15.000 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Thomas Meunier (92) acumula **+80.4% em 7 dias** a 23k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.4% em 24h** e **+61.6% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.1% em 24h** e **+57.1% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thomas Meunier | 92 | — | 15.000 coins | +18.8% | +90% | Esticada |
-| Theo Hernández | 88 | ROSHN Saudi League | 120k coins | +15.4% | +81.8% | Esticada |
-| Nahuel Molina | 91 | — | 130k coins | +18.2% | +71.1% | Esticada |
-| Marcelo | 90 | — | 48k coins | +7.7% | +64.7% | Esticada |
-| Marc Cucurella | 95 | — | 78k coins | +6.5% | +63.5% | Esticada |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 194k coins | +21% | +63.3% | Esticada |
-| Aaron Wan-Bissaka | 89 | Premier League | 55k coins | +1.7% | +61.6% | Esticada |
-| Marcelo | 89 | Icons | 141k coins | +5.9% | +61.6% | Esticada |
-| Carlos Alberto | 92 | Icons | 208k coins | +31% | +57.7% | Esticada |
-| Mateo Chávez | 89 | — | 57k coins | +22.8% | +54.7% | Esticada |
-| Reece James | 91 | — | 25k coins | +3.1% | +53.8% | Momentum moderado |
-| John Arne Riise | 88 | Premier League | 38k coins | +31% | +52% | Esticada |
-| Gisele Thompson | 90 | NWSL | 48k coins | +6.1% | +43.3% | Momentum moderado |
-| Mauro Júnior | 95 | — | 30k coins | +31.7% | +42.7% | Esticada |
-| Cafu | 92 | Icons | 243k coins | +12.7% | +41.7% | Momentum moderado |
+| Thomas Meunier | 92 | — | 23k coins | +5.7% | +80.4% | Esticada |
+| Marc Cucurella | 95 | — | 82k coins | +1.3% | +72.4% | Esticada |
+| Nahuel Molina | 91 | — | 91k coins | +18.2% | +69.9% | Esticada |
+| Carolin Simon | 90 | GPFBL | 60k coins | +5.3% | +67.6% | Esticada |
+| Joshua Kimmich | 89 | Bundesliga | 66k coins | +8.1% | +63.4% | Esticada |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 210k coins | +29.3% | +61.7% | Esticada |
+| Daniel Muñoz | 94 | — | 84k coins | +16.2% | +58.7% | Momentum moderado |
+| Jordi Alba | 84 | MLS | 110k coins | +2.8% | +57.1% | Momentum moderado |
+| Marc Cucurella | 93 | — | 35k coins | +2.2% | +52.7% | Momentum moderado |
+| Marcelo | 90 | — | 42k coins | +2.9% | +52.5% | Momentum moderado |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 48k coins | +18.8% | +48.4% | Momentum moderado |
+| Katie McCabe | 88 | Barclays Women’s Super League | 56k coins | +21.3% | +48.1% | Esticada |
+| Víctor Gómez | 91 | — | 41k coins | +9.8% | +45.5% | Momentum moderado |
+| Pervis Estupiñán | 94 | — | 28k coins | +26.1% | +45% | Esticada |
+| Javier Zanetti | 92 | — | 54k coins | +4.7% | +42.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Thomas Meunier (92)** — 15.000 coins, **+90% em 7 dias** (+18.8% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thomas Meunier (92)** — 23k coins, **+80.4% em 7 dias** (+5.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Theo Hernández (88)** — 120k coins, **+81.8% em 7 dias** (+15.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Cucurella (95)** — 82k coins, **+72.4% em 7 dias** (+1.3% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (91)** — 130k coins, **+71.1% em 7 dias** (+18.2% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nahuel Molina (91)** — 91k coins, **+69.9% em 7 dias** (+18.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcelo (90)** — 48k coins, **+64.7% em 7 dias** (+7.7% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carolin Simon (90)** — 60k coins, **+67.6% em 7 dias** (+5.3% em 24h). Preço +71% acima da média de 7 dias (aquecida). O modelo recente está neutro; a tese depende do momentum observado.
 
-- **Marc Cucurella (95)** — 78k coins, **+63.5% em 7 dias** (+6.5% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua Kimmich (89)** — 66k coins, **+63.4% em 7 dias** (+8.1% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Thomas Meunier (92, sem liga) lidera, com +90% em 7 dias a 15.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Thomas Meunier (92, sem liga) lidera, com +80.4% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
