@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Lateral Market"
 pubDatetime: 2026-06-02T13:11:01.000Z
-title: "Laterais no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Laterais no EA FC em 02/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Sonia Bompastor (88, D1 Arkema), com +44.4% em 24h, a 23k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Julian Ryerson (93), -28% em 24h, a 108k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 37k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 98 cartas em alta contra 119 em queda (média 1.57%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PS: Sonia Bompastor liderou as altas e Julian Ryerson as baixas em Laterais. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **98 subiram** e **119 caíram**, com variação média de **1.57%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Sonia Bompastor** registrou o maior movimento de 24h (+44,4%), enquanto **Julian Ryerson** marcou o menor (-28,0%). A distância entre os extremos foi de **72,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+3,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Laterais no EA FC em 02/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-02-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** teve um recorte **misto** — as quedas foram mais numerosas, embora as altas tenham sido mais intensas: das cartas relevantes (80+ acima de 5k coins), **98 subiram** e **119 caíram**, com variação média de **1.57%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Sonia Bompastor (88) **+44.4%** · 🔴 **Maior baixa:** Julian Ryerson (93) **-28%**
 
@@ -48,11 +51,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das altas
 
-- **Sonia Bompastor (88)** subiu **+44.4%** em 24h, a **23k coins** (faixa do dia: 18k–23k). Está +33% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+- **Sonia Bompastor (88)** subiu **+44.4%** em 24h, a **23k coins** (faixa do dia: 18k–23k). Está +33% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (95% de chance de subir mais).
 
-- **Sakina Karchaoui (88)** subiu **+41.8%** em 24h, a **48k coins** (faixa do dia: 29k–48k). Está +41% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (68% de chance de subir mais).
+- **Sakina Karchaoui (88)** subiu **+41.8%** em 24h, a **48k coins** (faixa do dia: 29k–48k). Está +41% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (68% de chance de subir mais).
 
-- **Esmee Brugts (88)** subiu **+41.2%** em 24h, a **24k coins** (faixa do dia: 16k–25k). Está +30% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (68% de chance de subir mais).
+- **Esmee Brugts (88)** subiu **+41.2%** em 24h, a **24k coins** (faixa do dia: 16k–25k). Está +30% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (68% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,16 +76,16 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Julian Ryerson (93)** caiu **-28%** em 24h, a **108k coins** (faixa do dia: 108k–156k). Está -22% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Julian Ryerson (93)** caiu **-28%** em 24h, a **108k coins** (faixa do dia: 108k–156k). Está -22% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Selma Bacha (86)** caiu **-27%** em 24h, a **108k coins** (faixa do dia: 108k–148k). Está -17% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Selma Bacha (86)** caiu **-27%** em 24h, a **108k coins** (faixa do dia: 108k–148k). Está -17% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Selma Bacha (94)** caiu **-25.8%** em 24h, a **152k coins** (faixa do dia: 152k–209k). Está -12% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Selma Bacha (94)** caiu **-25.8%** em 24h, a **152k coins** (faixa do dia: 152k–209k). Está -12% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -119,19 +122,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Sonia Bompastor (88, D1 Arkema), com +44.4% em 24h, a 23k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Julian Ryerson (93), -28% em 24h, a 108k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 37k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Lewis Miley (89) — 95% de probabilidade de alta, a 37k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 98 cartas em alta contra 119 em queda (média 1.57%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 98 cartas em alta contra 119 em queda (média 1.57%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -140,3 +143,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Laterais baratos no EA FC em 02/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-02-ps/)
+- [Momentum de Laterais no EA FC em 02/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-02-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

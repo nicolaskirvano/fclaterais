@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Lateral Market"
 pubDatetime: 2026-06-18T22:11:23.000Z
-title: "Laterais no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Laterais no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "E a maior queda do dia?"
-    a: "Patrick van Aanholt (85), -44.5% em 24h, a 28k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Jurriën Timber (87) — 95% de probabilidade de alta, a 38k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 66 cartas em alta contra 132 em queda (média -2.99%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Andrei Rațiu liderou as altas e Patrick van Aanholt as baixas em Laterais. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 10 cartas destacadas nas tabelas, **Andrei Rațiu** registrou o maior movimento de 24h (-21,1%), enquanto **Patrick van Aanholt** marcou o menor (-44,5%). A distância entre os extremos foi de **23,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-22,4%**: 0 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Laterais no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -69,7 +74,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Lilian Thuram | 88 | 200k coins | 238k coins | 95% |
 
 
-O modelo projeta alta para Jurriën Timber, Lewis Miley e Elliot Stroud, todos com 95% de probabilidade de valorização. Dimitris Giannoulis e Kenny Lala também estão na lista de previsões positivas, indicando potencial de retorno sobre o investimento.
+Naquele snapshot, o modelo projetava alta para Jurriën Timber, Lewis Miley e Elliot Stroud, todos com 95% de probabilidade de valorização. Dimitris Giannoulis e Kenny Lala também estão na lista de previsões positivas, indicando potencial de retorno sobre o investimento.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -98,16 +103,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Patrick van Aanholt (85), -44.5% em 24h, a 28k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Jurriën Timber (87) — 95% de probabilidade de alta, a 38k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Jurriën Timber (87) — 95% de probabilidade de alta, a 38k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 66 cartas em alta contra 132 em queda (média -2.99%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -116,3 +121,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Laterais no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Laterais no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

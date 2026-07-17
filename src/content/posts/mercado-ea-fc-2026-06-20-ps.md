@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Lateral Market"
 pubDatetime: 2026-06-21T01:11:49.000Z
-title: "Laterais no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Laterais no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Daniel Muñoz (96, sem liga), com +56.3% em 24h, a 800k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Idrissa Touré (83), -47.9% em 24h, a 36k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Dimitris Giannoulis (83) — 95% de probabilidade de alta, a 56k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 90 cartas em alta contra 96 em queda (média 3.01%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Daniel Muñoz liderou as altas e Idrissa Touré as baixas em Laterais. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Daniel Muñoz** registrou o maior movimento de 24h (+56,3%), enquanto **Idrissa Touré** marcou o menor (-47,9%). A distância entre os extremos foi de **104,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+3,4%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Laterais no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de laterais no console PlayStation apresenta uma dinâmica fascinante e contraditória nesta segunda-feira, 20 de junho de 2026, onde a euforia de valorização convive com correções drásticas em ativos de alta reputação. Embora o sentimento geral indique um ambiente de alta, com 90 ativos subindo contra 96 em queda, a média de variação positiva de 3,01% nas últimas 24 horas sugere que os traders estão buscando oportunidades específicas em vez de seguir movimentos de manada generalizados. A volatilidade é o termo que melhor define o cenário atual, pois vemos jogadores com ratings modestos disparando em preço enquanto ícones históricos sofrem desvalorizações acentuadas, refletindo uma mudança nos critérios de valorização das squads competitivas. Para o trader experiente, este é um momento de alta liquidez e oportunidades de arbitragem, mas que exige uma leitura precisa das probabilidades de alta indicadas pelos algoritmos para evitar armadilhas em ativos que parecem baratos mas estão em tendência de descida. A chave para o sucesso hoje está em distinguir entre altas sustentadas por demanda real de meta e flutuações temporárias causadas por escassez de supply ou eventos pontuais do jogo.
 
@@ -68,7 +71,7 @@ A liderança absoluta das altas pertence ao Daniel Muñoz, que registrou um impr
 O lado oposto do mercado revela correções severas em ativos que eram considerados seguros, lideradas por Idrissa Touré (83, Serie A TIM), que despencou 47,9% para 36 mil coins, apesar de manter uma probabilidade de alta de 50%, o que indica uma venda de pânico ou liberação de liquidez por parte de grandes holders. Nerea Nevado (89, Liga F) sofreu uma queda de 44,8% para 22 mil coins, e a combinação com sua baixa probabilidade de alta de apenas 5% sugere que este ativo pode continuar em tendência de baixa ou estagnação, sendo arriscado para compras de fundo. Entre os ícones, Cafu (92, Icons) caiu 42,5% para 100 mil coins e Roberto Carlos (91, Icons) despencou 38,7% para 159 mil coins, ambos com probabilidade de alta de apenas 5%, sinalizando que a demanda por estes cards de coleção está enfraquecendo ou que há uma saturação de supply no mercado. Marcelo (89, Icons) também não escapou, caindo 36,4% para 38 mil coins, enquanto Míchel Salgado (89, LaLiga) teve uma queda de 30,8% para 29 mil coins, reforçando a ideia de que o mercado está desvalorizando ativos de alto rating que não oferecem utilidade competitiva imediata. Lewis Hall (89, Premier League) caiu 30,4% para 28 mil coins, e embora tenha 50% de probabilidade de alta, a queda abrupta sugere que traders estão tirando lucro rápido após movimentos anteriores, criando uma oportunidade de compra apenas para aqueles com tolerância a risco elevado.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Daniel Muñoz (96, sem liga), com +56.3% em 24h, a 800k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Idrissa Touré (83), -47.9% em 24h, a 36k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Dimitris Giannoulis (83) — 95% de probabilidade de alta, a 56k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Dimitris Giannoulis (83) — 95% de probabilidade de alta, a 56k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 90 cartas em alta contra 96 em queda (média 3.01%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 90 cartas em alta contra 96 em queda (média 3.01%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Laterais baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Laterais no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

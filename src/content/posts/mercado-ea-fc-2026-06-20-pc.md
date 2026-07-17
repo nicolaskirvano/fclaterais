@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Lateral Market"
 pubDatetime: 2026-06-21T01:13:05.000Z
-title: "Laterais no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Laterais no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Lisa Karl (84, GPFBL), com +58.3% em 24h, a 28k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Ian Maatsen (89), -49.4% em 24h, a 22k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 120 em queda (média -2.18%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Lisa Karl liderou as altas e Ian Maatsen as baixas em Laterais. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Lisa Karl** registrou o maior movimento de 24h (+58,3%), enquanto **Ian Maatsen** marcou o menor (-49,4%). A distância entre os extremos foi de **107,7 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Laterais no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de laterais no EA FC Ultimate Team apresenta uma dinâmica de extrema volatilidade e pessimismo generalizado nesta terça-feira, 20 de junho de 2026, com um saldo negativo esmagador que reflete a falta de confiança dos traders em ativos de médio e longo prazo. A análise dos dados das últimas 24 horas revela uma predominância clara das quedas, com 120 jogadores registrando desvalorização contra apenas 68 em alta, resultando em uma média de variação de -2.18% para todo o segmento. Este cenário de mercado em baixa sugere que a maioria dos jogadores está liquidando posições para reduzir exposição ao risco ou para alocar capital em outros segmentos que possam oferecer retornos mais seguros, criando uma oportunidade de compra seletiva para aqueles que entendem os ciclos de hype. O tom do dia é de cautela extrema, onde o volume de vendas supera amplamente a demanda, pressionando os preços para baixo e exigindo uma leitura atenta das probabilidades de alta associadas a cada ativo para evitar compras em ativos que estão apenas passando por uma correção temporária. A divergência entre os movimentos de alta e baixa indica que não há uma narrativa única movendo o mercado, mas sim ajustes específicos de preços baseados em eventos isolados ou flutuações naturais de oferta e demanda.
 
@@ -76,16 +81,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Lisa Karl (84, GPFBL), com +58.3% em 24h, a 28k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ian Maatsen (89), -49.4% em 24h, a 22k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 120 em queda (média -2.18%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 68 cartas em alta contra 120 em queda (média -2.18%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Laterais baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Laterais no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
