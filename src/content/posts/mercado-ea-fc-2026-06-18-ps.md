@@ -27,19 +27,11 @@ A mediana de 24h do recorte ficou em **-22,4%**: 0 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado de laterais em console apresenta um clima predominantemente vendedor, com 132 quedas superando as 66 altas e uma média de desvalorização de -2.99% nas últimas 24 horas. Essa tendência de venda massiva sugere que traders devem estar atentos a oportunidades de compra em ativos com forte probabilidade de recuperação.
+As 3 tabelas abaixo preservam **26 registros** de **26 jogadores** observados em 18/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-## 🟢 Destaques de alta (24h)
-
-_Sem altas relevantes hoje._
-
-
-Apesar da queda geral, o modelo indica altas significativas para cartas como Lilian Thuram (Icona) e Giovanni Di Lorenzo, ambas com 95% de probabilidade de valorização. Outros nomes como Alexander Bah e Kenny Lala também se destacam com essa mesma alta probabilidade de alta, oferecendo bons pontos de entrada.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -54,13 +46,7 @@ Apesar da queda geral, o modelo indica altas significativas para cartas como Lil
 | Ruben Kluivert | 86 | Ligue 1 McDonald's | 30k coins | -21.3% | +18% |
 | Andrei Rațiu | 92 | — | 30k coins | -21.1% | -33.3% |
 
-
-Patrick van Aanholt sofreu a maior queda com -44.5% em 24 horas, caindo para 28k, mas possui 80% de chance de alta. Álvaro Carreras também despencou -28.4% para 392k, apresentando uma oportunidade interessante com 84% de probabilidade de valorização no curto prazo.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -73,13 +59,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Giovanni Di Lorenzo | 85 | 59k coins | 70k coins | 95% |
 | Lilian Thuram | 88 | 200k coins | 238k coins | 95% |
 
-
-Naquele snapshot, o modelo projetava alta para Jurriën Timber, Lewis Miley e Elliot Stroud, todos com 95% de probabilidade de valorização. Dimitris Giannoulis e Kenny Lala também estão na lista de previsões positivas, indicando potencial de retorno sobre o investimento.
-
-
-## ⚠️ Cartas em risco nas próximas 24h
-
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+### Tabela preservada 3
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -92,35 +72,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Mats Deijl | 88 | 32k coins | -29.2% |
 | Jade Le Guilly | 89 | 48k coins | -21.3% |
 
+## Como interpretar este arquivo
 
-## 🎯 Conclusão do dia
-Recomenda-se comprar as cartas com alta probabilidade de valorização, como Van Aanholt e Carreras, que sofreram quedas bruscas. Segure os ativos estáveis e evite vender os ativos previstos para alta, como Thuram e Timber, esperando a correção de mercado.
-
-
-## 🧪 De onde vêm estes números
-Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
-
-
-## ❓ Perguntas frequentes
-
-**E a maior queda do dia?**
-Patrick van Aanholt (85), -44.5% em 24h, a 28k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Jurriën Timber (87) — 95% de probabilidade de alta, a 38k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 66 cartas em alta contra 132 em queda (média -2.99%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
-
----
-
-*Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **392k coins**, com mediana de **29k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-22,4%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-23,7%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -130,3 +89,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [Momentum de Laterais no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

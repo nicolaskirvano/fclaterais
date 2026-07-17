@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+3,5%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado de laterais na PC apresenta um cenário equilibrado em 18/06/2026, com um sentimento lateral que reflete a disputa entre 84 altas e 109 quedas registradas nas últimas 24 horas. A volatilidade média foi contida, ficando em apenas 0.26%, indicando que os traders devem ter paciência e esperar movimentos mais direcionados antes de agir. Não há uma tendência massiva de alta ou baixa, o que sugere que as oportunidades estão mais isoladas em ativos específicos do que no segmento como um todo.
+As 2 tabelas abaixo preservam **20 registros** de **20 jogadores** observados em 18/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Alfonso Espino (86) **+50.7%** · 🔴 **Maior baixa:** Amar Dedić (88) **-45.5%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de laterais na PC apresenta um cenário equilibrado em 18/06/2026, com
 | Hanna Lundkvist | 87 | Barclays WSL | 56k coins | +32.9% | +63.2% |
 | Blás Riveros | 94 | — | 55k coins | +32.5% | +27.2% |
 
-
-Alfonso Espino lidera as altas com um salto expressivo de 50.7% para 28k, apoiado por uma probabilidade de alta de 62%, enquanto Grace Kazadi também se destaca com 49.2% de valorização a 24k. Míchel Salgado e Marc Cucurella seguem o movimento de alta, com aumentos de 41.4% e 44.5% respectivamente, embora a probabilidade de alta do espanhol seja mais modesta. Ona Batlle, um ativo de maior valor, subiu 33.3% para 40k, atraindo atenção dos traders que buscam oscilações em cards de rating mais elevado.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,38 +61,14 @@ Alfonso Espino lidera as altas com um salto expressivo de 50.7% para 28k, apoiad
 | Theo Hernández | 88 | ROSHN Saudi League | 318k coins | -25.9% | -30.1% |
 | Vladimír Coufal | 91 | — | 35k coins | -25.5% | -10.3% |
 
+## Como interpretar este arquivo
 
-Amar Dedić sofreu a maior queda relativa com -45.5% para 30k, mas ainda mantém uma probabilidade de alta de 54%, o que pode indicar uma oportunidade de compra se o jogador se estabilizar. Tyrick Mitchell despencou 41.9% para 779k, mas com probabilidade de alta em 0%, sinalizando que é melhor evitar esse ativo por enquanto. Carlos Alberto (Icons) caiu 28.4% para 315k, e Lewis Hall perdeu 27.4% para 48k, oferecendo potenciais entradas de compra dada a alta probabilidade de alta (64%) deste último.
-
-
-## 🎯 Conclusão do dia
-Recomenda-se segurar os ativos que já estão em alta, como Alfonso Espino e Míchel Salgado, para tentar capturar lucros adicionais dada a probabilidade favorável. É interessante comprar com cautela ativos como Lewis Hall e Amar Dedić, que sofreram quedas mas mantêm probabilidades de alta significativas, buscando um rebote nos próximos dias. Evite entrar em Tyrick Mitchell ou outros cards com probabilidade de alta zero, pois o risco de desvalorização contínua é elevado neste momento.
-
-
-## 🧪 De onde vêm estes números
-Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
-Alfonso Espino (86, LALIGA EA SPORTS), com +50.7% em 24h, a 28k coins no PC.
-
-**E a maior queda do dia?**
-Amar Dedić (88), -45.5% em 24h, a 30k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 84 cartas em alta contra 109 em queda (média 0.26%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
-
----
-
-*Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **779k coins**, com mediana de **34k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+3,5%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+6,7%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -108,3 +78,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

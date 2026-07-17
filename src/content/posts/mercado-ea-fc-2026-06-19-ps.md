@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-17,8%**: 10 destaques subiam e 10 caíam
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado de Laterais no console PS para 19/06/2026 apresenta um cenário extremamente hostil para traders que buscam ganhos rápidos e sem análise, caracterizado por uma pressão vendedora massiva que deixou o sentimento geral do dia profundamente negativo. Com uma proporção desproporcional de 93 quedas contra apenas 23 altas, a média de variação em 24 horas atingiu um impressionante -12.43%, sinalizando que a maioria dos ativos está sendo liquidada por traders desesperados ou por ajustes automáticos de preço em um ambiente de baixa liquidez. Esse contexto exige uma cautela extrema, pois a volatilidade não está sendo impulsionada por demanda orgânica de squads, mas sim por uma correção de preços inflacionados nas sessões anteriores, criando oportunidades de compra de oportunidade, mas com riscos elevados de continuação da queda. O trader experiente deve observar que, apesar do pessimismo geral, existem nichos específicos onde a probabilidade de alta superou 90%, indicando que o mercado está reagindo de forma segmentada e não homogênea a todos os ativos. Portanto, a estratégia do dia não deve ser baseada em FOMO, mas sim na identificação precisa dos ativos que estão sendo vendidos por pânico irracional versus aqueles que estão caindo por falta de utilidade real no meta atual.
+As 4 tabelas abaixo preservam **36 registros** de **30 jogadores** observados em 19/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Nuno Tavares (87) **+15.3%** · 🔴 **Maior baixa:** Nico O'Reilly (88) **-49.6%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de Laterais no console PS para 19/06/2026 apresenta um cenário extrem
 | Giovanni Di Lorenzo | 86 | Serie A TIM | 70k coins | +4.5% | +9.4% |
 | Lucy Bronze | 88 | Barclays WSL | 62k coins | +4.2% | +66.7% |
 
-
-Entre os poucos ativos que conseguiram se destacar positivamente, Nuno Tavares lidera com uma alta de 15.3% em 24 horas, atingindo os 39k coins, embora a probabilidade de alta futura seja baixa (5%), sugerindo que este movimento pode ser apenas um rebote técnico momentâneo em um ativo de Serie A TIM com rating 87. Muito próximo, Larrazabal, da Liga Portugal com rating 84, subiu 15.2% para 46k coins, também com baixa probabilidade de continuidade (5%), o que indica que traders de curto prazo podem estar explorando uma liquidez temporária antes de uma possível reversão. Andrew Robertson, o lateral esquerdo da Premier League com rating 86, apresentou um movimento mais robusto de 11.8% para 240k coins, com uma probabilidade de alta de 16%, o que é significativo para um ativo de alto valor, indicando alguma retenção de preço por parte de colecionadores de squads de elite que valorizam a consistência do jogador. Kieran Tierney se destaca como um caso interessante, com alta de 10% para 49k coins e uma probabilidade de alta de 95%, o que sugere que este ativo da Scottish Premiership com rating 83 está sendo acumulado por traders inteligentes que antecipam um movimento maior nos próximos dias, tornando-o um dos poucos ativos de compra segura no momento. Alan Browne, da EFL Championship com rating 84, teve alta modesta de 7.2% para 47k coins, mas com probabilidade de alta de apenas 5%, o que reforça a tese de que movimentos em ligas secundárias sem suporte de meta são frequentemente armadilhas de liquidez para traders inexperientes.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ Entre os poucos ativos que conseguiram se destacar positivamente, Nuno Tavares l
 | Gianluca Zambrotta | 86 | Icons | 74k coins | -40.2% | -26.1% |
 | Joshua Kimmich | 89 | Bundesliga | 95k coins | -39.9% | -13.6% |
 
-
-As quedas foram devastadoras para vários ativos, especialmente no segmento feminino e em jogadores de ligas menos populares, onde Nico O'Reilly sofreu uma queda brutal de 49.6% em 24 horas, caindo para 28k coins, apesar de ter probabilidade de alta de 95%, o que cria uma contradição de mercado onde o preço cai drasticamente mas o modelo prevê recuperação, possivelmente devido a uma venda em massa de inventário antigo. Fridolina Rolfö, da Barclays WSL com rating 90, despencou 46.3% para 21k coins, com probabilidade de alta de 18%, indicando que a queda é fundamentada e não apenas um pânico, já que a baixa probabilidade de recuperação sugere que o ativo perdeu relevância no meta ou está sendo substituído por opções mais baratas e eficientes. Sakina Karchaoui, da D1 Arkema com rating 88, caiu 45.5% para 29k coins, mas com probabilidade de alta de 68%, o que sugere uma oportunidade de compra de risco calculado para traders que acreditam na recuperação do ativo devido à sua utilidade em squads temáticos específicos. Alex Scott, também da Barclays WSL com rating 89, perdeu 45% para 47k coins, com probabilidade de alta de apenas 8%, confirmando que a queda é estrutural e que o ativo provavelmente continuará a desvalorizar, devendo ser evitado a qualquer custo por traders que buscam proteção de capital. João Cancelo, da ROSHN Saudi League com rating 87, caiu 44.3% para 52k coins, com probabilidade de alta de 43%, o que indica uma situação de incerteza onde o ativo está em um ponto de decisão crítica entre continuar caindo por falta de demanda ou se estabilizar como um ativo de baixo custo para squads de médio escalão.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Na publicação original, estas cartas receberam as maiores probabilidades de va
 | Selma Bacha | 87 | 25k coins | 29k coins | 95% |
 | Ona Batlle | 88 | 30k coins | 34k coins | 93% |
 
-
-O modelo de previsão identifica oportunidades claras de compra em ativos com alta probabilidade de valorização, destacando Giovanni Di Lorenzo da Serie A TIM com rating 85, atualizado a 70k coins, com probabilidade de alta de 95%, o que o torna um dos ativos mais seguros para acumulação imediata. Dimitris Giannoulis, da Bundesliga com rating 83, está a 52k coins com 95% de probabilidade de alta, sugerindo que o mercado ainda não precificou totalmente a sua utilidade em squads de elite alemã. Ellie Carpenter, da Barclays WSL com rating 86, está a 34k coins com 95% de probabilidade de alta, indicando uma forte possibilidade de recuperação no segmento feminino após as quedas recentes. Kieran Tierney, já mencionado nas altas, reafirma sua força com 95% de probabilidade de alta a 49k coins, consolidando-se como o ativo lateral mais confiável do dia. Capdevila, da LALIGA EA SPORTS com rating 86, está a um preço acessível de 16k coins com 95% de probabilidade de alta, oferecendo um excelente risco-retorno para traders de baixo capital. Mary Alice Vignola, da NWSL com rating 85, está a 15k coins com 95% de probabilidade de alta, representando uma das melhores oportunidades de alavancagem para quem opera com orçamentos reduzidos. Selma Bacha, da D1 Arkema com rating 87, está a 25k coins com 95% de probabilidade de alta, sugerindo uma correção de preço temporária em um ativo de liga forte. Por fim, Ona Batlle, sem liga específica com rating 88, está a 30k coins com 93% de probabilidade de alta, completando o portfólio de ativos recomendados para compra imediata.
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h 
 | Nuno Tavares | 87 | 39k coins | -24.1% |
 | Lynn Wilms | 86 | 30k coins | -21.3% |
 
+## Como interpretar este arquivo
 
-## 🎯 O que fazer hoje
-A estratégia do dia deve ser altamente seletiva, focando exclusivamente na compra dos ativos com probabilidade de alta superior a 90%, como Kieran Tierney, Giovanni Di Lorenzo e Capdevila, enquanto se evita completamente a compra de ativos que estão em queda livre sem suporte de probabilidade, como Alex Scott e Ruben Kluivert. Traders devem considerar a venda de ativos como Nuno Tavares e Larrazabal se possuírem em seus inventários, pois a baixa probabilidade de alta (5%) sugere que os ganhos atuais são máximos locais e que uma correção é iminente. É crucial monitorar de perto a ação de Nico O'Reilly e Sakina Karchaoui, pois suas altas probabilidades de alta (95% e 68%, respectivamente) contrastam com as quedas severas, criando uma oportunidade de arbitragem temporal para quem ousar comprar no fundo e vender na recuperação. Evite a todo custo novos investimentos em ativos da Barclays WSL, exceto Ellie Carpenter, pois o segmento feminino parece estar passando por uma reavaliação de valor massiva que pode continuar a pressionar preços para baixo. O timing ideal para execução é imediato, aproveitando a liquidez gerada pelo pânico vendedor para entrar nos ativos recomendados pelo modelo antes que a probabilidade de alta seja precificada pelo mercado e os preços subam. Mantenha uma gestão de risco rigorosa, limitando a exposição a ativos de baixa probabilidade de alta e priorizando a proteção do capital em um mercado tão volátil e pressionado como o de hoje.
-
-
-## 📊 Nossa metodologia em 30 segundos
-Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
-Nuno Tavares (87, Serie A TIM), com +15.3% em 24h, a 39k coins no Console (PS).
-
-**E a maior queda do dia?**
-Nico O'Reilly (88), -49.6% em 24h, a 28k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 70k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 23 cartas em alta contra 93 em queda (média -12.43%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **240k coins**, com mediana de **46k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-17,8%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+6,5%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
