@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:11:18.000Z
+pubDatetime: 2026-07-17T17:21:17.000Z
 title: "Investimentos EA FC: Laterais em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Mary Alice Vignola (85, NWSL) lidera, com +83.6% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Thomas Meunier (92, sem liga) lidera, com +89.7% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mary Alice Vignola (85) acumula **+83.6% em 7 dias** a 22k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Thomas Meunier (92) acumula **+89.7% em 7 dias** a 26k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.0% em 24h** e **+60.9% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.0% em 24h** e **+64.4% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mary Alice Vignola | 85 | NWSL | 22k coins | +29.5% | +83.6% | Esticada |
+| Thomas Meunier | 92 | — | 26k coins | +19.6% | +89.7% | Esticada |
 | Reece James | 91 | — | 55k coins | +27.9% | +83.3% | Esticada |
-| Ian Maatsen | 89 | Premier League | 48k coins | +38.9% | +73.9% | Esticada |
-| Julian Ryerson | 93 | — | 100k coins | +1.9% | +69.2% | Esticada |
-| Tarciane | 88 | D1 Arkema | 44k coins | +33.8% | +65.2% | Esticada |
-| Marcelo | 90 | — | 55k coins | +2.6% | +64.8% | Esticada |
-| Carlos Alberto | 91 | Icons | 218k coins | +11.5% | +64% | Esticada |
-| Micah Richards | 92 | — | 135k coins | +34.7% | +60.9% | Esticada |
+| Marc Cucurella | 93 | — | 38k coins | +6.5% | +82.2% | Esticada |
+| Marc Cucurella | 95 | — | 76k coins | +8.1% | +76.8% | Esticada |
+| Javier Zanetti | 92 | — | 85k coins | +34.9% | +73.5% | Esticada |
+| Ian Maatsen | 89 | Premier League | 55k coins | +34% | +67.8% | Esticada |
+| Tarciane | 92 | — | 38k coins | +4.6% | +66.7% | Esticada |
+| Philipp Lahm | 89 | Icons | 106k coins | +19.4% | +64.4% | Esticada |
+| Álvaro Carreras | 86 | LALIGA EA SPORTS | 67k coins | +14.8% | +59.1% | Momentum moderado |
+| Diogo Dalot | 87 | Premier League | 96k coins | +10% | +57.1% | Momentum moderado |
+| Balde | 90 | LALIGA EA SPORTS | 138k coins | +6.2% | +55.9% | Momentum moderado |
 | Jordi Alba | 84 | MLS | 130k coins | +14% | +55.7% | Momentum moderado |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 70k coins | +28.4% | +53.8% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 52k coins | +19.5% | +52.9% | Momentum moderado |
-| Maximilian Mittelstädt | 88 | Bundesliga | 37k coins | +12.9% | +52% | Momentum moderado |
-| Mateo Chávez | 89 | — | 69k coins | +11.3% | +51.6% | Momentum moderado |
-| Álvaro Carreras | 86 | LALIGA EA SPORTS | 70k coins | +9% | +51.1% | Momentum moderado |
-| Cafu | 96 | — | 230k coins | +11.4% | +45.8% | Momentum moderado |
+| Micah Richards | 92 | — | 120k coins | +31% | +54.1% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 52k coins | +30% | +52.9% | Esticada |
+| Mateo Chávez | 89 | — | 65k coins | +15% | +51.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mary Alice Vignola (85)** — 22k coins, **+83.6% em 7 dias** (+29.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thomas Meunier (92)** — 26k coins, **+89.7% em 7 dias** (+19.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reece James (91)** — 55k coins, **+83.3% em 7 dias** (+27.9% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reece James (91)** — 55k coins, **+83.3% em 7 dias** (+27.9% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ian Maatsen (89)** — 48k coins, **+73.9% em 7 dias** (+38.9% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Cucurella (93)** — 38k coins, **+82.2% em 7 dias** (+6.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Ryerson (93)** — 100k coins, **+69.2% em 7 dias** (+1.9% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Cucurella (95)** — 76k coins, **+76.8% em 7 dias** (+8.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tarciane (88)** — 44k coins, **+65.2% em 7 dias** (+33.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (92)** — 85k coins, **+73.5% em 7 dias** (+34.9% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Mary Alice Vignola (85, NWSL) lidera, com +83.6% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Thomas Meunier (92, sem liga) lidera, com +89.7% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
+> **Link patrocinado:** 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

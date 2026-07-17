@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:11:10.000Z
+pubDatetime: 2026-07-17T17:21:09.000Z
 title: "Jogadores baratos EA FC: Laterais em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.250 coins no Console (PS)."
+    a: "Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Guéla Doué (94) por apenas 13.250 coins.
+> 💰 **Melhor pechincha:** Guéla Doué (94) por apenas 13.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Laterais em 17/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-17-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 12.440 coins.
+- **Preço médio das 11 opções:** 11.914 coins.
 - **Posição mais frequente:** LB, com 8 cartas.
-- **Faixa real:** 3.400 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,35 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Guéla Doué | 94 | RB | — | 13.250 coins | +8.5% |
-| Sidny Cabral | 93 | LB | — | 12.000 coins | +6.4% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.400 coins | +3% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.250 coins | +18% |
-| Sara Holmgaard | 88 | LB | — | 14.500 coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12.250 coins | +4.2% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.500 coins | +16.7% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | +14.3% |
-| John Arne Riise | 86 | LB | Premier League | 13.750 coins | +12.8% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14.000 coins | +3.3% |
+| Guéla Doué | 94 | RB | — | 13.000 coins | +10.6% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.000 coins | +3% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +3.6% |
+| Sara Holmgaard | 88 | LB | — | 14.500 coins | -3.3% |
+| Mats Deijl | 88 | RB | Eredivisie | 14.750 coins | -3.3% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2.300 coins | +53.3% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.500 coins | +4.2% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | +8% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.500 coins | +16.7% |
+| John Arne Riise | 86 | LB | Premier League | 14.500 coins | +23.4% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | -14.7% |
 
 
 ## 📈 Destaques
 
-- **Guéla Doué (94, RB)** da —, a apenas **13.250 coins**
+- **Guéla Doué (94, RB)** da —, a apenas **13.000 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **12.000 coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14.250 coins**
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14.000 coins**
 
 - **Sara Holmgaard (88, LB)** da —, a apenas **14.500 coins**
+
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Guéla Doué (94, RB) por 13.250 coins é a referência de rating deste recorte.
+- **Defesa:** Guéla Doué (94, RB) por 13.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -86,7 +87,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.250 coins no Console (PS).
+Guéla Doué (94, sem liga) aparece como melhor custo-benefício, a 13.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -95,7 +96,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
+> **Link patrocinado:** 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
