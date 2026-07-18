@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:11:18.000Z
+pubDatetime: 2026-07-18T01:11:18.000Z
 title: "Investimentos EA FC: Laterais em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.7% em 24h** e **+33.3% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.3% em 24h** e **+50.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ona Batlle | 90 | Liga F | 50k coins | +16.3% | +85.2% | Esticada |
-| Vladimír Coufal | 91 | — | 43k coins | +14% | +72.7% | Esticada |
-| Bixente Lizarazu | 88 | Bundesliga | 17.750 coins | +22% | +63.6% | Esticada |
-| Javier Zanetti | 92 | — | 82k coins | +15.7% | +62.8% | Esticada |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 128k coins | +7.5% | +61.3% | Esticada |
-| Philipp Lahm | 89 | Icons | 100k coins | +22.7% | +60% | Esticada |
-| Lilly Reale | 91 | — | 40k coins | +8.8% | +60% | Esticada |
-| Mateo Chávez | 89 | — | 62k coins | +17.8% | +33.3% | Momentum moderado |
-| Bart van Rooij | 92 | — | 29k coins | +4.5% | +32.2% | Momentum moderado |
-| Julian Araujo | 89 | Scottish Premiership | 198k coins | +10% | +32% | Momentum moderado |
-| Marcelo | 89 | Icons | 130k coins | +19.3% | +32% | Momentum moderado |
-| Terry Devlin | 86 | EFL Championship | 50k coins | +7% | +26.9% | Momentum moderado |
-| Tariq Lamptey | 89 | — | 42k coins | +13.9% | +26% | Momentum moderado |
-| Jurriën Timber | 86 | Premier League | 54k coins | +20.5% | +25% | Esticada |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 44k coins | +16.6% | +24.1% | Momentum moderado |
+| Ona Batlle | 90 | Liga F | 50k coins | +25% | +85.2% | Esticada |
+| Thomas Meunier | 92 | — | 28k coins | +2.7% | +82.5% | Esticada |
+| Gisele Thompson | 90 | NWSL | 60k coins | +17.6% | +69% | Esticada |
+| Lilly Reale | 91 | — | 40k coins | +8.2% | +59% | Momentum moderado |
+| Jordi Alba | 84 | MLS | 130k coins | +23.8% | +55.7% | Esticada |
+| Leif Davis | 84 | EFL Championship | 56k coins | +4.5% | +53.9% | Momentum moderado |
+| Terry Devlin | 86 | EFL Championship | 50k coins | +22.2% | +51.1% | Esticada |
+| Javier Zanetti | 92 | — | 75k coins | +7.1% | +50% | Momentum moderado |
+| Mats Deijl | 88 | Eredivisie | 25k coins | +26.9% | +50% | Esticada |
+| Víctor Gómez | 91 | — | 45k coins | +21.5% | +47.2% | Esticada |
+| Rayan Aït-Nouri | 90 | Premier League | 50k coins | +32.9% | +45.3% | Esticada |
+| Ona Batlle | 88 | — | 58k coins | +2.7% | +45% | Momentum moderado |
+| Theo Hernández | 88 | ROSHN Saudi League | 130k coins | +10.2% | +44.4% | Momentum moderado |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 80k coins | +33.3% | +36.8% | Esticada |
+| Marcelo | 89 | Icons | 125k coins | +18.3% | +35.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ona Batlle (90)** — 50k coins, **+85.2% em 7 dias** (+16.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). O modelo recente está neutro; a tese depende do momentum observado.
+- **Ona Batlle (90)** — 50k coins, **+85.2% em 7 dias** (+25% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vladimír Coufal (91)** — 43k coins, **+72.7% em 7 dias** (+14% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thomas Meunier (92)** — 28k coins, **+82.5% em 7 dias** (+2.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bixente Lizarazu (88)** — 17.750 coins, **+63.6% em 7 dias** (+22% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gisele Thompson (90)** — 60k coins, **+69% em 7 dias** (+17.6% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Zanetti (92)** — 82k coins, **+62.8% em 7 dias** (+15.7% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lilly Reale (91)** — 40k coins, **+59% em 7 dias** (+8.2% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Llorente (86)** — 128k coins, **+61.3% em 7 dias** (+7.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordi Alba (84)** — 130k coins, **+55.7% em 7 dias** (+23.8% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Laterais em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Mercado EA FC em 17/07: Laterais — PC](/posts/mercado-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
