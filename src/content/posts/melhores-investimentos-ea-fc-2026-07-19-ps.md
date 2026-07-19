@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:11:09.000Z
+pubDatetime: 2026-07-19T22:11:09.000Z
 title: "Investimentos EA FC: Laterais em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.8% em 24h** e **+50.8% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.8% em 24h** e **+44.4% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andy Najar | 91 | — | 42k coins | +3% | +86.8% | Esticada |
-| Jade Le Guilly | 89 | D1 Arkema | 32k coins | +18.6% | +84.2% | Esticada |
-| Tarciane | 92 | — | 38k coins | +33.3% | +73.9% | Esticada |
-| Lewis Hall | 89 | Premier League | 86k coins | +27% | +72.3% | Esticada |
-| Carlos Alberto | 91 | Icons | 136k coins | +8.2% | +60.2% | Esticada |
-| Javier Zanetti | 92 | — | 55k coins | +15.8% | +53.8% | Momentum moderado |
-| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +33.9% | +53.7% | Esticada |
-| Lisa Karl | 84 | GPFBL | 23k coins | +5.7% | +50.8% | Momentum moderado |
-| Lewis Miley | 89 | Premier League | 39k coins | +12.5% | +50% | Momentum moderado |
-| Francisco Calvo | 84 | Brasileirão | 50k coins | +36.4% | +43.1% | Esticada |
-| Nerea Nevado | 89 | Liga F | 30k coins | +23.7% | +42.4% | Esticada |
-| Thomas Meunier | 92 | — | 30k coins | +7.4% | +41.7% | Momentum moderado |
-| Iván Córdoba | 88 | Serie A TIM | 119k coins | +19% | +39.2% | Momentum moderado |
-| Julian Araujo | 89 | Scottish Premiership | 228k coins | +13.3% | +37.7% | Momentum moderado |
-| Guéla Doué | 94 | — | 17.750 coins | +6.7% | +33.3% | Momentum moderado |
+| Andy Najar | 91 | — | 42k coins | +6.2% | +86.8% | Esticada |
+| Tarciane | 92 | — | 32k coins | +37.4% | +71.7% | Esticada |
+| Mats Deijl | 88 | Eredivisie | 24k coins | +33.3% | +68.4% | Esticada |
+| Joško Gvardiol | 86 | Premier League | 69k coins | +2.9% | +65.7% | Esticada |
+| Joelle Wedemeyer | 89 | GPFBL | 24k coins | +1.1% | +65.5% | Esticada |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 131k coins | +31% | +64.8% | Esticada |
+| Javier Zanetti | 92 | — | 54k coins | +35% | +56% | Esticada |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 23k coins | +7.1% | +44.4% | Momentum moderado |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 18.500 coins | +13.8% | +39.6% | Momentum moderado |
+| Amar Dedić | 88 | — | 33k coins | +32.3% | +38% | Esticada |
+| Gianluca Zambrotta | 86 | Icons | 100k coins | +3.6% | +35.1% | Momentum moderado |
+| Julian Araujo | 89 | Scottish Premiership | 190k coins | +16.8% | +32.9% | Momentum moderado |
+| Lucy Bronze | 88 | Barclays WSL | 70k coins | +17.5% | +30.9% | Momentum moderado |
+| Iván Córdoba | 88 | Serie A TIM | 109k coins | +1.9% | +28.7% | Momentum moderado |
+| Francisco Calvo | 84 | Brasileirão | 48k coins | +32.5% | +22% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Andy Najar (91)** — 42k coins, **+86.8% em 7 dias** (+3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andy Najar (91)** — 42k coins, **+86.8% em 7 dias** (+6.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jade Le Guilly (89)** — 32k coins, **+84.2% em 7 dias** (+18.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tarciane (92)** — 32k coins, **+71.7% em 7 dias** (+37.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tarciane (92)** — 38k coins, **+73.9% em 7 dias** (+33.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mats Deijl (88)** — 24k coins, **+68.4% em 7 dias** (+33.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lewis Hall (89)** — 86k coins, **+72.3% em 7 dias** (+27% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joško Gvardiol (86)** — 69k coins, **+65.7% em 7 dias** (+2.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Alberto (91)** — 136k coins, **+60.2% em 7 dias** (+8.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joelle Wedemeyer (89)** — 24k coins, **+65.5% em 7 dias** (+1.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
