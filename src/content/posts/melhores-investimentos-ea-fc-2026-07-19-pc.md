@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:11:18.000Z
+pubDatetime: 2026-07-19T13:11:18.000Z
 title: "Investimentos EA FC: Laterais em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Fridolina Rolfö (90, Barclays WSL) lidera, com +85.9% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Javier Zanetti (92, sem liga) lidera, com +84.8% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Fridolina Rolfö (90) acumula **+85.9% em 7 dias** a 90k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Javier Zanetti (92) acumula **+84.8% em 7 dias** a 64k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.7% em 24h** e **+55.6% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.6% em 24h** e **+51.4% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fridolina Rolfö | 90 | Barclays WSL | 90k coins | +5.3% | +85.9% | Esticada |
-| Lilly Reale | 91 | — | 38k coins | +4.6% | +81.8% | Esticada |
-| Marc Cucurella | 93 | — | 39k coins | +22.6% | +80.6% | Esticada |
-| Vladimír Coufal | 91 | — | 45k coins | +12.5% | +80% | Esticada |
-| Gisele Thompson | 90 | NWSL | 54k coins | +7.5% | +75.4% | Esticada |
-| Thomas Meunier | 92 | — | 30k coins | +4.3% | +66.7% | Esticada |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 44k coins | +27.1% | +61.8% | Esticada |
+| Javier Zanetti | 92 | — | 64k coins | +13.3% | +84.8% | Esticada |
+| Reece James | 91 | — | 55k coins | +9% | +81.7% | Esticada |
+| Selma Bacha | 94 | — | 80k coins | +32.2% | +73.9% | Esticada |
+| Thomas Meunier | 92 | — | 27k coins | +2.6% | +62.2% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 65k coins | +33.3% | +61.5% | Esticada |
 | Nahuel Molina | 91 | — | 140k coins | +2.2% | +55.6% | Momentum moderado |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 73k coins | +25.2% | +51.3% | Esticada |
-| Tarciane | 92 | — | 40k coins | +28.6% | +51.3% | Esticada |
-| Alberto Costa | 91 | — | 30k coins | +6.2% | +50% | Momentum moderado |
-| Katie McCabe | 89 | Barclays WSL | 27k coins | +37.5% | +41% | Esticada |
-| Lynn Wilms | 86 | Barclays Women’s Super League | 47k coins | +17.5% | +39.3% | Momentum moderado |
-| Gianluca Zambrotta | 86 | Icons | 147k coins | +14.7% | +37% | Momentum moderado |
-| Nico O'Reilly | 96 | — | 120k coins | +23.6% | +36% | Esticada |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 71k coins | +24.8% | +52.1% | Esticada |
+| Amar Dedić | 93 | — | 26k coins | +33.6% | +51.4% | Esticada |
+| Marc Cucurella | 93 | — | 35k coins | +15.6% | +50% | Momentum moderado |
+| Marc Cucurella | 86 | Premier League | 47k coins | +7.9% | +47.7% | Momentum moderado |
+| Mats Deijl | 88 | Eredivisie | 23k coins | +24% | +45.3% | Esticada |
+| Blás Riveros | 94 | — | 34k coins | +9.7% | +37.4% | Momentum moderado |
+| Lynn Wilms | 86 | Barclays Women’s Super League | 47k coins | +22.1% | +35.3% | Esticada |
+| Grace Kazadi | 87 | D1 Arkema | 21k coins | +11.8% | +32.8% | Momentum moderado |
+| Tristan Crama | 92 | — | 30k coins | +36.4% | +31.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Fridolina Rolfö (90)** — 90k coins, **+85.9% em 7 dias** (+5.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (92)** — 64k coins, **+84.8% em 7 dias** (+13.3% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lilly Reale (91)** — 38k coins, **+81.8% em 7 dias** (+4.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reece James (91)** — 55k coins, **+81.7% em 7 dias** (+9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (93)** — 39k coins, **+80.6% em 7 dias** (+22.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Selma Bacha (94)** — 80k coins, **+73.9% em 7 dias** (+32.2% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vladimír Coufal (91)** — 45k coins, **+80% em 7 dias** (+12.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thomas Meunier (92)** — 27k coins, **+62.2% em 7 dias** (+2.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gisele Thompson (90)** — 54k coins, **+75.4% em 7 dias** (+7.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 65k coins, **+61.5% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Fridolina Rolfö (90, Barclays WSL) lidera, com +85.9% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Javier Zanetti (92, sem liga) lidera, com +84.8% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
