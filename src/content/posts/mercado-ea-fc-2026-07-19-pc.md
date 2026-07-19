@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:25:21.000Z
+pubDatetime: 2026-07-19T10:11:16.000Z
 title: "Mercado EA FC em 19/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Nerea Nevado (89, Liga F), com +57% em 24h, a 44k coins no PC."
+    a: "Nerea Nevado (89, Liga F), com +58.4% em 24h, a 44k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Antonee Robinson (94), -41.8% em 24h, a 34k coins."
+    a: "Nawaf Boushal (91), -42.7% em 24h, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 108 em queda (média 2.51%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 108 cartas em alta contra 111 em queda (média 2.05%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **19/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **112 cartas subiram** e **108 caíram** (80+ acima de 5k coins), variação média de **2.51%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **108 cartas subiram** e **111 caíram** (80+ acima de 5k coins), variação média de **2.05%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nerea Nevado (89) **+57%** · 🔴 **Maior baixa:** Antonee Robinson (94) **-41.8%**
+> 🟢 **Maior alta:** Nerea Nevado (89) **+58.4%** · 🔴 **Maior baixa:** Nawaf Boushal (91) **-42.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.9% entre as cartas que se moveram; o universo observado reúne 252 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.3% entre as cartas que se moveram; o universo observado reúne 254 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nerea Nevado | 89 | Liga F | 44k coins | +57% | +65.7% |
-| Yan Valery | 91 | — | 36k coins | +50% | +92% |
-| Katie McCabe | 89 | Barclays WSL | 28k coins | +48.6% | +41% |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 48k coins | +48.3% | +0.8% |
-| Archie Brown | 85 | Trendyol Süper Lig | 77k coins | +47% | -12% |
+| Nerea Nevado | 89 | Liga F | 44k coins | +58.4% | +73.8% |
+| Jade Le Guilly | 89 | D1 Arkema | 45k coins | +53.8% | +30.4% |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 66k coins | +48.3% | +0.8% |
+| Javier Zanetti | 89 | Icons | 92k coins | +46.9% | +71.1% |
 | Selma Bacha | 94 | — | 80k coins | +45.5% | +77.8% |
 | Joško Gvardiol | 86 | Premier League | 60k coins | +44.6% | -14.3% |
 | Nuno Mendes | 97 | Ligue 1 McDonald's | 2.60M coins | +44.4% | -11.1% |
-| John Arne Riise | 88 | Premier League | 32k coins | +43.3% | -10.4% |
-| Carvajal | 89 | LALIGA EA SPORTS | 374k coins | +43.3% | -8.8% |
+| Carson Pickett | 86 | NWSL | 43k coins | +37.9% | +31.5% |
+| Katie McCabe | 89 | Barclays WSL | 27k coins | +37.5% | +41% |
+| Bixente Lizarazu | 90 | — | 48k coins | +35.7% | +93.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nerea Nevado (89)** subiu **+57%** em 24h, a **44k coins** (faixa do dia: 24k–48k). Está +69% acima da média de 7 dias (aquecida).
+- **Nerea Nevado (89)** subiu **+58.4%** em 24h, a **44k coins** (faixa do dia: 24k–48k). Está +68% acima da média de 7 dias (aquecida).
 
-- **Yan Valery (91)** subiu **+50%** em 24h, a **36k coins** (faixa do dia: 19.500–38k). Está +23% acima da média de 7 dias (aquecida).
+- **Jade Le Guilly (89)** subiu **+53.8%** em 24h, a **45k coins** (faixa do dia: 27k–48k). Está +53% acima da média de 7 dias (aquecida).
 
-- **Katie McCabe (89)** subiu **+48.6%** em 24h, a **28k coins** (faixa do dia: 14.750–28k). Está +31% acima da média de 7 dias (aquecida).
+- **Matthieu Udol (84)** subiu **+48.3%** em 24h, a **66k coins** (faixa do dia: 43k–70k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Antonee Robinson | 94 | — | 34k coins | -41.8% | -15.6% |
-| Nicolò Savona | 83 | Premier League | 39k coins | -38.9% | -63.3% |
-| Balde | 86 | LALIGA EA SPORTS | 39k coins | -37.3% | +20.9% |
-| Daniel Muñoz | 94 | — | 48k coins | -35% | -5.6% |
-| Tariq Lamptey | 89 | — | 30k coins | -34.7% | -27.8% |
+| Nawaf Boushal | 91 | — | 38k coins | -42.7% | +10.3% |
+| Daniel Muñoz | 94 | — | 47k coins | -40.3% | -12.8% |
+| Nicolò Savona | 83 | Premier League | 39k coins | -37.5% | -62% |
+| Antonee Robinson | 94 | — | 32k coins | -35.1% | -15.6% |
 | Lewis Miley | 83 | Premier League | 36k coins | -34.5% | -62.5% |
-| Christian Günter | 88 | Bundesliga | 25k coins | -33.6% | -22% |
 | Manolis Saliakas | 84 | Bundesliga | 38k coins | -30% | -21.4% |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 316k coins | -27.2% | -0.9% |
-| Ferdi Kadıoğlu | 87 | — | 37k coins | -26% | -12.4% |
+| Konrad Laimer | 84 | Bundesliga | 80k coins | -29.5% | +39.8% |
+| Amar Dedić | 88 | — | 23k coins | -27.5% | -35.7% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 30k coins | -27.2% | -21.2% |
+| Ferdi Kadıoğlu | 87 | — | 37k coins | -25.6% | -12.9% |
 
 
 ### Análise das baixas
 
-- **Antonee Robinson (94)** caiu **-41.8%** em 24h, a **34k coins** (faixa do dia: 30k–64k). Está -24% abaixo da média de 7 dias (descontada).
+- **Nawaf Boushal (91)** caiu **-42.7%** em 24h, a **38k coins** (faixa do dia: 22k–38k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Nicolò Savona (83)** caiu **-38.9%** em 24h, a **39k coins** (faixa do dia: 38k–70k). Está -52% abaixo da média de 7 dias (descontada).
+- **Daniel Muñoz (94)** caiu **-40.3%** em 24h, a **47k coins** (faixa do dia: 45k–84k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Balde (86)** caiu **-37.3%** em 24h, a **39k coins** (faixa do dia: 39k–76k). Está -37% abaixo da média de 7 dias (descontada).
+- **Nicolò Savona (83)** caiu **-37.5%** em 24h, a **39k coins** (faixa do dia: 38k–70k). Está -53% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nerea Nevado já avançou 57% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nerea Nevado já avançou 58.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Antonee Robinson recuou -41.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nawaf Boushal recuou -42.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Nerea Nevado (89, Liga F), com +57% em 24h, a 44k coins no PC.
+Nerea Nevado (89, Liga F), com +58.4% em 24h, a 44k coins no PC.
 
 **E a maior queda do dia?**
-Antonee Robinson (94), -41.8% em 24h, a 34k coins.
+Nawaf Boushal (91), -42.7% em 24h, a 38k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 108 em queda (média 2.51%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 108 cartas em alta contra 111 em queda (média 2.05%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

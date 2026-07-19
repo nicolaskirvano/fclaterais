@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nerea Nevado</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Valery</text>
-<rect x="285" y="153" width="421" height="28" rx="7" fill="#22c55e"/>
-<text x="716" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Katie McCabe</text>
-<rect x="285" y="211" width="409" height="28" rx="7" fill="#22c55e"/>
-<text x="704" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matthieu Udol</text>
-<rect x="285" y="269" width="407" height="28" rx="7" fill="#22c55e"/>
-<text x="702" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Archie Brown</text>
-<rect x="285" y="327" width="396" height="28" rx="7" fill="#22c55e"/>
-<text x="691" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Selma Bacha</text>
-<rect x="285" y="385" width="383" height="28" rx="7" fill="#22c55e"/>
-<text x="678" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jade Le Guilly</text>
+<rect x="285" y="153" width="442" height="28" rx="7" fill="#22c55e"/>
+<text x="737" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matthieu Udol</text>
+<rect x="285" y="211" width="397" height="28" rx="7" fill="#22c55e"/>
+<text x="692" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Zanetti</text>
+<rect x="285" y="269" width="385" height="28" rx="7" fill="#22c55e"/>
+<text x="680" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Selma Bacha</text>
+<rect x="285" y="327" width="374" height="28" rx="7" fill="#22c55e"/>
+<text x="669" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joško Gvardiol</text>
+<rect x="285" y="385" width="367" height="28" rx="7" fill="#22c55e"/>
+<text x="662" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.6%</text>
 </svg>

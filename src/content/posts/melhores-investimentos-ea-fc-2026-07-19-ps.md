@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:25:13.000Z
+pubDatetime: 2026-07-19T10:11:09.000Z
 title: "Investimentos EA FC: Laterais em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.7% em 24h** e **+66.7% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.3% em 24h** e **+75.2% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Maicon | 88 | Serie A TIM | 76k coins | +33.3% | +85.4% | Esticada |
-| Mateo Chávez | 89 | — | 70k coins | +2.2% | +77.2% | Esticada |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 92k coins | +12.2% | +76.9% | Esticada |
-| Tarciane | 88 | D1 Arkema | 43k coins | +6.9% | +76.3% | Esticada |
+| Narcis Ilaș | 87 | SUPERLIGA | 27k coins | +26.7% | +84.7% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 55k coins | +1.9% | +84.6% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 68k coins | +7.9% | +80.3% | Esticada |
+| Tarciane | 88 | D1 Arkema | 42k coins | +10.3% | +79.2% | Esticada |
+| Mateo Chávez | 89 | — | 68k coins | +1.4% | +77.2% | Esticada |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 68k coins | +14.3% | +76.9% | Esticada |
 | Lucy Bronze | 88 | Barclays WSL | 67k coins | +11.7% | +75.2% | Esticada |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +12.8% | +73.2% | Esticada |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +10% | +71.9% | Esticada |
 | Gisele Thompson | 90 | NWSL | 50k coins | +1% | +69.5% | Esticada |
-| Giulia Gwinn | 89 | GPFBL | 26k coins | +20.7% | +66.7% | Esticada |
-| Tendayi Darikwa | 84 | EFL League One | 66k coins | +4.8% | +54.4% | Momentum moderado |
-| Francisco Calvo | 84 | Brasileirão | 54k coins | +28.9% | +50.7% | Esticada |
-| Joelle Wedemeyer | 89 | GPFBL | 22k coins | +5.7% | +46% | Momentum moderado |
-| Carlos Alberto | 91 | Icons | 139k coins | +3.7% | +44.8% | Momentum moderado |
-| Andrea Medina | 86 | Liga F | 24k coins | +24.4% | +44.8% | Esticada |
-| Jade Le Guilly | 84 | D1 Arkema | 24k coins | +4.3% | +43.3% | Momentum moderado |
-| Gianluca Zambrotta | 86 | Icons | 100k coins | +13.6% | +42.9% | Momentum moderado |
+| Reece James | 91 | — | 50k coins | +5.3% | +66.7% | Esticada |
+| Tendayi Darikwa | 84 | EFL League One | 66k coins | +8.2% | +54.4% | Momentum moderado |
+| Marcelo | 95 | — | 225k coins | +14.2% | +54.1% | Momentum moderado |
+| Julian Ryerson | 93 | — | 91k coins | +11.8% | +51.3% | Momentum moderado |
+| Francisco Calvo | 84 | Brasileirão | 38k coins | +28.9% | +50.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Maicon (88)** — 76k coins, **+85.4% em 7 dias** (+33.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mateo Chávez (89)** — 70k coins, **+77.2% em 7 dias** (+2.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Narcis Ilaș (87)** — 27k coins, **+84.7% em 7 dias** (+26.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Llorente (86)** — 92k coins, **+76.9% em 7 dias** (+12.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fridolina Rolfö (90)** — 55k coins, **+84.6% em 7 dias** (+1.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tarciane (88)** — 43k coins, **+76.3% em 7 dias** (+6.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 68k coins, **+80.3% em 7 dias** (+7.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 67k coins, **+75.2% em 7 dias** (+11.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tarciane (88)** — 42k coins, **+79.2% em 7 dias** (+10.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
