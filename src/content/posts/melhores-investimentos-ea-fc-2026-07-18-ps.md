@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:11:09.000Z
+pubDatetime: 2026-07-19T01:11:09.000Z
 title: "Investimentos EA FC: Laterais em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Danny da Costa (84, Bundesliga) lidera, com +73.6% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Javier Zanetti (91, Icons) lidera, com +89.1% em 7 dias a 174k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Danny da Costa (84) acumula **+73.6% em 7 dias** a 23k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Javier Zanetti (91) acumula **+89.1% em 7 dias** a 174k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.2% em 24h** e **+32.2% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.9% em 24h** e **+51.9% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Danny da Costa | 84 | Bundesliga | 23k coins | +24.3% | +73.6% | Esticada |
-| Alberto Costa | 91 | — | 30k coins | +3.4% | +71.4% | Esticada |
-| Thomas Meunier | 92 | — | 20k coins | +28.2% | +56.2% | Esticada |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 60k coins | +6.2% | +51.9% | Momentum moderado |
-| Marc Cucurella | 95 | — | 68k coins | +9.7% | +50.3% | Momentum moderado |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 120k coins | +31.8% | +42.2% | Esticada |
-| Diogo Dalot | 87 | Premier League | 76k coins | +4.8% | +35.4% | Momentum moderado |
-| Katie McCabe | 89 | Barclays WSL | 19.500 coins | +14.7% | +32.2% | Momentum moderado |
-| Julian Ryerson | 93 | — | 78k coins | +1.9% | +30.8% | Momentum moderado |
-| Ruben Kluivert | 86 | Ligue 1 McDonald's | 26k coins | +14% | +26.7% | Momentum moderado |
-| Julian Ryerson | 86 | Bundesliga | 42k coins | +13.2% | +24.7% | Momentum moderado |
-| Alexander Bah | 86 | Liga Portugal | 66k coins | +29% | +24.3% | Esticada |
-| Daniel Muñoz | 94 | — | 58k coins | +18.2% | +23.8% | Momentum moderado |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 39k coins | +2.6% | +23.8% | Entrada a observar |
-| Sonia Bompastor | 89 | — | 16.000 coins | +8.3% | +22.6% | Momentum moderado |
+| Javier Zanetti | 91 | Icons | 174k coins | +9.4% | +89.1% | Esticada |
+| Mingueza | 88 | LALIGA EA SPORTS | 22k coins | +31.4% | +70.4% | Esticada |
+| Alberto Costa | 91 | — | 30k coins | +1.7% | +69% | Esticada |
+| Givairo Read | 86 | Eredivisie | 20k coins | +25.9% | +61.9% | Esticada |
+| Mateo Chávez | 89 | — | 70k coins | +27.3% | +60.9% | Esticada |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 23k coins | +25% | +55.2% | Esticada |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 25k coins | +21.4% | +54.5% | Esticada |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 50k coins | +2.6% | +51.9% | Momentum moderado |
+| Danny da Costa | 84 | Bundesliga | 19.000 coins | +13.9% | +49.1% | Momentum moderado |
+| Marc Cucurella | 95 | — | 70k coins | +6.5% | +45.9% | Momentum moderado |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 21k coins | +26.9% | +37.1% | Esticada |
+| Matheus Silva | 84 | Liga Azerbaijan | 38k coins | +11% | +36.4% | Momentum moderado |
+| Jade Le Guilly | 84 | D1 Arkema | 21k coins | +35.4% | +33.3% | Esticada |
+| Thomas Meunier | 92 | — | 22k coins | +11.4% | +33.3% | Momentum moderado |
+| Odriozola | 85 | LALIGA EA SPORTS | 21k coins | +13.7% | +31.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Danny da Costa (84)** — 23k coins, **+73.6% em 7 dias** (+24.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (91)** — 174k coins, **+89.1% em 7 dias** (+9.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alberto Costa (91)** — 30k coins, **+71.4% em 7 dias** (+3.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mingueza (88)** — 22k coins, **+70.4% em 7 dias** (+31.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Thomas Meunier (92)** — 20k coins, **+56.2% em 7 dias** (+28.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alberto Costa (91)** — 30k coins, **+69% em 7 dias** (+1.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (87)** — 60k coins, **+51.9% em 7 dias** (+6.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Givairo Read (86)** — 20k coins, **+61.9% em 7 dias** (+25.9% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (95)** — 68k coins, **+50.3% em 7 dias** (+9.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mateo Chávez (89)** — 70k coins, **+60.9% em 7 dias** (+27.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Danny da Costa (84, Bundesliga) lidera, com +73.6% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Javier Zanetti (91, Icons) lidera, com +89.1% em 7 dias a 174k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
