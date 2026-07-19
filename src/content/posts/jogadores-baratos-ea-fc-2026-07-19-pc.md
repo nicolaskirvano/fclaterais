@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:11:19.000Z
+pubDatetime: 2026-07-19T16:11:19.000Z
 title: "Jogadores baratos EA FC: Laterais em 19/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 11.075 coins.
-- **Posição mais frequente:** LB, com 3 cartas.
-- **Faixa real:** 3.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 11.012 coins.
+- **Posição mais frequente:** LB, com 2 cartas.
+- **Faixa real:** 3.800 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,20 +41,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | El Hadji Malick Diouf | 94 | LB | — | 13.250 coins | -8.6% |
-| Sidny Cabral | 93 | LB | — | 13.000 coins | -11.9% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.800 coins | -11.6% |
-| John Arne Riise | 86 | LB | Premier League | 14.250 coins | +20.8% |
+| Sidny Cabral | 93 | LB | — | 13.000 coins | -3.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.800 coins | -5% |
+| Allegra Poljak | 87 | RB | Liga F | 14.000 coins | -10.4% |
 
 
 ## 📈 Destaques
 
 - **El Hadji Malick Diouf (94, LB)** da —, a apenas **13.250 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **13.000 coins**
+- **Sidny Cabral (93, LB)** da —, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **John Arne Riise (86, LB)** da Premier League, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
