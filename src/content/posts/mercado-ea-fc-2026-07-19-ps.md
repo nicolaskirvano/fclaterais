@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:11:07.000Z
+pubDatetime: 2026-07-19T19:11:07.000Z
 title: "Mercado EA FC em 19/07: Laterais — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Danny da Costa (84, Bundesliga), com +56.9% em 24h, a 23k coins no Console (PS)."
+    a: "Víctor Gómez (91, sem liga), com +50% em 24h, a 45k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Konrad Laimer (84), -41.2% em 24h, a 35k coins."
+    a: "Sergiño Dest (86), -50% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 92 cartas em alta contra 138 em queda (média 0.15%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 86 cartas em alta contra 137 em queda (média -0.61%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **92 cartas subiram** e **138 caíram** (80+ acima de 5k coins), variação média de **0.15%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **86 cartas subiram** e **137 caíram** (80+ acima de 5k coins), variação média de **-0.61%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Danny da Costa (84) **+56.9%** · 🔴 **Maior baixa:** Konrad Laimer (84) **-41.2%**
+> 🟢 **Maior alta:** Víctor Gómez (91) **+50%** · 🔴 **Maior baixa:** Sergiño Dest (86) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Laterais — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **pressio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.0% entre as cartas que se moveram; o universo observado reúne 248 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.6% entre as cartas que se moveram; o universo observado reúne 243 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Danny da Costa | 84 | Bundesliga | 23k coins | +56.9% | +30% |
-| Roberto Carlos | 90 | Icons | 217k coins | +56.8% | +21.1% |
-| Selma Bacha | 94 | — | 47k coins | +51.8% | +12.1% |
-| Federico Dimarco | 87 | Serie A TIM | 49k coins | +50% | +20.7% |
-| Ahmet Oğuz | 86 | EFL League One | 28k coins | +48% | +82.7% |
-| Narcis Ilaș | 87 | SUPERLIGA | 25k coins | +42.9% | +66.7% |
-| Lewis Hall | 89 | Premier League | 100k coins | +40.1% | +106% |
-| Christian Günter | 88 | Bundesliga | 28k coins | +34.5% | +66.2% |
-| Nerea Nevado | 89 | Liga F | 24k coins | +27.5% | +54.5% |
-| Denzel Dumfries | 86 | Serie A TIM | 27k coins | +24.4% | +16.7% |
+| Víctor Gómez | 91 | — | 45k coins | +50% | +119.5% |
+| Mateo Chávez | 89 | — | 67k coins | +43.5% | +57.5% |
+| Archie Brown | 85 | Trendyol Süper Lig | 30k coins | +40.8% | +35.1% |
+| Álvaro Carreras | 90 | LALIGA EA SPORTS | 225k coins | +40.6% | +10.6% |
+| Francisco Calvo | 84 | Brasileirão | 50k coins | +36.4% | +43.1% |
+| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +33.9% | +53.7% |
+| Tarciane | 92 | — | 38k coins | +33.3% | +73.9% |
+| Lilian Thuram | 94 | — | 392k coins | +29.4% | -5.7% |
+| Alex Scott | 93 | — | 48k coins | +29.1% | -19.7% |
+| Lucy Bronze | 95 | Barclays WSL | 134k coins | +28.8% | -23.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **pressio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Danny da Costa (84)** subiu **+56.9%** em 24h, a **23k coins** (faixa do dia: 15.250–23k). Está +12% acima da média de 7 dias (aquecida).
+- **Víctor Gómez (91)** subiu **+50%** em 24h, a **45k coins** (faixa do dia: 30k–48k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Roberto Carlos (90)** subiu **+56.8%** em 24h, a **217k coins** (faixa do dia: 177k–255k). Está +11% acima da média de 7 dias (aquecida).
+- **Mateo Chávez (89)** subiu **+43.5%** em 24h, a **67k coins** (faixa do dia: 40k–70k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Selma Bacha (94)** subiu **+51.8%** em 24h, a **47k coins** (faixa do dia: 26k–52k). Está +8% acima da média de 7 dias (aquecida).
+- **Archie Brown (85)** subiu **+40.8%** em 24h, a **30k coins** (faixa do dia: 30k–75k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Konrad Laimer | 84 | Bundesliga | 35k coins | -41.2% | -29.5% |
-| Marcelo | 89 | Icons | 100k coins | -38.4% | 0% |
-| Cafu | 92 | Icons | 208k coins | -31.2% | -16.7% |
-| Roberto Carlos | 91 | Icons | 202k coins | -24.1% | -32.7% |
-| Javier Zanetti | 91 | Icons | 123k coins | -23% | +38% |
-| Piero Hincapié | 93 | — | 102k coins | -22.5% | -36.7% |
-| Lynn Wilms | 86 | Barclays Women’s Super League | 34k coins | -21.9% | -24% |
-| Jade Le Guilly | 89 | D1 Arkema | 35k coins | -21.9% | +37% |
-| Trai Hume | 84 | Premier League | 43k coins | -21.8% | +10.3% |
-| Femi Seriki | 83 | EFL Championship | 60k coins | -21.4% | +20.2% |
+| Sergiño Dest | 86 | Eredivisie | 21k coins | -50% | -70.2% |
+| Diogo Dalot | 87 | Premier League | 76k coins | -38.5% | -29.3% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 40k coins | -36.3% | -0.6% |
+| Joshua Kimmich | 89 | Bundesliga | 40k coins | -31.5% | +0.6% |
+| Marcus Pedersen | 89 | Serie A TIM | 35k coins | -29.1% | -17.1% |
+| Ferdi Kadıoğlu | 87 | — | 49k coins | -28.6% | +2.6% |
+| Nuno Tavares | 91 | Serie A TIM | 58k coins | -27.2% | +21.8% |
+| Alex Scott | 89 | Barclays WSL | 62k coins | -26.8% | +74.5% |
+| Andrei Rațiu | 92 | — | 21k coins | -26.7% | -13.3% |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 54k coins | -26.3% | +1.8% |
 
 
 ### Análise das baixas
 
-- **Konrad Laimer (84)** caiu **-41.2%** em 24h, a **35k coins** (faixa do dia: 35k–71k). Está -36% abaixo da média de 7 dias (descontada).
+- **Sergiño Dest (86)** caiu **-50%** em 24h, a **21k coins** (faixa do dia: 17.750–46k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Marcelo (89)** caiu **-38.4%** em 24h, a **100k coins** (faixa do dia: 93k–175k). Está -27% abaixo da média de 7 dias (descontada).
+- **Diogo Dalot (87)** caiu **-38.5%** em 24h, a **76k coins** (faixa do dia: 43k–102k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Cafu (92)** caiu **-31.2%** em 24h, a **208k coins** (faixa do dia: 169k–270k). Está em linha com a média de 7 dias (-7%).
+- **Katie McCabe (88)** caiu **-36.3%** em 24h, a **40k coins** (faixa do dia: 34k–85k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Danny da Costa já avançou 56.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Víctor Gómez já avançou 50% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Konrad Laimer recuou -41.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sergiño Dest recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Danny da Costa (84, Bundesliga), com +56.9% em 24h, a 23k coins no Console (PS).
+Víctor Gómez (91, sem liga), com +50% em 24h, a 45k coins no Console (PS).
 
 **E a maior queda do dia?**
-Konrad Laimer (84), -41.2% em 24h, a 35k coins.
+Sergiño Dest (86), -50% em 24h, a 21k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 92 cartas em alta contra 138 em queda (média 0.15%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 86 cartas em alta contra 137 em queda (média -0.61%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
