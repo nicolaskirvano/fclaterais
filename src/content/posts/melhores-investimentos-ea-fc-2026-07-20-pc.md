@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:11:18.000Z
+pubDatetime: 2026-07-20T19:11:18.000Z
 title: "Investimentos EA FC: Laterais em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Jade Le Guilly (89, D1 Arkema) lidera, com +90% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Thomas Meunier (92, sem liga) lidera, com +78.2% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jade Le Guilly (89) acumula **+90% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Thomas Meunier (92) acumula **+78.2% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.5% em 24h** e **+47.6% em 7 dias**.
+- A mediana é de **+12.8% em 24h** e **+52.1% em 7 dias**.
 - **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 89 | D1 Arkema | 48k coins | +13.8% | +90% | Esticada |
-| Micah Richards | 85 | Premier League | 34k coins | +14.2% | +71.2% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 230k coins | +13.3% | +67.9% | Esticada |
-| Carolin Simon | 90 | GPFBL | 50k coins | +8% | +64.9% | Esticada |
-| Nuno Tavares | 91 | Serie A TIM | 65k coins | +1.6% | +57.6% | Momentum moderado |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 50k coins | +13.5% | +54.2% | Momentum moderado |
-| Ashley Cole | 88 | — | 40k coins | +8.2% | +51.3% | Momentum moderado |
-| Rayan Aït-Nouri | 90 | Premier League | 46k coins | +7.6% | +47.6% | Momentum moderado |
-| Tino Livramento | 85 | Premier League | 29k coins | +5.5% | +41.5% | Momentum moderado |
-| Jordi Alba | 84 | MLS | 119k coins | +25.3% | +33.7% | Esticada |
-| Denzel Dumfries | 86 | Serie A TIM | 35k coins | +15.7% | +30.8% | Momentum moderado |
-| Giulia Gwinn | 89 | GPFBL | 35k coins | +21.7% | +30.8% | Esticada |
-| Mary Alice Vignola | 85 | NWSL | 25k coins | +3% | +30% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 48k coins | +36% | +29.9% | Esticada |
-| Olga Carmona | 87 | D1 Arkema | 26k coins | +25% | +29.4% | Esticada |
+| Thomas Meunier | 92 | — | 42k coins | +15.8% | +78.2% | Esticada |
+| Rayan Aït-Nouri | 90 | Premier League | 53k coins | +22.4% | +73.3% | Esticada |
+| Lucy Bronze | 88 | Barclays WSL | 229k coins | +12.8% | +67.2% | Esticada |
+| Micah Richards | 85 | Premier League | 27k coins | +13.7% | +66.2% | Esticada |
+| Nico O'Reilly | 87 | — | 65k coins | +21.5% | +62.5% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 59k coins | +8.4% | +56.4% | Momentum moderado |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 50k coins | +1% | +55.4% | Momentum moderado |
+| Selma Bacha | 94 | — | 71k coins | +2.8% | +52.1% | Momentum moderado |
+| Guéla Doué | 94 | — | 18.250 coins | +12.5% | +50% | Momentum moderado |
+| Matheus Silva | 84 | Liga Azerbaijan | 42k coins | +9% | +41.7% | Momentum moderado |
+| Fridolina Rolfö | 90 | Barclays WSL | 65k coins | +9.6% | +33.3% | Momentum moderado |
+| Carlos Alberto | 91 | Icons | 215k coins | +28.7% | +29.6% | Esticada |
+| Álvaro Carreras | 86 | LALIGA EA SPORTS | 56k coins | +23.1% | +28% | Esticada |
+| Lisa Karl | 84 | GPFBL | 28k coins | +27.3% | +27.3% | Esticada |
+| Grace Kazadi | 87 | D1 Arkema | 19.000 coins | +2.7% | +26.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jade Le Guilly (89)** — 48k coins, **+90% em 7 dias** (+13.8% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thomas Meunier (92)** — 42k coins, **+78.2% em 7 dias** (+15.8% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Micah Richards (85)** — 34k coins, **+71.2% em 7 dias** (+14.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rayan Aït-Nouri (90)** — 53k coins, **+73.3% em 7 dias** (+22.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 230k coins, **+67.9% em 7 dias** (+13.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 229k coins, **+67.2% em 7 dias** (+12.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carolin Simon (90)** — 50k coins, **+64.9% em 7 dias** (+8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Micah Richards (85)** — 27k coins, **+66.2% em 7 dias** (+13.7% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Tavares (91)** — 65k coins, **+57.6% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico O'Reilly (87)** — 65k coins, **+62.5% em 7 dias** (+21.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Jade Le Guilly (89, D1 Arkema) lidera, com +90% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Thomas Meunier (92, sem liga) lidera, com +78.2% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Laterais em 20/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-20-pc/)
 - [Mercado EA FC em 20/07: Laterais — PC](/posts/mercado-ea-fc-2026-07-20-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
