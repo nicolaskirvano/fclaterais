@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T09:23:32.000Z
+pubDatetime: 2026-07-20T10:11:09.000Z
 title: "Investimentos EA FC: Laterais em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+25.0% em 24h** e **+39.3% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.7% em 24h** e **+40.4% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nerea Nevado | 89 | Liga F | 30k coins | +26.3% | +73.9% | Esticada |
+| Nerea Nevado | 89 | Liga F | 30k coins | +13.2% | +73.9% | Esticada |
 | Mateo Chávez | 89 | — | 70k coins | +2.9% | +66.7% | Esticada |
-| Thomas Meunier | 92 | — | 25k coins | +34.5% | +64.8% | Esticada |
-| Fridolina Rolfö | 90 | Barclays WSL | 55k coins | +10% | +59.4% | Momentum moderado |
-| Danny da Costa | 84 | Bundesliga | 28k coins | +38.8% | +54.2% | Esticada |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 145k coins | +30.8% | +53% | Esticada |
-| Givairo Read | 86 | Eredivisie | 30k coins | +33.3% | +51.9% | Esticada |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 58k coins | +23.2% | +39.3% | Esticada |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 44k coins | +22.4% | +36.4% | Esticada |
-| Carlos Alberto | 91 | Icons | 153k coins | +5.1% | +35.5% | Momentum moderado |
-| Malo Gusto | 84 | Premier League | 42k coins | +25% | +35.1% | Esticada |
-| Grace Kazadi | 87 | D1 Arkema | 19.500 coins | +20% | +30% | Esticada |
-| Selma Bacha | 94 | — | 45k coins | +30.8% | +30% | Esticada |
-| Iván Córdoba | 88 | Serie A TIM | 112k coins | +4.5% | +28.5% | Momentum moderado |
-| Ömer Ali Şahiner | 84 | Trendyol Süper Lig | 49k coins | +31.2% | +28% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 55k coins | +8.9% | +59.4% | Momentum moderado |
+| Reece James | 91 | — | 39k coins | +2% | +55% | Momentum moderado |
+| Danny da Costa | 84 | Bundesliga | 25k coins | +35.4% | +54.2% | Esticada |
+| Katie McCabe | 88 | Barclays Women’s Super League | 60k coins | +2.6% | +50% | Momentum moderado |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 147k coins | +21.8% | +43.6% | Esticada |
+| Carlos Alberto | 91 | Icons | 153k coins | +11.7% | +40.4% | Momentum moderado |
+| Grace Kazadi | 87 | D1 Arkema | 16.750 coins | +20% | +30% | Esticada |
+| Jurriën Timber | 87 | Premier League | 27k coins | +2.5% | +28.1% | Momentum moderado |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 42k coins | +21.1% | +27.1% | Esticada |
+| Capdevila | 87 | LALIGA EA SPORTS | 18.250 coins | +11.9% | +27.1% | Momentum moderado |
+| Iván Córdoba | 88 | Serie A TIM | 112k coins | +4.6% | +26.3% | Momentum moderado |
+| Ian Maatsen | 89 | Premier League | 27k coins | +34.4% | +23.8% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 46k coins | +7.2% | +22.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nerea Nevado (89)** — 30k coins, **+73.9% em 7 dias** (+26.3% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nerea Nevado (89)** — 30k coins, **+73.9% em 7 dias** (+13.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mateo Chávez (89)** — 70k coins, **+66.7% em 7 dias** (+2.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Thomas Meunier (92)** — 25k coins, **+64.8% em 7 dias** (+34.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fridolina Rolfö (90)** — 55k coins, **+59.4% em 7 dias** (+8.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fridolina Rolfö (90)** — 55k coins, **+59.4% em 7 dias** (+10% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reece James (91)** — 39k coins, **+55% em 7 dias** (+2% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Danny da Costa (84)** — 28k coins, **+54.2% em 7 dias** (+38.8% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Danny da Costa (84)** — 25k coins, **+54.2% em 7 dias** (+35.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
