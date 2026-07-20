@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:11:10.000Z
+pubDatetime: 2026-07-20T01:11:10.000Z
 title: "Jogadores baratos EA FC: Laterais em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 12.022 coins.
-- **Posição mais frequente:** LB, com 8 cartas.
-- **Faixa real:** 2.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 12.391 coins.
+- **Posição mais frequente:** LB, com 10 cartas.
+- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,27 +41,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | El Hadji Malick Diouf | 94 | LB | — | 12.750 coins | -3.8% |
-| Sidny Cabral | 93 | LB | — | 13.000 coins | -5.5% |
-| Sonia Bompastor | 89 | LB | — | 13.250 coins | -12.1% |
-| Sara Holmgaard | 88 | LB | — | 12.000 coins | -1.8% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.750 coins | +3.5% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11.750 coins | -12.5% |
+| Sidny Cabral | 93 | LB | — | 12.750 coins | -1.9% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2.300 coins | -8% |
+| Sonia Bompastor | 89 | LB | — | 13.500 coins | -10% |
+| Esmee Brugts | 88 | LB | Liga F | 13.250 coins | -11.7% |
+| Sara Holmgaard | 88 | LB | — | 13.750 coins | -8.3% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.750 coins | -5.5% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.000 coins | +2% |
 | Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | -5.3% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.500 coins | +5.5% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2.700 coins | +8% |
+| John Arne Riise | 86 | LB | Premier League | 14.000 coins | 0% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 14.750 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **El Hadji Malick Diouf (94, LB)** da —, a apenas **12.750 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **13.000 coins**
+- **Sidny Cabral (93, LB)** da —, a apenas **12.750 coins**
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **13.250 coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sara Holmgaard (88, LB)** da —, a apenas **12.000 coins**
+- **Sonia Bompastor (89, LB)** da —, a apenas **13.500 coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
