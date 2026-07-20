@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:11:17.000Z
+pubDatetime: 2026-07-20T13:11:17.000Z
 title: "Mercado EA FC em 20/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Ferdi Kadıoğlu (87, sem liga), com +59.5% em 24h, a 56k coins no PC."
+    a: "Marcelo (95, sem liga), com +59% em 24h, a 660k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vladimír Coufal (91), -44.4% em 24h, a 45k coins."
+    a: "Julian Araujo (89), -48.4% em 24h, a 110k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 110 cartas em alta contra 104 em queda (média 1.75%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 101 cartas em alta contra 117 em queda (média 1.86%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **20/07/2026** no PC: mercado **em alta** — predominam as valorizações. **110 valorizações** contra **104 quedas** entre as cartas relevantes, com média de **1.75%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: mercado **em alta** — predominam as valorizações. **101 valorizações** contra **117 quedas** entre as cartas relevantes, com média de **1.86%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ferdi Kadıoğlu (87) **+59.5%** · 🔴 **Maior baixa:** Vladimír Coufal (91) **-44.4%**
+> 🟢 **Maior alta:** Marcelo (95) **+59%** · 🔴 **Maior baixa:** Julian Araujo (89) **-48.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.4% entre as cartas que se moveram; o universo observado reúne 250 cartas.
+- **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.3% entre as cartas que se moveram; o universo observado reúne 254 cartas.
 - **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ferdi Kadıoğlu | 87 | — | 56k coins | +59.5% | +68.6% |
-| Selma Bacha | 87 | D1 Arkema | 30k coins | +57.9% | +44.6% |
-| Marcus Pedersen | 89 | Serie A TIM | 50k coins | +53.8% | -8.3% |
-| Leonardo Spinazzola | 89 | Serie A TIM | 38k coins | +53.8% | +25.8% |
-| Marcelo | 95 | — | 660k coins | +53.1% | +10% |
-| Marcos Acuña | 89 | LPF | 130k coins | +52.9% | +38.3% |
-| Christian Günter | 84 | Bundesliga | 23k coins | +50% | +31% |
-| Izzy Rodriguez | 94 | — | 32k coins | +48.8% | +23.1% |
-| Amar Dedić | 88 | — | 32k coins | +43.8% | -14.1% |
-| Maicon | 88 | Serie A TIM | 110k coins | +41.9% | +64.2% |
+| Marcelo | 95 | — | 660k coins | +59% | +32% |
+| Marcos Acuña | 89 | LPF | 130k coins | +55.7% | +37.6% |
+| Christian Günter | 84 | Bundesliga | 23k coins | +55% | +31% |
+| Balde | 86 | LALIGA EA SPORTS | 50k coins | +51.1% | +13.1% |
+| Ferdi Kadıoğlu | 87 | — | 56k coins | +50% | +59.7% |
+| Maicon | 88 | Serie A TIM | 110k coins | +46.7% | +66.7% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 46k coins | +45.9% | +24.4% |
+| Philipp Lahm | 94 | — | 47k coins | +40.4% | -2.6% |
+| Gianluca Zambrotta | 86 | Icons | 133k coins | +37.7% | +6.2% |
+| Jordi Alba | 84 | MLS | 130k coins | +36.8% | +47.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **20/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ferdi Kadıoğlu (87)** subiu **+59.5%** em 24h, a **56k coins** (faixa do dia: 30k–59k). Está +9% acima da média de 7 dias (aquecida).
+- **Marcelo (95)** subiu **+59%** em 24h, a **660k coins** (faixa do dia: 397k–660k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Selma Bacha (87)** subiu **+57.9%** em 24h, a **30k coins** (faixa do dia: 17.250–30k). Está +47% acima da média de 7 dias (aquecida).
+- **Marcos Acuña (89)** subiu **+55.7%** em 24h, a **130k coins** (faixa do dia: 70k–130k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Marcus Pedersen (89)** subiu **+53.8%** em 24h, a **50k coins** (faixa do dia: 32k–70k). Está em linha com a média de 7 dias (+2%).
+- **Christian Günter (84)** subiu **+55%** em 24h, a **23k coins** (faixa do dia: 12.750–28k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vladimír Coufal | 91 | — | 45k coins | -44.4% | 0% |
-| Marc Cucurella | 95 | — | 40k coins | -42.9% | -11.6% |
-| Nahuel Molina | 91 | — | 80k coins | -42.5% | -11% |
-| Marc Cucurella | 86 | Premier League | 32k coins | -38.5% | +12.1% |
-| Marcelo | 96 | — | 105k coins | -32.4% | -12.3% |
-| Ian Maatsen | 96 | — | 203k coins | -32% | -24.4% |
+| Julian Araujo | 89 | Scottish Premiership | 110k coins | -48.4% | -26.7% |
+| Marc Cucurella | 86 | Premier League | 28k coins | -39.5% | +10.3% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 46k coins | -35.6% | -0.5% |
+| Federico Dimarco | 96 | — | 23k coins | -34.3% | -40.5% |
 | Nuno Mendes | 97 | Ligue 1 McDonald's | 1.80M coins | -30.7% | -18.1% |
-| Joshua Kimmich | 89 | Bundesliga | 109k coins | -28.6% | -33.3% |
-| Katie McCabe | 88 | Barclays Women’s Super League | 35k coins | -28.6% | -28.6% |
-| Nuno Mendes | 97 | — | 638k coins | -28.3% | -1.8% |
+| Marcelo | 96 | — | 104k coins | -30.3% | -12.2% |
+| Matheus Silva | 84 | Liga Azerbaijan | 28k coins | -29.5% | -8.3% |
+| Mauro Júnior | 86 | Eredivisie | 38k coins | -26% | -25.3% |
+| Javier Zanetti | 92 | — | 60k coins | -25.9% | +21.2% |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 34k coins | -24.6% | -8% |
 
 
 ### Análise das baixas
 
-- **Vladimír Coufal (91)** caiu **-44.4%** em 24h, a **45k coins** (faixa do dia: 25k–45k). Está +24% acima da média de 7 dias (aquecida).
+- **Julian Araujo (89)** caiu **-48.4%** em 24h, a **110k coins** (faixa do dia: 110k–220k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Marc Cucurella (95)** caiu **-42.9%** em 24h, a **40k coins** (faixa do dia: 31k–84k). Está -42% abaixo da média de 7 dias (descontada).
+- **Marc Cucurella (86)** caiu **-39.5%** em 24h, a **28k coins** (faixa do dia: 19.750–46k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Nahuel Molina (91)** caiu **-42.5%** em 24h, a **80k coins** (faixa do dia: 70k–140k). Está -33% abaixo da média de 7 dias (descontada).
+- **Giovanni Di Lorenzo (86)** caiu **-35.6%** em 24h, a **46k coins** (faixa do dia: 46k–73k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ferdi Kadıoğlu já avançou 59.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marcelo já avançou 59% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vladimír Coufal recuou -44.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julian Araujo recuou -48.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Ferdi Kadıoğlu (87, sem liga), com +59.5% em 24h, a 56k coins no PC.
+Marcelo (95, sem liga), com +59% em 24h, a 660k coins no PC.
 
 **E a maior queda do dia?**
-Vladimír Coufal (91), -44.4% em 24h, a 45k coins.
+Julian Araujo (89), -48.4% em 24h, a 110k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 110 cartas em alta contra 104 em queda (média 1.75%).
+Hoje o mercado está em alta — predominam as valorizações, com 101 cartas em alta contra 117 em queda (média 1.86%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
