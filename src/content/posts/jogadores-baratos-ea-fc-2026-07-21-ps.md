@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:11:10.000Z
+pubDatetime: 2026-07-21T19:11:10.000Z
 title: "Jogadores baratos EA FC: Laterais em 21/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 14.750 coins no Console (PS)."
+    a: "Noussair Mazraoui (95, sem liga) aparece como melhor custo-benefício, a 14.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** El Hadji Malick Diouf (94) por apenas 14.750 coins.
+> 💰 **Melhor pechincha:** Noussair Mazraoui (95) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Laterais em 21/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-21-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 12.023 coins.
-- **Posição mais frequente:** LB, com 10 cartas.
-- **Faixa real:** 3.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 14.018 coins.
+- **Posição mais frequente:** LB, com 14 cartas.
+- **Faixa real:** 13.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| El Hadji Malick Diouf | 94 | LB | — | 14.750 coins | +9.4% |
-| Sidny Cabral | 93 | LB | — | 14.250 coins | +9.4% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.500 coins | -2.8% |
-| Sonia Bompastor | 89 | LB | — | 14.250 coins | +7.5% |
-| Esmee Brugts | 88 | LB | Liga F | 13.250 coins | +5.7% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 14.000 coins | +3% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14.750 coins | +12.1% |
-| John Arne Riise | 86 | LB | Premier League | 12.250 coins | -10.9% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12.750 coins | -7.7% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.000 coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13.250 coins | 0% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 3.300 coins | +6.7% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 13.000 coins | -5.3% |
+| Noussair Mazraoui | 95 | LB | — | 14.000 coins | -8.5% |
+| Bixente Lizarazu | 93 | LB | — | 14.500 coins | +9% |
+| Sonia Bompastor | 89 | LB | — | 14.250 coins | +18.5% |
+| Sara Holmgaard | 88 | LB | — | 14.250 coins | -3.4% |
+| Esmee Brugts | 88 | LB | Liga F | 14.500 coins | -1.8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14.750 coins | -1.7% |
+| David Raum | 87 | LB | Bundesliga | 13.750 coins | -14.9% |
+| Olga Carmona | 87 | LB | D1 Arkema | 14.500 coins | -5.2% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 13.000 coins | +3.7% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.250 coins | -1.9% |
+| John Arne Riise | 86 | LB | Premier League | 13.500 coins | 0% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.750 coins | 0% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14.500 coins | +3.3% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 13.750 coins | -7.1% |
 
 
 ## 📈 Destaques
 
-- **El Hadji Malick Diouf (94, LB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Noussair Mazraoui (95, LB)** da —, a apenas **14.000 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Bixente Lizarazu (93, LB)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sonia Bompastor (89, LB)** da —, a apenas **14.250 coins**
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sara Holmgaard (88, LB)** da —, a apenas **14.250 coins**
+
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** El Hadji Malick Diouf (94, LB) por 14.750 coins é a referência de rating deste recorte.
+- **Defesa:** Noussair Mazraoui (95, LB) por 14.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -89,7 +90,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-El Hadji Malick Diouf (94, sem liga) aparece como melhor custo-benefício, a 14.750 coins no Console (PS).
+Noussair Mazraoui (95, sem liga) aparece como melhor custo-benefício, a 14.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
