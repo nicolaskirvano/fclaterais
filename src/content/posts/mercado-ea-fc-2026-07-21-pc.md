@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:28:24.000Z
+pubDatetime: 2026-07-21T10:11:16.000Z
 title: "Mercado EA FC em 21/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Alberto Costa (91, sem liga), com +58.3% em 24h, a 47k coins no PC."
+    a: "Amar Dedić (88, sem liga), com +59.4% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (87), -42.1% em 24h, a 37k coins."
+    a: "Julian Araujo (89), -42.5% em 24h, a 98k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 118 cartas em alta contra 98 em queda (média 7.41%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 115 cartas em alta contra 109 em queda (média 3.87%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **118 subiram**, **98 caíram** (80+ e 5k+ coins), média de **7.41%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **115 subiram**, **109 caíram** (80+ e 5k+ coins), média de **3.87%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Alberto Costa (91) **+58.3%** · 🔴 **Maior baixa:** Nuno Tavares (87) **-42.1%**
+> 🟢 **Maior alta:** Amar Dedić (88) **+59.4%** · 🔴 **Maior baixa:** Julian Araujo (89) **-42.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.6% entre as cartas que se moveram; o universo observado reúne 252 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.3% entre as cartas que se moveram; o universo observado reúne 255 cartas.
+- **Concentração:** Serie A TIM aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alberto Costa | 91 | — | 47k coins | +58.3% | +113.5% |
-| Vladimír Coufal | 91 | — | 39k coins | +55% | +30.3% |
-| Itziar Pinillos | 87 | — | 54k coins | +54% | +25.1% |
-| Nuno Tavares | 91 | Serie A TIM | 96k coins | +53.8% | +86.9% |
-| Esmee Brugts | 88 | Liga F | 23k coins | +46.2% | -24% |
-| Sakina Karchaoui | 88 | D1 Arkema | 68k coins | +45.4% | +64.9% |
-| Raul Opruț | 86 | SUPERLIGA | 50k coins | +45.3% | +7% |
-| Cafu | 95 | — | 435k coins | +45% | +14.5% |
-| Javier Zanetti | 92 | — | 120k coins | +44% | +80% |
-| Alfonso Espino | 86 | LALIGA EA SPORTS | 22k coins | +42.2% | -27.2% |
+| Amar Dedić | 88 | — | 50k coins | +59.4% | +121.7% |
+| Alberto Costa | 91 | — | 42k coins | +57.5% | +112.4% |
+| Vladimír Coufal | 91 | — | 38k coins | +55% | +30.3% |
+| Nuno Tavares | 91 | Serie A TIM | 100k coins | +53.8% | +88.7% |
+| Esmee Brugts | 88 | Liga F | 22k coins | +51.7% | -24.2% |
+| Julian Ryerson | 93 | — | 94k coins | +51.6% | +44.6% |
+| Nahuel Molina | 91 | — | 210k coins | +50% | +112.1% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 27k coins | +50% | +44% |
+| Lilian Thuram | 89 | — | 80k coins | +49.1% | +63.5% |
+| Yan Valery | 91 | — | 55k coins | +46.7% | +168.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Alberto Costa (91)** subiu **+58.3%** em 24h, a **47k coins** (faixa do dia: 30k–48k). Está +58% acima da média de 7 dias (aquecida).
+- **Amar Dedić (88)** subiu **+59.4%** em 24h, a **50k coins** (faixa do dia: 32k–57k). Está +46% acima da média de 7 dias (aquecida).
 
-- **Vladimír Coufal (91)** subiu **+55%** em 24h, a **39k coins** (faixa do dia: 30k–60k). Está em linha com a média de 7 dias (-0%).
+- **Alberto Costa (91)** subiu **+57.5%** em 24h, a **42k coins** (faixa do dia: 30k–48k). Está +41% acima da média de 7 dias (aquecida).
 
-- **Itziar Pinillos (87)** subiu **+54%** em 24h, a **54k coins** (faixa do dia: 32k–54k). Está +28% acima da média de 7 dias (aquecida).
+- **Vladimír Coufal (91)** subiu **+55%** em 24h, a **38k coins** (faixa do dia: 32k–60k). Está em linha com a média de 7 dias (-1%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 37k coins | -42.1% | -47.5% |
-| Julian Araujo | 89 | Scottish Premiership | 104k coins | -39.2% | -16.7% |
-| Elliot Stroud | 94 | — | 28k coins | -36% | +2.8% |
-| Nicolò Savona | 83 | Premier League | 137k coins | -35.7% | +187.4% |
-| Lewis Miley | 89 | Premier League | 65k coins | -35.2% | -12.5% |
-| Ian Maatsen | 89 | Premier League | 26k coins | -29.2% | -31.3% |
-| João Cancelo | 87 | ROSHN Saudi League | 46k coins | -29.2% | -38.7% |
+| Julian Araujo | 89 | Scottish Premiership | 98k coins | -42.5% | -21.2% |
+| Nuno Tavares | 87 | Serie A TIM | 36k coins | -42.1% | -47.5% |
+| Jurriën Timber | 86 | Premier League | 54k coins | -34.6% | -24.7% |
+| Andrei Rațiu | 92 | — | 40k coins | -33.3% | +9.6% |
+| Ona Batlle | 94 | — | 47k coins | -30.5% | -6.4% |
+| Elliot Stroud | 94 | — | 26k coins | -30.4% | +2.8% |
+| Aaron Wan-Bissaka | 89 | Premier League | 38k coins | -28.2% | -7.7% |
 | Kieran Tierney | 83 | Scottish Premiership | 34k coins | -27.4% | -27.4% |
+| João Cancelo | 87 | ROSHN Saudi League | 45k coins | -27% | -40.6% |
 | Santiago Mouriño | 87 | LALIGA EA SPORTS | 35k coins | -26.8% | -25.7% |
-| Giulia Gwinn | 89 | GPFBL | 25k coins | -25.7% | -5.5% |
 
 
 ### Análise das baixas
 
-- **Nuno Tavares (87)** caiu **-42.1%** em 24h, a **37k coins** (faixa do dia: 26k–62k). Está -30% abaixo da média de 7 dias (descontada).
+- **Julian Araujo (89)** caiu **-42.5%** em 24h, a **98k coins** (faixa do dia: 93k–160k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Julian Araujo (89)** caiu **-39.2%** em 24h, a **104k coins** (faixa do dia: 93k–181k). Está -39% abaixo da média de 7 dias (descontada).
+- **Nuno Tavares (87)** caiu **-42.1%** em 24h, a **36k coins** (faixa do dia: 26k–60k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Elliot Stroud (94)** caiu **-36%** em 24h, a **28k coins** (faixa do dia: 24k–40k). Está -13% abaixo da média de 7 dias (descontada).
+- **Jurriën Timber (86)** caiu **-34.6%** em 24h, a **54k coins** (faixa do dia: 30k–54k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alberto Costa já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Amar Dedić já avançou 59.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nuno Tavares recuou -42.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julian Araujo recuou -42.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Alberto Costa (91, sem liga), com +58.3% em 24h, a 47k coins no PC.
+Amar Dedić (88, sem liga), com +59.4% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Nuno Tavares (87), -42.1% em 24h, a 37k coins.
+Julian Araujo (89), -42.5% em 24h, a 98k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 118 cartas em alta contra 98 em queda (média 7.41%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 115 cartas em alta contra 109 em queda (média 3.87%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:28:26.000Z
+pubDatetime: 2026-07-21T10:11:18.000Z
 title: "Investimentos EA FC: Laterais em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Marcus Pedersen (89, Serie A TIM) lidera, com +80.7% em 7 dias a 61k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nahuel Molina (87, LALIGA EA SPORTS) lidera, com +83.7% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marcus Pedersen (89) acumula **+80.7% em 7 dias** a 61k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nahuel Molina (87) acumula **+83.7% em 7 dias** a 90k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.3% em 24h** e **+38.9% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+39.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcus Pedersen | 89 | Serie A TIM | 61k coins | +22% | +80.7% | Esticada |
-| Lilly Reale | 91 | — | 40k coins | +4.5% | +78.9% | Esticada |
-| Andy Najar | 91 | — | 34k coins | +11.8% | +61% | Esticada |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 90k coins | +12.5% | +83.7% | Esticada |
 | Marcelo | 89 | Icons | 160k coins | +23.1% | +60% | Esticada |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 30k coins | +34% | +51.2% | Esticada |
+| Guéla Doué | 94 | — | 19.750 coins | +19.7% | +58% | Momentum moderado |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 30k coins | +29.9% | +46.5% | Esticada |
 | Hanna Lundkvist | 87 | Barclays WSL | 60k coins | +12.1% | +46.3% | Momentum moderado |
-| David Raum | 84 | Bundesliga | 58k coins | +11% | +40.5% | Momentum moderado |
+| Maicon | 90 | Serie A TIM | 166k coins | +20% | +46.1% | Esticada |
+| David Raum | 84 | Bundesliga | 54k coins | +10% | +39.2% | Momentum moderado |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 50k coins | +4.7% | +39.2% | Momentum moderado |
 | Marcos Acuña | 89 | LPF | 132k coins | +1.5% | +38.9% | Momentum moderado |
-| Sidny Cabral | 93 | — | 16.000 coins | +12.3% | +36.2% | Momentum moderado |
-| Maicon | 90 | Serie A TIM | 168k coins | +20.3% | +33.9% | Esticada |
-| Mats Deijl | 88 | Eredivisie | 20k coins | +31.2% | +31.2% | Esticada |
+| Sidny Cabral | 93 | — | 16.250 coins | +12.3% | +36.2% | Momentum moderado |
+| Mats Deijl | 88 | Eredivisie | 21k coins | +31.2% | +31.2% | Esticada |
+| Tristan Crama | 92 | — | 30k coins | +6.2% | +30.4% | Momentum moderado |
 | Fridolina Rolfö | 90 | Barclays WSL | 65k coins | +23.8% | +30% | Esticada |
-| El Hadji Malick Diouf | 94 | — | 15.750 coins | +8.6% | +28.6% | Momentum moderado |
+| El Hadji Malick Diouf | 94 | — | 15.750 coins | +12.5% | +28.6% | Momentum moderado |
 | Ashley Cole | 92 | — | 109k coins | +5.8% | +28.2% | Momentum moderado |
-| Daniel Muñoz | 94 | — | 68k coins | +16.7% | +27.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcus Pedersen (89)** — 61k coins, **+80.7% em 7 dias** (+22% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Lilly Reale (91)** — 40k coins, **+78.9% em 7 dias** (+4.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Andy Najar (91)** — 34k coins, **+61% em 7 dias** (+11.8% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nahuel Molina (87)** — 90k coins, **+83.7% em 7 dias** (+12.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Marcelo (89)** — 160k coins, **+60% em 7 dias** (+23.1% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Teze (87)** — 30k coins, **+51.2% em 7 dias** (+34% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Guéla Doué (94)** — 19.750 coins, **+58% em 7 dias** (+19.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Jordan Teze (87)** — 30k coins, **+46.5% em 7 dias** (+29.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Hanna Lundkvist (87)** — 60k coins, **+46.3% em 7 dias** (+12.1% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Marcus Pedersen (89, Serie A TIM) lidera, com +80.7% em 7 dias a 61k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nahuel Molina (87, LALIGA EA SPORTS) lidera, com +83.7% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
