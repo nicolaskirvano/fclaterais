@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:11:16.000Z
+pubDatetime: 2026-07-22T22:11:17.000Z
 title: "Mercado EA FC em 22/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Maicon (88, Serie A TIM), com +57.9% em 24h, a 90k coins no PC."
+    a: "Ben Chilwell (90, Ligue 1 McDonald's), com +57.3% em 24h, a 67k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jules Koundé (98), -47.7% em 24h, a 1.02M coins."
+    a: "Alex Freeman (88), -40.3% em 24h, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 102 cartas em alta contra 120 em queda (média 1.57%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 96 cartas em alta contra 111 em queda (média 0.27%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **102 subiram** e **120 caíram**, com variação média de **1.57%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **96 subiram** e **111 caíram**, com variação média de **0.27%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Maicon (88) **+57.9%** · 🔴 **Maior baixa:** Jules Koundé (98) **-47.7%**
+> 🟢 **Maior alta:** Ben Chilwell (90) **+57.3%** · 🔴 **Maior baixa:** Alex Freeman (88) **-40.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.9% entre as cartas que se moveram; o universo observado reúne 252 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 97.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 239 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Maicon | 88 | Serie A TIM | 90k coins | +57.9% | +11% |
-| Leo Cornic | 80 | Super League Greece | 48k coins | +52% | 0% |
-| Marcelo | 89 | Icons | 120k coins | +51.2% | -12.9% |
-| Marcelo | 95 | — | 721k coins | +50.2% | +3.1% |
-| Carlos Alberto | 91 | Icons | 147k coins | +49% | -7.5% |
-| Carolin Simon | 90 | GPFBL | 57k coins | +47.1% | +27.4% |
-| Sakina Karchaoui | 88 | D1 Arkema | 67k coins | +46.4% | +37.4% |
-| Rayan Aït-Nouri | 90 | Premier League | 75k coins | +44.2% | +87.5% |
-| Carlos Alberto | 92 | Icons | 265k coins | +40.8% | +7.4% |
-| Emmanuel Maviram | 84 | Liga Portugal | 50k coins | +39.9% | +11.1% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 67k coins | +57.3% | +100% |
+| Marcelo | 89 | Icons | 133k coins | +53.5% | -14.4% |
+| Julian Araujo | 89 | Scottish Premiership | 122k coins | +49.7% | -33.5% |
+| Archie Brown | 85 | Trendyol Süper Lig | 78k coins | +48.1% | -7.6% |
+| Denzel Dumfries | 86 | Serie A TIM | 84k coins | +47.1% | +101.1% |
+| Sakina Karchaoui | 88 | D1 Arkema | 67k coins | +46.4% | +46.4% |
+| Amar Dedić | 88 | — | 54k coins | +46.4% | +63.5% |
+| Marcelo | 90 | — | 56k coins | +46.2% | +36.8% |
+| Balde | 86 | LALIGA EA SPORTS | 32k coins | +42.9% | -65% |
+| Femi Seriki | 83 | EFL Championship | 74k coins | +40.4% | -7.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Maicon (88)** subiu **+57.9%** em 24h, a **90k coins** (faixa do dia: 60k–102k). Está em linha com a média de 7 dias (+6%).
+- **Ben Chilwell (90)** subiu **+57.3%** em 24h, a **67k coins** (faixa do dia: 44k–70k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Leo Cornic (80)** subiu **+52%** em 24h, a **48k coins** (faixa do dia: 31k–48k). Está +18% acima da média de 7 dias (aquecida).
+- **Marcelo (89)** subiu **+53.5%** em 24h, a **133k coins** (faixa do dia: 76k–139k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Marcelo (89)** subiu **+51.2%** em 24h, a **120k coins** (faixa do dia: 76k–139k). Está em linha com a média de 7 dias (-2%).
+- **Julian Araujo (89)** subiu **+49.7%** em 24h, a **122k coins** (faixa do dia: 82k–130k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jules Koundé | 98 | — | 1.02M coins | -47.7% | -60.2% |
-| Sonia Bompastor | 88 | D1 Arkema | 26k coins | -43.3% | -9.2% |
-| Tarciane | 88 | D1 Arkema | 21k coins | -38.7% | -40.8% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 23k coins | -40.3% | 0% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 34k coins | -38.6% | -11.9% |
 | Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 450k coins | -37.9% | -18.2% |
-| Álex Moreno | 84 | LALIGA EA SPORTS | 30k coins | -36.8% | -12.4% |
-| Daniel Muñoz | 96 | — | 450k coins | -35.7% | -52.1% |
-| Jurriën Timber | 86 | Premier League | 49k coins | -34% | -13% |
-| Roberto Carlos | 90 | Icons | 96k coins | -32.9% | -62.3% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 1.25M coins | -31.3% | -34.6% |
-| Cristian Manea | 88 | SUPERLIGA | 30k coins | -30.4% | -36% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 1.20M coins | -37.5% | -40.7% |
+| Cristian Manea | 88 | SUPERLIGA | 29k coins | -37% | -42% |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 30k coins | -36.8% | -11.8% |
+| Matty Cash | 96 | — | 387k coins | -35.4% | -36.6% |
+| Javier Zanetti | 92 | — | 63k coins | -32.5% | -20% |
+| Ashley Lawrence | 86 | D1 Arkema | 32k coins | -31.9% | -36.8% |
+| Joško Gvardiol | 86 | Premier League | 44k coins | -31.3% | -8.2% |
 
 
 ### Análise das baixas
 
-- **Jules Koundé (98)** caiu **-47.7%** em 24h, a **1.02M coins** (faixa do dia: 900k–1.74M). Está -59% abaixo da média de 7 dias (descontada).
+- **Alex Freeman (88)** caiu **-40.3%** em 24h, a **23k coins** (faixa do dia: 18.500–31k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Sonia Bompastor (88)** caiu **-43.3%** em 24h, a **26k coins** (faixa do dia: 14.750–28k). Está +29% acima da média de 7 dias (aquecida).
+- **Míchel Salgado (89)** caiu **-38.6%** em 24h, a **34k coins** (faixa do dia: 31k–65k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Tarciane (88)** caiu **-38.7%** em 24h, a **21k coins** (faixa do dia: 21k–34k). Está -48% abaixo da média de 7 dias (descontada).
+- **Trent Alexander-Arnold (87)** caiu **-37.9%** em 24h, a **450k coins** (faixa do dia: 400k–690k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Maicon já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ben Chilwell já avançou 57.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jules Koundé recuou -47.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alex Freeman recuou -40.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Maicon (88, Serie A TIM), com +57.9% em 24h, a 90k coins no PC.
+Ben Chilwell (90, Ligue 1 McDonald's), com +57.3% em 24h, a 67k coins no PC.
 
 **E a maior queda do dia?**
-Jules Koundé (98), -47.7% em 24h, a 1.02M coins.
+Alex Freeman (88), -40.3% em 24h, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 102 cartas em alta contra 120 em queda (média 1.57%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 96 cartas em alta contra 111 em queda (média 0.27%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

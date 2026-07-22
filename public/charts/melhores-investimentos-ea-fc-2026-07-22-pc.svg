@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thomas Meunier</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Valery</text>
-<rect x="285" y="153" width="434" height="28" rx="7" fill="#22c55e"/>
-<text x="729" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.9%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rayan Aït-Nouri</text>
+<rect x="285" y="153" width="472" height="28" rx="7" fill="#22c55e"/>
+<text x="767" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
-<rect x="285" y="211" width="424" height="28" rx="7" fill="#22c55e"/>
-<text x="719" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vladimír Coufal</text>
-<rect x="285" y="269" width="420" height="28" rx="7" fill="#22c55e"/>
-<text x="715" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Chilwell</text>
-<rect x="285" y="327" width="348" height="28" rx="7" fill="#22c55e"/>
-<text x="643" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arsène Kouassi</text>
-<rect x="285" y="385" width="332" height="28" rx="7" fill="#22c55e"/>
-<text x="627" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
+<rect x="285" y="211" width="467" height="28" rx="7" fill="#22c55e"/>
+<text x="762" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Valery</text>
+<rect x="285" y="269" width="369" height="28" rx="7" fill="#22c55e"/>
+<text x="664" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trai Hume</text>
+<rect x="285" y="327" width="319" height="28" rx="7" fill="#22c55e"/>
+<text x="614" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nawaf Boushal</text>
+<rect x="285" y="385" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.7%</text>
 </svg>
