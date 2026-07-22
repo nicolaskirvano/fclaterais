@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:11:08.000Z
+pubDatetime: 2026-07-22T13:11:09.000Z
 title: "Investimentos EA FC: Laterais em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +81.8% em 7 dias a 72k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lilly Reale (91, sem liga) lidera, com +84.7% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giovanni Di Lorenzo (86) acumula **+81.8% em 7 dias** a 72k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lilly Reale (91) acumula **+84.7% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.5% em 24h** e **+58.3% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.7% em 24h** e **+58.0% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 72k coins | +26.1% | +81.8% | Esticada |
-| Yan Valery | 91 | — | 42k coins | +29.5% | +81.7% | Esticada |
-| Lilly Reale | 91 | — | 47k coins | +6% | +79.6% | Esticada |
-| Nawaf Boushal | 91 | — | 42k coins | +14.3% | +76% | Esticada |
+| Lilly Reale | 91 | — | 42k coins | +20.7% | +84.7% | Esticada |
+| Nawaf Boushal | 91 | — | 50k coins | +29.7% | +81.1% | Esticada |
 | Tendayi Darikwa | 84 | EFL League One | 66k coins | +16.8% | +73.7% | Esticada |
-| Bixente Lizarazu | 90 | — | 50k coins | +12.4% | +68.1% | Esticada |
-| Fridolina Rolfö | 90 | Barclays WSL | 70k coins | +15.4% | +66.7% | Esticada |
-| Ona Batlle | 90 | Liga F | 48k coins | +5.6% | +58.3% | Momentum moderado |
-| Vladimír Coufal | 91 | — | 47k coins | +21.8% | +55.7% | Esticada |
-| Víctor Gómez | 91 | — | 44k coins | +14.5% | +54.2% | Momentum moderado |
-| Andy Najar | 91 | — | 45k coins | +7% | +53.3% | Momentum moderado |
-| Johan Mojica | 85 | LALIGA EA SPORTS | 26k coins | +14.6% | +52.8% | Momentum moderado |
-| Sakina Karchaoui | 88 | D1 Arkema | 71k coins | +15.2% | +44% | Momentum moderado |
-| Danny da Costa | 84 | Bundesliga | 18.750 coins | +4.7% | +43.5% | Momentum moderado |
-| Francisco Moura | 90 | Liga Portugal | 40k coins | +13% | +41.2% | Momentum moderado |
+| Yan Valery | 91 | — | 46k coins | +24.3% | +72.1% | Esticada |
+| Alberto Costa | 91 | — | 45k coins | +19.6% | +70.2% | Esticada |
+| Bixente Lizarazu | 90 | — | 50k coins | +9.9% | +68.1% | Esticada |
+| Andy Najar | 91 | — | 54k coins | +34.2% | +66.7% | Esticada |
+| Víctor Gómez | 91 | — | 46k coins | +24.5% | +58% | Esticada |
+| Vladimír Coufal | 91 | — | 45k coins | +15.4% | +47.5% | Momentum moderado |
+| Francisco Moura | 90 | Liga Portugal | 52k coins | +21.1% | +36.2% | Esticada |
+| Alexander Bah | 86 | Liga Portugal | 98k coins | +34% | +34% | Esticada |
+| Rayan Aït-Nouri | 90 | Premier League | 51k coins | +28.7% | +32.9% | Esticada |
+| Sakina Karchaoui | 88 | D1 Arkema | 66k coins | +16.8% | +32% | Momentum moderado |
+| Johan Mojica | 85 | LALIGA EA SPORTS | 23k coins | +4.4% | +28.8% | Momentum moderado |
+| Sidny Cabral | 93 | — | 15.000 coins | +1.7% | +25.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Giovanni Di Lorenzo (86)** — 72k coins, **+81.8% em 7 dias** (+26.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lilly Reale (91)** — 42k coins, **+84.7% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yan Valery (91)** — 42k coins, **+81.7% em 7 dias** (+29.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nawaf Boushal (91)** — 50k coins, **+81.1% em 7 dias** (+29.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lilly Reale (91)** — 47k coins, **+79.6% em 7 dias** (+6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tendayi Darikwa (84)** — 66k coins, **+73.7% em 7 dias** (+16.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nawaf Boushal (91)** — 42k coins, **+76% em 7 dias** (+14.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yan Valery (91)** — 46k coins, **+72.1% em 7 dias** (+24.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tendayi Darikwa (84)** — 66k coins, **+73.7% em 7 dias** (+16.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alberto Costa (91)** — 45k coins, **+70.2% em 7 dias** (+19.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +81.8% em 7 dias a 72k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lilly Reale (91, sem liga) lidera, com +84.7% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
