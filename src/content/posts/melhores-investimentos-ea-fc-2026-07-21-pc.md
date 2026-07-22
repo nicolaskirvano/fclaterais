@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:11:18.000Z
+pubDatetime: 2026-07-22T01:11:18.000Z
 title: "Investimentos EA FC: Laterais em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Sonia Bompastor (88, D1 Arkema) lidera, com +73.4% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sonia Bompastor (88, D1 Arkema) lidera, com +73.4% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sonia Bompastor (88) acumula **+73.4% em 7 dias** a 26k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sonia Bompastor (88) acumula **+73.4% em 7 dias** a 28k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.4% em 24h** e **+52.5% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.0% em 24h** e **+36.7% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sonia Bompastor | 88 | D1 Arkema | 26k coins | +15.6% | +73.4% | Esticada |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 24k coins | +20% | +62.7% | Esticada |
-| Sara Holmgaard | 88 | — | 27k coins | +40% | +62.3% | Esticada |
-| Mingueza | 88 | LALIGA EA SPORTS | 27k coins | +5.8% | +60.3% | Esticada |
-| Alberto Costa | 91 | — | 40k coins | +4.6% | +60% | Esticada |
-| Selma Bacha | 94 | — | 80k coins | +6.7% | +60% | Esticada |
-| Amar Dedić | 88 | — | 39k coins | +18.4% | +53.3% | Momentum moderado |
-| Nawaf Boushal | 91 | — | 38k coins | +19.8% | +52.5% | Momentum moderado |
-| Víctor Gómez | 91 | — | 48k coins | +35.2% | +44.4% | Esticada |
-| Rayan Aït-Nouri | 90 | Premier League | 56k coins | +25.6% | +41.2% | Esticada |
-| Cristian Manea | 88 | SUPERLIGA | 46k coins | +33.3% | +31.4% | Esticada |
-| Lilian Thuram | 89 | — | 58k coins | +4% | +29% | Momentum moderado |
-| El Hadji Malick Diouf | 94 | — | 15.750 coins | +5% | +26% | Momentum moderado |
-| Javier Zanetti | 89 | Icons | 80k coins | +24.3% | +25.2% | Esticada |
-| Itziar Pinillos | 87 | — | 48k coins | +7.2% | +24.5% | Momentum moderado |
+| Sonia Bompastor | 88 | D1 Arkema | 28k coins | +11% | +73.4% | Esticada |
+| Reece James | 91 | — | 70k coins | +7.9% | +70.5% | Esticada |
+| Denzel Dumfries | 86 | Serie A TIM | 159k coins | +38.6% | +69.1% | Esticada |
+| Bixente Lizarazu | 88 | Bundesliga | 24k coins | +16.3% | +56.2% | Momentum moderado |
+| Marcos Acuña | 89 | LPF | 145k coins | +12.4% | +47.2% | Momentum moderado |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 20k coins | +15.1% | +42.4% | Momentum moderado |
+| Denzel Dumfries | 89 | Serie A TIM | 62k coins | +28% | +39.1% | Esticada |
+| Amar Dedić | 88 | — | 37k coins | +9.6% | +36.7% | Momentum moderado |
+| Sidny Cabral | 93 | — | 15.250 coins | +1.6% | +33.3% | Momentum moderado |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 42k coins | +4.4% | +27.5% | Momentum moderado |
+| El Hadji Malick Diouf | 94 | — | 15.000 coins | +5% | +26% | Momentum moderado |
+| Patrick van Aanholt | 85 | Eredivisie | 47k coins | +38% | +26% | Esticada |
+| Manolis Saliakas | 84 | Bundesliga | 50k coins | +8.7% | +25.8% | Momentum moderado |
+| Itziar Pinillos | 87 | — | 48k coins | +7.3% | +24.7% | Momentum moderado |
+| Sakina Karchaoui | 88 | D1 Arkema | 46k coins | +17.4% | +24.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sonia Bompastor (88)** — 26k coins, **+73.4% em 7 dias** (+15.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sonia Bompastor (88)** — 28k coins, **+73.4% em 7 dias** (+11% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Míchel Salgado (87)** — 24k coins, **+62.7% em 7 dias** (+20% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reece James (91)** — 70k coins, **+70.5% em 7 dias** (+7.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sara Holmgaard (88)** — 27k coins, **+62.3% em 7 dias** (+40% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (86)** — 159k coins, **+69.1% em 7 dias** (+38.6% em 24h). Preço +292% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mingueza (88)** — 27k coins, **+60.3% em 7 dias** (+5.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bixente Lizarazu (88)** — 24k coins, **+56.2% em 7 dias** (+16.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alberto Costa (91)** — 40k coins, **+60% em 7 dias** (+4.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Acuña (89)** — 145k coins, **+47.2% em 7 dias** (+12.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Sonia Bompastor (88, D1 Arkema) lidera, com +73.4% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sonia Bompastor (88, D1 Arkema) lidera, com +73.4% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:11:16.000Z
+pubDatetime: 2026-07-22T01:11:16.000Z
 title: "Mercado EA FC em 21/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Manolis Saliakas (84, Bundesliga), com +59.4% em 24h, a 55k coins no PC."
+    a: "Lewis Miley (89, Premier League), com +55.7% em 24h, a 64k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Sakina Karchaoui (88), -39% em 24h, a 46k coins."
+    a: "Julian Araujo (89), -45.7% em 24h, a 82k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 80 cartas em alta contra 123 em queda (média -0.43%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 83 cartas em alta contra 124 em queda (média -1.75%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **80 subiram**, **123 caíram** (80+ e 5k+ coins), média de **-0.43%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **83 subiram**, **124 caíram** (80+ e 5k+ coins), média de **-1.75%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Manolis Saliakas (84) **+59.4%** · 🔴 **Maior baixa:** Sakina Karchaoui (88) **-39%**
+> 🟢 **Maior alta:** Lewis Miley (89) **+55.7%** · 🔴 **Maior baixa:** Julian Araujo (89) **-45.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.4% entre as cartas que se moveram; o universo observado reúne 234 cartas.
-- **Concentração:** Serie A TIM aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.1% entre as cartas que se moveram; o universo observado reúne 239 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Manolis Saliakas | 84 | Bundesliga | 55k coins | +59.4% | +38.4% |
-| Federico Dimarco | 87 | Serie A TIM | 50k coins | +56.7% | -11.8% |
-| Terry Devlin | 86 | EFL Championship | 50k coins | +55% | +0.5% |
-| Lewis Miley | 89 | Premier League | 54k coins | +46.8% | +15.5% |
-| Patrick van Aanholt | 85 | Eredivisie | 47k coins | +45.4% | +26% |
-| Jurriën Timber | 87 | Premier League | 32k coins | +42.4% | -16% |
+| Lewis Miley | 89 | Premier League | 64k coins | +55.7% | +18.2% |
+| Leo Cornic | 80 | Super League Greece | 48k coins | +52% | 0% |
+| Lewis Hall | 89 | Premier League | 92k coins | +48.4% | +55.9% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 31k coins | +47.6% | +31.9% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 46k coins | +46% | -18.7% |
+| Marcelo | 95 | — | 721k coins | +45.7% | +10.9% |
+| Sara Holmgaard | 88 | — | 27k coins | +42.1% | +56.5% |
 | Maicon | 89 | Serie A TIM | 370k coins | +41.8% | +10.1% |
-| Francisco Moura | 90 | Liga Portugal | 63k coins | +40.3% | +111.7% |
-| Sara Holmgaard | 88 | — | 27k coins | +40% | +62.3% |
-| Alfonso Espino | 86 | LALIGA EA SPORTS | 24k coins | +39.1% | -28.2% |
+| Víctor Gómez | 91 | — | 50k coins | +40.8% | +44.9% |
+| Denzel Dumfries | 86 | Serie A TIM | 159k coins | +38.6% | +69.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Manolis Saliakas (84)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 40k–55k). Está +23% acima da média de 7 dias (aquecida).
+- **Lewis Miley (89)** subiu **+55.7%** em 24h, a **64k coins** (faixa do dia: 34k–65k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Federico Dimarco (87)** subiu **+56.7%** em 24h, a **50k coins** (faixa do dia: 42k–68k). Está em linha com a média de 7 dias (-2%).
+- **Leo Cornic (80)** subiu **+52%** em 24h, a **48k coins** (faixa do dia: 31k–48k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Terry Devlin (86)** subiu **+55%** em 24h, a **50k coins** (faixa do dia: 32k–50k). Está +11% acima da média de 7 dias (aquecida).
+- **Lewis Hall (89)** subiu **+48.4%** em 24h, a **92k coins** (faixa do dia: 56k–109k). Está +46% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sakina Karchaoui | 88 | D1 Arkema | 46k coins | -39% | +25.3% |
-| Daniel Muñoz | 97 | — | 130k coins | -32.8% | — |
-| João Cancelo | 87 | ROSHN Saudi League | 34k coins | -32.1% | -52% |
-| Ona Batlle | 96 | — | 377k coins | -31.5% | -27.5% |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 34k coins | -31.1% | +2.2% |
-| Nuno Mendes | 97 | — | 530k coins | -30.2% | -25.7% |
-| Bixente Lizarazu | 90 | — | 41k coins | -29.3% | +46.4% |
-| Daniel Muñoz | 96 | — | 625k coins | -27.8% | -31% |
-| Kieran Tierney | 83 | Scottish Premiership | 34k coins | -27.4% | -16.4% |
-| Katie McCabe | 88 | Barclays Women’s Super League | 43k coins | -27.3% | -10.2% |
+| Julian Araujo | 89 | Scottish Premiership | 82k coins | -45.7% | -56.9% |
+| Nicolò Savona | 83 | Premier League | 60k coins | -45.4% | -40.2% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 32k coins | -36.8% | -23.1% |
+| Tristan Crama | 92 | — | 22k coins | -36% | -10.3% |
+| Nerea Nevado | 89 | Liga F | 28k coins | -35.6% | +7.7% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 39k coins | -35.5% | -20.4% |
+| Marcelo | 89 | Icons | 76k coins | -34.3% | -39.6% |
+| Lilian Thuram | 88 | Icons | 143k coins | -34.1% | -49.1% |
+| Marcos Llorente | 95 | — | 178k coins | -33.1% | -30.4% |
+| Tino Livramento | 85 | Premier League | 20k coins | -31.6% | -13% |
 
 
 ### Análise das baixas
 
-- **Sakina Karchaoui (88)** caiu **-39%** em 24h, a **46k coins** (faixa do dia: 31k–75k). Está em linha com a média de 7 dias (-4%).
+- **Julian Araujo (89)** caiu **-45.7%** em 24h, a **82k coins** (faixa do dia: 82k–150k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Daniel Muñoz (97)** caiu **-32.8%** em 24h, a **130k coins** (faixa do dia: 127k–222k). Está -32% abaixo da média de 7 dias (descontada).
+- **Nicolò Savona (83)** caiu **-45.4%** em 24h, a **60k coins** (faixa do dia: 60k–250k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **João Cancelo (87)** caiu **-32.1%** em 24h, a **34k coins** (faixa do dia: 34k–58k). Está -53% abaixo da média de 7 dias (descontada).
+- **Leonardo Spinazzola (89)** caiu **-36.8%** em 24h, a **32k coins** (faixa do dia: 30k–50k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Manolis Saliakas já avançou 59.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lewis Miley já avançou 55.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sakina Karchaoui recuou -39%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julian Araujo recuou -45.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Manolis Saliakas (84, Bundesliga), com +59.4% em 24h, a 55k coins no PC.
+Lewis Miley (89, Premier League), com +55.7% em 24h, a 64k coins no PC.
 
 **E a maior queda do dia?**
-Sakina Karchaoui (88), -39% em 24h, a 46k coins.
+Julian Araujo (89), -45.7% em 24h, a 82k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 80 cartas em alta contra 123 em queda (média -0.43%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 83 cartas em alta contra 124 em queda (média -1.75%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
