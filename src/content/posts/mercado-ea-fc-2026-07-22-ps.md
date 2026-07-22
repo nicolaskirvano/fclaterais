@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:11:07.000Z
+pubDatetime: 2026-07-22T19:11:07.000Z
 title: "Mercado EA FC em 22/07: Laterais — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Tarciane (88, D1 Arkema), com +54.2% em 24h, a 46k coins no Console (PS)."
+    a: "Tarciane (88, D1 Arkema), com +46.7% em 24h, a 43k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Jules Koundé (98), -46.1% em 24h, a 850k coins."
+    a: "Marc Cucurella (99), -44.6% em 24h, a 540k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 86 cartas em alta contra 127 em queda (média -1.77%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 64 cartas em alta contra 150 em queda (média -2.11%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **86 subiram** e **127 caíram**, com variação média de **-1.77%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **64 subiram** e **150 caíram**, com variação média de **-2.11%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Tarciane (88) **+54.2%** · 🔴 **Maior baixa:** Jules Koundé (98) **-46.1%**
+> 🟢 **Maior alta:** Tarciane (88) **+46.7%** · 🔴 **Maior baixa:** Marc Cucurella (99) **-44.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Laterais — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,24 +35,24 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.4% entre as cartas que se moveram; o universo observado reúne 239 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 91.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 29.9% entre as cartas que se moveram; o universo observado reúne 233 cartas.
+- **Concentração:** D1 Arkema aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tarciane | 88 | D1 Arkema | 46k coins | +54.2% | +58.1% |
-| Mingueza | 88 | LALIGA EA SPORTS | 28k coins | +48.5% | +50.7% |
-| Jade Le Guilly | 84 | D1 Arkema | 24k coins | +42.9% | +61.3% |
-| Giulia Gwinn | 89 | GPFBL | 28k coins | +42.5% | +23.9% |
-| Roberto Carlos | 90 | Icons | 210k coins | +40.9% | +2.4% |
-| Alex Freeman | 88 | LALIGA EA SPORTS | 20k coins | +40.3% | -8.4% |
-| Julian Ryerson | 93 | — | 80k coins | +37.4% | +20.7% |
-| Lucy Bronze | 88 | Barclays WSL | 77k coins | +32.1% | +93.1% |
-| Lilly Reale | 91 | — | 43k coins | +29.1% | +94.9% |
-| Nawaf Boushal | 91 | — | 49k coins | +28.6% | +30.4% |
+| Tarciane | 88 | D1 Arkema | 43k coins | +46.7% | +53% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 70k coins | +45.1% | +64.9% |
+| Denzel Dumfries | 89 | Serie A TIM | 58k coins | +44.3% | +45.9% |
+| DeAndre Yedlin | 86 | MLS | 30k coins | +41.2% | -33.3% |
+| Jade Le Guilly | 84 | D1 Arkema | 24k coins | +37.1% | +54.8% |
+| Olga Carmona | 87 | D1 Arkema | 20k coins | +36.8% | +6.8% |
+| Nawaf Boushal | 91 | — | 50k coins | +30.7% | +40.8% |
+| Andrea Medina | 86 | Liga F | 26k coins | +29.3% | +1.9% |
+| Carolin Simon | 90 | GPFBL | 50k coins | +25% | +62.5% |
+| Lewis Hall | 90 | — | 60k coins | +22.2% | +71.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tarciane (88)** subiu **+54.2%** em 24h, a **46k coins** (faixa do dia: 20k–48k). Está +27% acima da média de 7 dias (aquecida).
+- **Tarciane (88)** subiu **+46.7%** em 24h, a **43k coins** (faixa do dia: 20k–48k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Mingueza (88)** subiu **+48.5%** em 24h, a **28k coins** (faixa do dia: 13.750–30k). Está +49% acima da média de 7 dias (aquecida).
+- **Ben Chilwell (90)** subiu **+45.1%** em 24h, a **70k coins** (faixa do dia: 38k–70k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Jade Le Guilly (84)** subiu **+42.9%** em 24h, a **24k coins** (faixa do dia: 13.000–25k). Está +29% acima da média de 7 dias (aquecida).
+- **Denzel Dumfries (89)** subiu **+44.3%** em 24h, a **58k coins** (faixa do dia: 40k–79k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jules Koundé | 98 | — | 850k coins | -46.1% | -52.3% |
-| Marc Cucurella | 86 | Premier League | 20k coins | -44.2% | -65.8% |
-| Archie Brown | 85 | Trendyol Süper Lig | 28k coins | -43.8% | -26.2% |
-| Piero Hincapié | 93 | — | 48k coins | -42.1% | -58.2% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 398k coins | -36% | -8.8% |
-| Cafu | 92 | Icons | 196k coins | -33.9% | +4.8% |
-| Trai Hume | 84 | Premier League | 44k coins | -33.3% | -24.5% |
-| Femi Seriki | 83 | EFL Championship | 61k coins | -32.2% | +13% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 38k coins | -31.9% | -30.1% |
-| John Arne Riise | 88 | Premier League | 26k coins | -31.1% | -40.6% |
+| Marc Cucurella | 99 | — | 540k coins | -44.6% | — |
+| Archie Brown | 85 | Trendyol Süper Lig | 29k coins | -42.8% | -33.1% |
+| Maicon | 89 | Serie A TIM | 138k coins | -37.8% | -53.2% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 694k coins | -32.7% | -53.5% |
+| Femi Seriki | 83 | EFL Championship | 72k coins | -32.2% | +19.6% |
+| Lewis Miley | 83 | Premier League | 40k coins | -32.1% | -6.9% |
+| Sergiño Dest | 86 | Eredivisie | 26k coins | -31.8% | +29.6% |
+| Josip Stanišić | 86 | Bundesliga | 36k coins | -30.9% | -16% |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 391k coins | -30.9% | -1.5% |
+| Marc Cucurella | 86 | Premier League | 23k coins | -28.9% | -64.2% |
 
 
 ### Análise das baixas
 
-- **Jules Koundé (98)** caiu **-46.1%** em 24h, a **850k coins** (faixa do dia: 713k–1.39M). Está -44% abaixo da média de 7 dias (descontada).
+- **Marc Cucurella (99)** caiu **-44.6%** em 24h, a **540k coins** (faixa do dia: 490k–900k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Marc Cucurella (86)** caiu **-44.2%** em 24h, a **20k coins** (faixa do dia: 18.000–37k). Está -51% abaixo da média de 7 dias (descontada).
+- **Archie Brown (85)** caiu **-42.8%** em 24h, a **29k coins** (faixa do dia: 18.500–55k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Archie Brown (85)** caiu **-43.8%** em 24h, a **28k coins** (faixa do dia: 18.500–55k). Está -45% abaixo da média de 7 dias (descontada).
+- **Maicon (89)** caiu **-37.8%** em 24h, a **138k coins** (faixa do dia: 130k–250k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tarciane já avançou 54.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tarciane já avançou 46.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jules Koundé recuou -46.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marc Cucurella recuou -44.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Tarciane (88, D1 Arkema), com +54.2% em 24h, a 46k coins no Console (PS).
+Tarciane (88, D1 Arkema), com +46.7% em 24h, a 43k coins no Console (PS).
 
 **E a maior queda do dia?**
-Jules Koundé (98), -46.1% em 24h, a 850k coins.
+Marc Cucurella (99), -44.6% em 24h, a 540k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 86 cartas em alta contra 127 em queda (média -1.77%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 64 cartas em alta contra 150 em queda (média -2.11%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
