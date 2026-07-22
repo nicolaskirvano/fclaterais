@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:11:17.000Z
+pubDatetime: 2026-07-22T16:11:17.000Z
 title: "Mercado EA FC em 22/07: Laterais — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Micah Richards (85, Premier League), com +53.8% em 24h, a 30k coins no PC."
+    a: "Joshua Kimmich (89, Bundesliga), com +56.2% em 24h, a 150k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Denzel Dumfries (89), -46.7% em 24h, a 70k coins."
+    a: "Trent Alexander-Arnold (87), -38.1% em 24h, a 450k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 89 cartas em alta contra 133 em queda (média -0.42%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 120 cartas em alta contra 102 em queda (média 3.45%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **89 subiram** e **133 caíram**, com variação média de **-0.42%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **120 subiram** e **102 caíram**, com variação média de **3.45%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Micah Richards (85) **+53.8%** · 🔴 **Maior baixa:** Denzel Dumfries (89) **-46.7%**
+> 🟢 **Maior alta:** Joshua Kimmich (89) **+56.2%** · 🔴 **Maior baixa:** Trent Alexander-Arnold (87) **-38.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Laterais — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.1% entre as cartas que se moveram; o universo observado reúne 254 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.1% entre as cartas que se moveram; o universo observado reúne 253 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Micah Richards | 85 | Premier League | 30k coins | +53.8% | +3.4% |
+| Joshua Kimmich | 89 | Bundesliga | 150k coins | +56.2% | +36.7% |
+| Micah Richards | 85 | Premier League | 29k coins | +53.9% | +1.7% |
+| Nicolò Savona | 83 | Premier League | 114k coins | +53.3% | +38.6% |
+| Antonee Robinson | 94 | — | 31k coins | +52.5% | -39% |
+| Marcelo | 89 | Icons | 124k coins | +52.4% | -6.7% |
 | Leo Cornic | 80 | Super League Greece | 48k coins | +52% | 0% |
-| Sergiño Dest | 86 | Eredivisie | 135k coins | +51.5% | +22% |
-| Tarciane | 92 | — | 35k coins | +49% | +24.2% |
-| Givairo Read | 86 | Eredivisie | 23k coins | +48.4% | -1.1% |
-| Lewis Hall | 89 | Premier League | 83k coins | +48.2% | +40.7% |
-| Rayan Aït-Nouri | 90 | Premier League | 75k coins | +41.5% | +87.5% |
-| Emmanuel Maviram | 84 | Liga Portugal | 50k coins | +39.9% | +0.5% |
-| Diogo Dalot | 87 | Premier League | 110k coins | +39.5% | +59.8% |
-| Selma Bacha | 94 | D1 Arkema | 110k coins | +37.9% | -15.9% |
+| Givairo Read | 86 | Eredivisie | 23k coins | +51.7% | -1.1% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 27k coins | +45.3% | +29.8% |
+| Femi Seriki | 83 | EFL Championship | 70k coins | +42.9% | +41.5% |
+| Carlos Alberto | 92 | Icons | 290k coins | +41.5% | +7.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Micah Richards (85)** subiu **+53.8%** em 24h, a **30k coins** (faixa do dia: 17.750–35k). Está +10% acima da média de 7 dias (aquecida).
+- **Joshua Kimmich (89)** subiu **+56.2%** em 24h, a **150k coins** (faixa do dia: 100k–189k). Está +29% acima da média de 7 dias (aquecida).
 
-- **Leo Cornic (80)** subiu **+52%** em 24h, a **48k coins** (faixa do dia: 31k–48k). Está +18% acima da média de 7 dias (aquecida).
+- **Micah Richards (85)** subiu **+53.9%** em 24h, a **29k coins** (faixa do dia: 17.750–35k). Está em linha com a média de 7 dias (+7%).
 
-- **Sergiño Dest (86)** subiu **+51.5%** em 24h, a **135k coins** (faixa do dia: 80k–150k). Está +21% acima da média de 7 dias (aquecida).
+- **Nicolò Savona (83)** subiu **+53.3%** em 24h, a **114k coins** (faixa do dia: 59k–118k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Denzel Dumfries | 89 | Serie A TIM | 70k coins | -46.7% | -34.4% |
-| Nuno Mendes | 97 | — | 400k coins | -44.6% | -49.7% |
-| Roberto Carlos | 90 | Icons | 99k coins | -43.6% | -61.5% |
-| Tristan Crama | 92 | — | 23k coins | -43.2% | -16% |
-| Daniel Muñoz | 96 | — | 550k coins | -38.8% | -41.5% |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 20k coins | -36.9% | -25.3% |
-| Warren Zaïre-Emery | 95 | — | 237k coins | -36.8% | -35.8% |
-| Tarciane | 88 | D1 Arkema | 25k coins | -34.6% | -27.1% |
-| Ashley Cole | 88 | — | 22k coins | -33.9% | -45.7% |
-| Daniel Muñoz | 97 | — | 114k coins | -33.5% | — |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 450k coins | -38.1% | -18.2% |
+| Esmee Brugts | 96 | — | 519k coins | -37.7% | -46.8% |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 30k coins | -36.8% | -13% |
+| Ahmet Oğuz | 86 | EFL League One | 25k coins | -33.1% | -44.5% |
+| Daniel Muñoz | 97 | — | 120k coins | -32.1% | — |
+| Nerea Nevado | 89 | Liga F | 26k coins | -31.9% | +3.8% |
+| Jules Koundé | 94 | LALIGA EA SPORTS | 320k coins | -31.5% | -34.7% |
+| Nuno Mendes | 97 | — | 445k coins | -26.5% | -33.5% |
+| Nuno Mendes | 95 | — | 200k coins | -24.9% | -30.4% |
+| Daniel Muñoz | 96 | — | 500k coins | -24.3% | -43.6% |
 
 
 ### Análise das baixas
 
-- **Denzel Dumfries (89)** caiu **-46.7%** em 24h, a **70k coins** (faixa do dia: 19.500–70k). Está +30% acima da média de 7 dias (aquecida).
+- **Trent Alexander-Arnold (87)** caiu **-38.1%** em 24h, a **450k coins** (faixa do dia: 400k–727k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Nuno Mendes (97)** caiu **-44.6%** em 24h, a **400k coins** (faixa do dia: 340k–650k). Está -44% abaixo da média de 7 dias (descontada).
+- **Esmee Brugts (96)** caiu **-37.7%** em 24h, a **519k coins** (faixa do dia: 519k–875k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Roberto Carlos (90)** caiu **-43.6%** em 24h, a **99k coins** (faixa do dia: 90k–177k). Está -48% abaixo da média de 7 dias (descontada).
+- **Álex Moreno (84)** caiu **-36.8%** em 24h, a **30k coins** (faixa do dia: 30k–48k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Micah Richards já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Joshua Kimmich já avançou 56.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Denzel Dumfries recuou -46.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Trent Alexander-Arnold recuou -38.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Micah Richards (85, Premier League), com +53.8% em 24h, a 30k coins no PC.
+Joshua Kimmich (89, Bundesliga), com +56.2% em 24h, a 150k coins no PC.
 
 **E a maior queda do dia?**
-Denzel Dumfries (89), -46.7% em 24h, a 70k coins.
+Trent Alexander-Arnold (87), -38.1% em 24h, a 450k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 89 cartas em alta contra 133 em queda (média -0.42%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 120 cartas em alta contra 102 em queda (média 3.45%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
