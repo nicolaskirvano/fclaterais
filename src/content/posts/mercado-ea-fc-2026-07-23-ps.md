@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:11:07.000Z
+pubDatetime: 2026-07-23T22:11:07.000Z
 title: "Mercado EA FC em 23/07: Laterais — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Archie Brown (85, Trendyol Süper Lig), com +49.1% em 24h, a 38k coins no Console (PS)."
+    a: "Nico O'Reilly (88, Premier League), com +43% em 24h, a 34k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Roberto Carlos (90), -38.4% em 24h, a 149k coins."
+    a: "Cafu (95), -32.3% em 24h, a 158k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 88 cartas em alta contra 109 em queda (média 0.8%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 84 cartas em alta contra 112 em queda (média -0.61%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **23/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **88 em alta** e **109 em queda**, média de **0.8%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **23/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **84 em alta** e **112 em queda**, média de **-0.61%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Archie Brown (85) **+49.1%** · 🔴 **Maior baixa:** Roberto Carlos (90) **-38.4%**
+> 🟢 **Maior alta:** Nico O'Reilly (88) **+43%** · 🔴 **Maior baixa:** Cafu (95) **-32.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Laterais — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **23/07/2026** (Console (PS)): mercado **lateral** — sem direção
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.7% entre as cartas que se moveram; o universo observado reúne 221 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 75.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 218 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Archie Brown | 85 | Trendyol Süper Lig | 38k coins | +49.1% | -16.5% |
-| João Cancelo | 87 | ROSHN Saudi League | 43k coins | +46.2% | -13.6% |
-| Diogo Dalot | 87 | Premier League | 64k coins | +35.8% | -41.4% |
-| Nerea Nevado | 89 | Liga F | 24k coins | +26.3% | +23.1% |
-| Kieran Tierney | 83 | Scottish Premiership | 55k coins | +25.9% | +25.9% |
-| Malo Gusto | 84 | Premier League | 39k coins | +25.4% | -2.8% |
-| Carvajal | 89 | LALIGA EA SPORTS | 236k coins | +25.3% | -1.2% |
-| Nuno Mendes | 96 | — | 477k coins | +23.9% | -15.4% |
-| Lisa Karl | 84 | GPFBL | 22k coins | +21.6% | +32.4% |
-| Roberto Carlos | 91 | Icons | 328k coins | +20.8% | +25.2% |
+| Nico O'Reilly | 88 | Premier League | 34k coins | +43% | -25.5% |
+| Josip Stanišić | 86 | Bundesliga | 55k coins | +41.9% | +18.9% |
+| Julian Ryerson | 93 | — | 86k coins | +36.8% | +39.6% |
+| João Cancelo | 87 | ROSHN Saudi League | 40k coins | +34.5% | -23.8% |
+| Javier Zanetti | 92 | — | 47k coins | +32.5% | +1% |
+| Julian Ryerson | 86 | Bundesliga | 45k coins | +23.8% | +7.6% |
+| Ona Batlle | 94 | — | 37k coins | +23.1% | +3.6% |
+| Federico Dimarco | 87 | Serie A TIM | 42k coins | +20% | +14.3% |
+| Maicon | 89 | Serie A TIM | 145k coins | +19.8% | -44.1% |
+| Andrei Rațiu | 92 | — | 30k coins | +19% | +14.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **23/07/2026** (Console (PS)): mercado **lateral** — sem direção
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Archie Brown (85)** subiu **+49.1%** em 24h, a **38k coins** (faixa do dia: 31k–63k). Está -25% abaixo da média de 7 dias (descontada).
+- **Nico O'Reilly (88)** subiu **+43%** em 24h, a **34k coins** (faixa do dia: 27k–40k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **João Cancelo (87)** subiu **+46.2%** em 24h, a **43k coins** (faixa do dia: 26k–60k). Está em linha com a média de 7 dias (+4%).
+- **Josip Stanišić (86)** subiu **+41.9%** em 24h, a **55k coins** (faixa do dia: 32k–55k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Diogo Dalot (87)** subiu **+35.8%** em 24h, a **64k coins** (faixa do dia: 40k–152k). Está -12% abaixo da média de 7 dias (descontada).
+- **Julian Ryerson (93)** subiu **+36.8%** em 24h, a **86k coins** (faixa do dia: 42k–120k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roberto Carlos | 90 | Icons | 149k coins | -38.4% | -11% |
-| Alexander Bah | 86 | Liga Portugal | 44k coins | -26.7% | -13.7% |
-| Andrea Medina | 86 | Liga F | 26k coins | -25.5% | -19.4% |
-| Marcelo | 89 | Icons | 68k coins | -24.4% | -47.1% |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 24k coins | -23.1% | -35.1% |
-| Leonardo Spinazzola | 89 | Serie A TIM | 31k coins | -19.7% | -13.2% |
-| Terry Devlin | 86 | EFL Championship | 35k coins | -19.4% | -13.8% |
-| Jurriën Timber | 93 | — | 49k coins | -18.7% | -37.5% |
-| Daniel Muñoz | 94 | — | 47k coins | -17% | -48% |
-| Ferdi Kadıoğlu | 87 | — | 35k coins | -16.5% | -8.3% |
+| Cafu | 95 | — | 158k coins | -32.3% | -39.3% |
+| Nerea Nevado | 89 | Liga F | 20k coins | -30% | +7.7% |
+| Marcos Acuña | 89 | LPF | 35k coins | -30% | -64.6% |
+| Trai Hume | 84 | Premier League | 35k coins | -25.5% | -12.5% |
+| Alexander Bah | 86 | Liga Portugal | 40k coins | -25% | -18.4% |
+| Hanna Lundkvist | 87 | Barclays WSL | 26k coins | -23% | -60% |
+| DeAndre Yedlin | 86 | MLS | 27k coins | -21.7% | -16.3% |
+| Andy Najar | 91 | — | 49k coins | -21.7% | +11.9% |
+| Roberto Carlos | 90 | Icons | 167k coins | -20.9% | -12.9% |
+| Marcelo | 89 | Icons | 75k coins | -20.1% | -44.2% |
 
 
 ### Análise das baixas
 
-- **Roberto Carlos (90)** caiu **-38.4%** em 24h, a **149k coins** (faixa do dia: 136k–223k). Está -19% abaixo da média de 7 dias (descontada).
+- **Cafu (95)** caiu **-32.3%** em 24h, a **158k coins** (faixa do dia: 141k–225k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Alexander Bah (86)** caiu **-26.7%** em 24h, a **44k coins** (faixa do dia: 38k–64k). Está -45% abaixo da média de 7 dias (descontada).
+- **Nerea Nevado (89)** caiu **-30%** em 24h, a **20k coins** (faixa do dia: 14.500–36k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Andrea Medina (86)** caiu **-25.5%** em 24h, a **26k coins** (faixa do dia: 19.750–32k). Está +9% acima da média de 7 dias (aquecida).
+- **Marcos Acuña (89)** caiu **-30%** em 24h, a **35k coins** (faixa do dia: 30k–119k). Está -62% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Archie Brown já avançou 49.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nico O'Reilly já avançou 43% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Roberto Carlos recuou -38.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Cafu recuou -32.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Archie Brown (85, Trendyol Süper Lig), com +49.1% em 24h, a 38k coins no Console (PS).
+Nico O'Reilly (88, Premier League), com +43% em 24h, a 34k coins no Console (PS).
 
 **E a maior queda do dia?**
-Roberto Carlos (90), -38.4% em 24h, a 149k coins.
+Cafu (95), -32.3% em 24h, a 158k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 88 cartas em alta contra 109 em queda (média 0.8%).
+Hoje o mercado está lateral — sem direção clara, com 84 cartas em alta contra 112 em queda (média -0.61%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
