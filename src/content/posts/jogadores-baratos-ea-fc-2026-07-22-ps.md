@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:11:10.000Z
+pubDatetime: 2026-07-23T01:11:10.000Z
 title: "Jogadores baratos EA FC: Laterais em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/07/2026)?"
-    a: "Noussair Mazraoui (95, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS)."
+    a: "Noussair Mazraoui (95, sem liga) aparece como melhor custo-benefício, a 10.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Noussair Mazraoui (95) por apenas 11.000 coins.
+> 💰 **Melhor pechincha:** Noussair Mazraoui (95) por apenas 10.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Laterais em 22/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-22-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 12.738 coins.
-- **Posição mais frequente:** LB, com 12 cartas.
-- **Faixa real:** 2.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 8.207 coins.
+- **Posição mais frequente:** LB, com 11 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Noussair Mazraoui | 95 | LB | — | 11.000 coins | -7.7% |
-| Sonia Bompastor | 89 | LB | — | 14.250 coins | -5.4% |
-| Esmee Brugts | 88 | LB | Liga F | 13.000 coins | -1.7% |
-| Sara Holmgaard | 88 | LB | — | 13.500 coins | -3.4% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.500 coins | +9.3% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 14.250 coins | -6.2% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14.750 coins | -7.8% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12.750 coins | -1.9% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13.000 coins | -11.1% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | -9.3% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14.250 coins | -1.7% |
-| Alex Scott | 85 | RB | Barclays WSL | 14.750 coins | +13.5% |
-| Marc Cucurella | 84 | LB | Premier League | 2.100 coins | -4.2% |
+| Noussair Mazraoui | 95 | LB | — | 10.750 coins | -4.2% |
+| El Hadji Malick Diouf | 94 | LB | — | 14.750 coins | +1.7% |
+| Sidny Cabral | 93 | LB | — | 14.500 coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.600 coins | +20.5% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13.500 coins | +3.8% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.750 coins | +4.1% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14.500 coins | -6.5% |
+| Carvajal | 85 | RB | LALIGA EA SPORTS | 1.500 coins | +15.4% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12.000 coins | -11.7% |
+| Alex Scott | 85 | RB | Barclays WSL | 14.750 coins | +11.3% |
+| Denzel Dumfries | 84 | RB | Serie A Enilive | 1.600 coins | +33.3% |
+| Alphonso Davies | 84 | LB | Bundesliga | 1.600 coins | +10% |
+| Theo Hernández | 84 | LB | Serie A Enilive | 1.700 coins | +7.7% |
+| Marc Cucurella | 84 | LB | Premier League | 2.300 coins | +21.1% |
+| Marc Cucurella | 84 | LB | — | 2.300 coins | -8% |
 
 
 ## 📈 Destaques
 
-- **Noussair Mazraoui (95, LB)** da —, a apenas **11.000 coins**
+- **Noussair Mazraoui (95, LB)** da —, a apenas **10.750 coins**
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **El Hadji Malick Diouf (94, LB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sidny Cabral (93, LB)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sara Holmgaard (88, LB)** da —, a apenas **13.500 coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14.500 coins**
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Noussair Mazraoui (95, LB) por 11.000 coins é a referência de rating deste recorte.
+- **Defesa:** Noussair Mazraoui (95, LB) por 10.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -89,7 +91,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/07/2026)?**  
-Noussair Mazraoui (95, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS).
+Noussair Mazraoui (95, sem liga) aparece como melhor custo-benefício, a 10.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
