@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:11:10.000Z
+pubDatetime: 2026-07-23T16:11:10.000Z
 title: "Jogadores baratos EA FC: Laterais em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 13.018 coins.
-- **Posição mais frequente:** LB, com 12 cartas.
-- **Faixa real:** 4.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.653 coins.
+- **Posição mais frequente:** LB, com 14 cartas.
+- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Noussair Mazraoui | 95 | LB | — | 11.750 coins | -12% |
-| El Hadji Malick Diouf | 94 | LB | — | 13.750 coins | -6.8% |
-| Sidny Cabral | 93 | LB | — | 14.250 coins | -3.4% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.000 coins | +2.6% |
-| Katie McCabe | 89 | LB | Barclays WSL | 14.000 coins | +35.4% |
-| Mats Deijl | 88 | RB | Eredivisie | 13.750 coins | -8.1% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | 0% |
-| Esmee Brugts | 88 | LB | Liga F | 14.750 coins | +6.9% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14.500 coins | -8.3% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 11.250 coins | -11.1% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.750 coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 14.000 coins | -2% |
-| Christian Günter | 84 | LB | Bundesliga | 14.000 coins | -4.3% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | -9.1% |
+| Noussair Mazraoui | 95 | LB | — | 11.750 coins | -6.1% |
+| El Hadji Malick Diouf | 94 | LB | — | 13.000 coins | -8.5% |
+| Richie Laryea | 94 | LB | — | 14.750 coins | +2.9% |
+| Bixente Lizarazu | 93 | LB | — | 11.750 coins | -9.1% |
+| Sidny Cabral | 93 | LB | — | 14.750 coins | -8.3% |
+| Gideon Mensah | 92 | LB | — | 14.750 coins | -7.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.000 coins | 0% |
+| Sonia Bompastor | 89 | LB | — | 12.250 coins | -5.8% |
+| Sara Holmgaard | 88 | LB | — | 11.500 coins | -8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12.500 coins | -13.8% |
+| Ricardo Rodríguez | 88 | LB | — | 13.000 coins | -10.3% |
+| Esmee Brugts | 88 | LB | Liga F | 14.500 coins | +3.6% |
+| Selma Bacha | 87 | LB | D1 Arkema | 13.250 coins | -3.6% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2.300 coins | +56.2% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 10.750 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Noussair Mazraoui (95, LB)** da —, a apenas **11.750 coins**
 
-- **El Hadji Malick Diouf (94, LB)** da —, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
+- **El Hadji Malick Diouf (94, LB)** da —, a apenas **13.000 coins**
 
-- **Sidny Cabral (93, LB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Richie Laryea (94, LB)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Bixente Lizarazu (93, LB)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Katie McCabe (89, LB)** da Barclays WSL, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Sidny Cabral (93, LB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
