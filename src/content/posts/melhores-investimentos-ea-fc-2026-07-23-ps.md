@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:11:09.000Z
+pubDatetime: 2026-07-23T13:11:09.000Z
 title: "Investimentos EA FC: Laterais em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Jade Le Guilly (89, D1 Arkema) lidera, com +57.9% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Thomas Meunier (92, sem liga) lidera, com +60% em 7 dias a 36k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jade Le Guilly (89) acumula **+57.9% em 7 dias** a 30k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Thomas Meunier (92) acumula **+60% em 7 dias** a 36k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.0% em 24h** e **+36.2% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.2% em 24h** e **+43.3% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 89 | D1 Arkema | 30k coins | +11.1% | +57.9% | Momentum moderado |
-| Thomas Meunier | 92 | — | 35k coins | +9.2% | +49.4% | Momentum moderado |
-| Yan Valery | 91 | — | 55k coins | +20.9% | +47.7% | Esticada |
-| Reece James | 91 | — | 70k coins | +25% | +47.4% | Esticada |
-| Gisele Thompson | 90 | NWSL | 55k coins | +2.9% | +44% | Momentum moderado |
-| Odriozola | 85 | LALIGA EA SPORTS | 22k coins | +9.1% | +41.2% | Momentum moderado |
-| Lilly Reale | 91 | — | 55k coins | +25% | +37.5% | Esticada |
-| Rayan Aït-Nouri | 90 | Premier League | 72k coins | +38.8% | +36.2% | Esticada |
-| Nawaf Boushal | 91 | — | 50k coins | +12.4% | +34.2% | Momentum moderado |
-| Andy Najar | 91 | — | 55k coins | +14.6% | +30.2% | Momentum moderado |
-| Dávid Hancko | 86 | LALIGA EA SPORTS | 35k coins | +13% | +30% | Momentum moderado |
-| Grace Kazadi | 87 | D1 Arkema | 27k coins | +8.3% | +27.9% | Momentum moderado |
-| Alfonso Espino | 86 | LALIGA EA SPORTS | 19.750 coins | +16.2% | +27.4% | Momentum moderado |
-| Francisco Moura | 90 | Liga Portugal | 65k coins | +15% | +26.2% | Momentum moderado |
-| Joelle Wedemeyer | 89 | GPFBL | 25k coins | +3.3% | +25.3% | Momentum moderado |
+| Thomas Meunier | 92 | — | 36k coins | +24.1% | +60% | Esticada |
+| Alberto Costa | 91 | — | 48k coins | +7.3% | +58.3% | Momentum moderado |
+| Patrick van Aanholt | 85 | Eredivisie | 34k coins | +7.8% | +53.3% | Momentum moderado |
+| Andy Najar | 91 | — | 60k coins | +20% | +50% | Esticada |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 26k coins | +38.8% | +48% | Esticada |
+| Yan Valery | 91 | — | 55k coins | +17.2% | +46.3% | Momentum moderado |
+| Fridolina Rolfö | 90 | Barclays WSL | 80k coins | +23.1% | +45.5% | Esticada |
+| Lewis Hall | 90 | — | 64k coins | +29% | +43.3% | Esticada |
+| Gisele Thompson | 90 | NWSL | 72k coins | +30% | +43% | Esticada |
+| Carolin Simon | 90 | GPFBL | 80k coins | +33.3% | +41.6% | Esticada |
+| Olga Carmona | 87 | D1 Arkema | 17.750 coins | +15.8% | +37.5% | Momentum moderado |
+| Alfonso Espino | 86 | LALIGA EA SPORTS | 21k coins | +10.5% | +35.5% | Momentum moderado |
+| Nawaf Boushal | 91 | — | 50k coins | +11.1% | +35.1% | Momentum moderado |
+| Lisa Karl | 84 | GPFBL | 23k coins | +2.2% | +31.4% | Momentum moderado |
+| Givairo Read | 86 | Eredivisie | 24k coins | +14% | +30.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jade Le Guilly (89)** — 30k coins, **+57.9% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thomas Meunier (92)** — 36k coins, **+60% em 7 dias** (+24.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Thomas Meunier (92)** — 35k coins, **+49.4% em 7 dias** (+9.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alberto Costa (91)** — 48k coins, **+58.3% em 7 dias** (+7.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yan Valery (91)** — 55k coins, **+47.7% em 7 dias** (+20.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick van Aanholt (85)** — 34k coins, **+53.3% em 7 dias** (+7.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reece James (91)** — 70k coins, **+47.4% em 7 dias** (+25% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andy Najar (91)** — 60k coins, **+50% em 7 dias** (+20% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gisele Thompson (90)** — 55k coins, **+44% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Teze (87)** — 26k coins, **+48% em 7 dias** (+38.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Jade Le Guilly (89, D1 Arkema) lidera, com +57.9% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Thomas Meunier (92, sem liga) lidera, com +60% em 7 dias a 36k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
