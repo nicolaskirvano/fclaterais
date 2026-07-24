@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:11:18.000Z
+pubDatetime: 2026-07-24T01:11:19.000Z
 title: "Investimentos EA FC: Laterais em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Lilly Reale (91, sem liga) lidera, com +49.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sonia Bompastor (88, D1 Arkema) lidera, com +75.7% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lilly Reale (91) acumula **+49.7% em 7 dias** a 55k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Sonia Bompastor (88) acumula **+75.7% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Laterais em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+26.6% em 24h** e **+23.7% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.4% em 24h** e **+32.7% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lilly Reale | 91 | — | 55k coins | +10% | +49.7% | Momentum moderado |
-| Yan Valery | 91 | — | 54k coins | +7.9% | +49.3% | Momentum moderado |
-| Nahuel Molina | 91 | — | 190k coins | +26.6% | +43.9% | Esticada |
-| Micah Richards | 85 | Premier League | 32k coins | +12.3% | +40.7% | Momentum moderado |
-| Marcus Pedersen | 89 | Serie A TIM | 80k coins | +37.4% | +30.8% | Esticada |
-| Francisco Calvo | 84 | Brasileirão | 54k coins | +38.9% | +30.5% | Esticada |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 60k coins | +32.7% | +26.9% | Esticada |
-| Marco Palestra | 93 | — | 30k coins | +3.4% | +23.7% | Entrada a observar |
-| Itziar Pinillos | 87 | — | 51k coins | +29.1% | +19.3% | Esticada |
-| Nuno Tavares | 91 | Serie A TIM | 100k coins | +22% | +19% | Esticada |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 18.250 coins | +25% | +17.6% | Esticada |
-| Tarciane | 92 | — | 34k coins | +30% | +16.4% | Esticada |
-| Ellie Carpenter | 86 | Barclays WSL | 44k coins | +3.5% | +14.1% | Entrada a observar |
-| Dávid Hancko | 86 | LALIGA EA SPORTS | 50k coins | +27.3% | +13.3% | Esticada |
-| Narcis Ilaș | 87 | SUPERLIGA | 22k coins | +39.4% | +9.5% | Esticada |
+| Sonia Bompastor | 88 | D1 Arkema | 32k coins | +17.1% | +75.7% | Esticada |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 63k coins | +26% | +72.6% | Esticada |
+| Mingueza | 88 | LALIGA EA SPORTS | 35k coins | +28.4% | +52.2% | Esticada |
+| Sidny Cabral | 93 | — | 17.750 coins | +16.4% | +51.1% | Momentum moderado |
+| Micah Richards | 85 | Premier League | 32k coins | +15.2% | +41.8% | Momentum moderado |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 58k coins | +20.6% | +38.5% | Esticada |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 92k coins | +20% | +36.4% | Esticada |
+| Francisco Moura | 90 | Liga Portugal | 65k coins | +2.4% | +32.7% | Momentum moderado |
+| Patrick van Aanholt | 85 | Eredivisie | 40k coins | +13.5% | +32.2% | Momentum moderado |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 70k coins | +4.5% | +30.8% | Momentum moderado |
+| Francisco Calvo | 84 | Brasileirão | 54k coins | +38.9% | +29.8% | Esticada |
+| Carolin Simon | 90 | GPFBL | 69k coins | +14% | +27.8% | Momentum moderado |
+| Nico O'Reilly | 96 | — | 115k coins | +17.9% | +24.3% | Momentum moderado |
+| El Hadji Malick Diouf | 94 | — | 15.000 coins | +1.6% | +23.5% | Entrada a observar |
+| Nico O'Reilly | 88 | Premier League | 45k coins | +11.1% | +22% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lilly Reale (91)** — 55k coins, **+49.7% em 7 dias** (+10% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sonia Bompastor (88)** — 32k coins, **+75.7% em 7 dias** (+17.1% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yan Valery (91)** — 54k coins, **+49.3% em 7 dias** (+7.9% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Míchel Salgado (89)** — 63k coins, **+72.6% em 7 dias** (+26% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (91)** — 190k coins, **+43.9% em 7 dias** (+26.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mingueza (88)** — 35k coins, **+52.2% em 7 dias** (+28.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Micah Richards (85)** — 32k coins, **+40.7% em 7 dias** (+12.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sidny Cabral (93)** — 17.750 coins, **+51.1% em 7 dias** (+16.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcus Pedersen (89)** — 80k coins, **+30.8% em 7 dias** (+37.4% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Micah Richards (85)** — 32k coins, **+41.8% em 7 dias** (+15.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Lilly Reale (91, sem liga) lidera, com +49.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sonia Bompastor (88, D1 Arkema) lidera, com +75.7% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Laterais em 23/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-23-pc/)
 - [Mercado EA FC em 23/07: Laterais — PC](/posts/mercado-ea-fc-2026-07-23-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

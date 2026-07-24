@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:11:10.000Z
+pubDatetime: 2026-07-24T01:11:11.000Z
 title: "Jogadores baratos EA FC: Laterais em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 12.521 coins.
-- **Posição mais frequente:** LB, com 10 cartas.
+- **Preço médio das 11 opções:** 12.386 coins.
+- **Posição mais frequente:** LB, com 9 cartas.
 - **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -40,18 +40,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Noussair Mazraoui | 95 | LB | — | 12.000 coins | -2.1% |
-| El Hadji Malick Diouf | 94 | LB | — | 14.000 coins | -6.8% |
-| Sidny Cabral | 93 | LB | — | 14.750 coins | -3.3% |
-| Joelle Wedemeyer | 89 | RB | GPFBL | 14.500 coins | +36.8% |
-| Sara Holmgaard | 88 | LB | — | 14.500 coins | -8.9% |
-| Selma Bacha | 87 | LB | D1 Arkema | 12.500 coins | -13.6% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 14.500 coins | -3.3% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12.500 coins | +2% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | +2% |
-| John Arne Riise | 86 | LB | Premier League | 13.250 coins | -8.9% |
+| Noussair Mazraoui | 95 | LB | — | 12.000 coins | +2.2% |
+| El Hadji Malick Diouf | 94 | LB | — | 14.000 coins | -1.8% |
+| Sidny Cabral | 93 | LB | — | 14.750 coins | -1.7% |
+| Gideon Mensah | 92 | LB | — | 14.750 coins | -7.8% |
+| Ona Batlle | 90 | RB | Liga F | 12.500 coins | 0% |
+| Sara Holmgaard | 88 | LB | — | 14.250 coins | -3.6% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.500 coins | -7.7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.000 coins | +8.3% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14.000 coins | -3.4% |
 | Carvajal | 85 | RB | LALIGA EA SPORTS | 1.500 coins | 0% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 13.000 coins | -3.7% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 13.000 coins | -13.3% |
 
 
 ## 📈 Destaques
@@ -62,9 +61,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sidny Cabral (93, LB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joelle Wedemeyer (89, RB)** da GPFBL, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Gideon Mensah (92, LB)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sara Holmgaard (88, LB)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ona Batlle (90, RB)** da Liga F, a apenas **12.500 coins**
 
 
 ## Como distribuir a banca
