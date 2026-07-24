@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:11:07.000Z
+pubDatetime: 2026-07-24T13:11:07.000Z
 title: "Mercado EA FC em 24/07: Laterais — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Ahmet Oğuz (86, EFL League One), com +59.8% em 24h, a 28k coins no Console (PS)."
+    a: "Maicon (89, Serie A TIM), com +59.3% em 24h, a 225k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Iván Córdoba (88), -42.3% em 24h, a 58k coins."
+    a: "Carolin Simon (90), -37.5% em 24h, a 74k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 122 cartas em alta contra 103 em queda (média 4.45%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 125 cartas em alta contra 96 em queda (média 5.74%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **24/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **122 cartas subiram** e **103 caíram** (80+ acima de 5k coins), variação média de **4.45%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **24/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **125 cartas subiram** e **96 caíram** (80+ acima de 5k coins), variação média de **5.74%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ahmet Oğuz (86) **+59.8%** · 🔴 **Maior baixa:** Iván Córdoba (88) **-42.3%**
+> 🟢 **Maior alta:** Maicon (89) **+59.3%** · 🔴 **Maior baixa:** Carolin Simon (90) **-37.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Laterais — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.2% entre as cartas que se moveram; o universo observado reúne 241 cartas.
-- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.6% entre as cartas que se moveram; o universo observado reúne 239 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ahmet Oğuz | 86 | EFL League One | 28k coins | +59.8% | +52.3% |
-| Ashley Cole | 92 | — | 80k coins | +59% | +1.3% |
-| Larrazabal | 84 | Liga Portugal | 60k coins | +53.8% | +63.3% |
-| Bixente Lizarazu | 90 | — | 50k coins | +53.8% | +11.1% |
-| Alphonso Davies | 89 | Bundesliga | 60k coins | +53.3% | +30.6% |
-| Dimitris Giannoulis | 83 | Bundesliga | 67k coins | +52.3% | +57.6% |
-| Gianluca Zambrotta | 86 | Icons | 90k coins | +51.8% | +34.6% |
-| Nerea Nevado | 89 | Liga F | 28k coins | +50% | +44.3% |
-| John Arne Riise | 88 | Premier League | 28k coins | +40.9% | -18.4% |
-| Jade Le Guilly | 89 | D1 Arkema | 47k coins | +39.2% | +34.7% |
+| Maicon | 89 | Serie A TIM | 225k coins | +59.3% | +1.7% |
+| Dimitris Giannoulis | 83 | Bundesliga | 70k coins | +59.1% | +58.2% |
+| Lewis Hall | 89 | Premier League | 100k coins | +57.9% | -7% |
+| Alphonso Davies | 89 | Bundesliga | 55k coins | +53.8% | +11.7% |
+| Joško Gvardiol | 86 | Premier League | 50k coins | +51.5% | +51.5% |
+| Larrazabal | 84 | Liga Portugal | 60k coins | +50.9% | +64.4% |
+| Míchel Salgado | 94 | — | 60k coins | +50% | +29% |
+| Jade Le Guilly | 89 | D1 Arkema | 44k coins | +48.3% | +43.5% |
+| Cafu | 92 | Icons | 262k coins | +48.3% | +25.7% |
+| Nerea Nevado | 89 | Liga F | 24k coins | +44.7% | +39.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com clima **comprador
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ahmet Oğuz (86)** subiu **+59.8%** em 24h, a **28k coins** (faixa do dia: 18.000–44k). Está em linha com a média de 7 dias (+8%).
+- **Maicon (89)** subiu **+59.3%** em 24h, a **225k coins** (faixa do dia: 133k–250k). Está em linha com a média de 7 dias (+4%).
 
-- **Ashley Cole (92)** subiu **+59%** em 24h, a **80k coins** (faixa do dia: 41k–80k). Está em linha com a média de 7 dias (+7%).
+- **Dimitris Giannoulis (83)** subiu **+59.1%** em 24h, a **70k coins** (faixa do dia: 44k–70k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Larrazabal (84)** subiu **+53.8%** em 24h, a **60k coins** (faixa do dia: 36k–60k). Está +36% acima da média de 7 dias (aquecida).
+- **Lewis Hall (89)** subiu **+57.9%** em 24h, a **100k coins** (faixa do dia: 52k–107k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Iván Córdoba | 88 | Serie A TIM | 58k coins | -42.3% | -50.4% |
-| Federico Dimarco | 87 | Serie A TIM | 44k coins | -37.5% | +34.1% |
-| Juan Cuadrado | 86 | Serie A TIM | 34k coins | -29.3% | -10.9% |
-| Javier Zanetti | 91 | Icons | 114k coins | -27.7% | -42% |
-| Diogo Dalot | 87 | Premier League | 51k coins | -27.1% | -53.6% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 300k coins | -26.8% | -14.3% |
-| Mërgim Vojvoda | 87 | — | 40k coins | -25.7% | +12% |
-| Konrad Laimer | 84 | Bundesliga | 51k coins | -25.3% | +48% |
-| Esmee Brugts | 96 | — | 192k coins | -24.9% | -44.4% |
-| Andrea Medina | 86 | Liga F | 20k coins | -24.5% | -15.3% |
+| Carolin Simon | 90 | GPFBL | 74k coins | -37.5% | -16% |
+| Olga Carmona | 87 | D1 Arkema | 22k coins | -36.4% | -11.1% |
+| Nuno Tavares | 91 | Serie A TIM | 63k coins | -31.5% | +5% |
+| Balde | 90 | LALIGA EA SPORTS | 50k coins | -30.3% | -39.2% |
+| Lewis Hall | 90 | — | 45k coins | -30.2% | +3.4% |
+| Esmee Brugts | 96 | — | 162k coins | -30% | -46.9% |
+| Andy Najar | 91 | — | 42k coins | -29.2% | +0.6% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 60k coins | -28% | +16.3% |
+| Lewis Miley | 89 | Premier League | 50k coins | -26.3% | +0.7% |
+| Marcus Pedersen | 89 | Serie A TIM | 31k coins | -25% | -14.3% |
 
 
 ### Análise das baixas
 
-- **Iván Córdoba (88)** caiu **-42.3%** em 24h, a **58k coins** (faixa do dia: 49k–103k). Está -44% abaixo da média de 7 dias (descontada).
+- **Carolin Simon (90)** caiu **-37.5%** em 24h, a **74k coins** (faixa do dia: 50k–84k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Federico Dimarco (87)** caiu **-37.5%** em 24h, a **44k coins** (faixa do dia: 42k–74k). Está -13% abaixo da média de 7 dias (descontada).
+- **Olga Carmona (87)** caiu **-36.4%** em 24h, a **22k coins** (faixa do dia: 13.250–22k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Juan Cuadrado (86)** caiu **-29.3%** em 24h, a **34k coins** (faixa do dia: 22k–44k). Está em linha com a média de 7 dias (-7%).
+- **Nuno Tavares (91)** caiu **-31.5%** em 24h, a **63k coins** (faixa do dia: 52k–92k). Está em linha com a média de 7 dias (-1%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ahmet Oğuz já avançou 59.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Maicon já avançou 59.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Iván Córdoba recuou -42.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Carolin Simon recuou -37.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Ahmet Oğuz (86, EFL League One), com +59.8% em 24h, a 28k coins no Console (PS).
+Maicon (89, Serie A TIM), com +59.3% em 24h, a 225k coins no Console (PS).
 
 **E a maior queda do dia?**
-Iván Córdoba (88), -42.3% em 24h, a 58k coins.
+Carolin Simon (90), -37.5% em 24h, a 74k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 122 cartas em alta contra 103 em queda (média 4.45%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 125 cartas em alta contra 96 em queda (média 5.74%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
